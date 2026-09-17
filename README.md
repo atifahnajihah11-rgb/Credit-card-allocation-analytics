@@ -8,7 +8,7 @@ The project was inspired by a manual credit-card allocation process observed dur
 
 ## Business Problem
 
-Credit-card allocation may require staff to manually scroll through many folio records to locate the transaction corresponding to a payment. This becomes time-consuming when only limited information—such as the last four card digits and amount—is available.
+Credit-card allocation may require staff to manually scroll through many folio records to locate the transaction corresponding to a payment. This becomes time-consuming when only limited information such as the last four card digits and amount is available.
 
 This project supports that workflow by:
 
