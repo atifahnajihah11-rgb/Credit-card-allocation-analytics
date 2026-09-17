@@ -35,11 +35,11 @@ This project supports that workflow by:
 
 ### Transaction Search
 
-![Successful transaction search](Screenshots/transaction-search-success.png)
+![Successful transaction search](Screenshots/Transaction_search.png)
 
 ### Daily Transaction View
 
-![Daily transaction view](Screenshots/daily-transaction-view.png)
+![Daily transaction view](Screenshots/Daily_transaction_view.png)
 
 ## Matching Method
 
