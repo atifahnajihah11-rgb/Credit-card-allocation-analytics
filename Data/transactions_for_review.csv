@@ -1,0 +1,34 @@
+transaction_id,guest_name,room_no,folio_no,transaction_date,amount_rm,card_last4,payment_method,allocation_status,missing_card,invalid_amount,invalid_date,data_quality_status
+TXN001299,Guest 0432,219,34302,,198.68,9145,Visa,Unmatched,False,False,True,Review Required
+TXN000615,Guest 0084,492,32059,2025-03-03,413.3,,Mastercard,Matched,True,False,False,Review Required
+TXN000586,Guest 0444,527,35790,2025-03-25,261.54,,Mastercard,Matched,True,False,False,Review Required
+TXN001212,Guest 0221,201,30040,2025-03-12,-638.86,5997,Mastercard,Matched,False,True,False,Review Required
+TXN000068,Guest 0726,395,32301,2025-02-03,-524.72,0957,Visa,Matched,False,True,False,Review Required
+TXN000728,Guest 0033,720,35964,2025-01-08,230.52,,Visa,Matched,True,False,False,Review Required
+TXN001546,Guest 0505,721,36806,2025-02-23,253.08,,Mastercard,Matched,True,False,False,Review Required
+TXN001176,Guest 0446,217,34842,2025-01-31,394.87,,Mastercard,Matched,True,False,False,Review Required
+TXN000119,Guest 0437,246,35043,2025-01-23,-312.9,6165,Visa,Matched,False,True,False,Review Required
+TXN001233,Guest 0542,310,34408,2025-03-29,403.37,,Mastercard,Pending,True,False,False,Review Required
+TXN000175,Guest 0187,380,34645,,465.36,8681,Visa,Unmatched,False,False,True,Review Required
+TXN001848,Guest 0288,572,39229,,508.37,5612,Visa,Matched,False,False,True,Review Required
+TXN000148,Guest 0749,698,37235,2025-01-22,548.21,,Mastercard,Matched,True,False,False,Review Required
+TXN001839,Guest 0768,295,37730,2025-01-21,163.97,,Visa,Matched,True,False,False,Review Required
+TXN001327,Guest 0129,496,32460,2025-03-03,315.97,,Mastercard,Matched,True,False,False,Review Required
+TXN000459,Guest 0380,182,33461,,570.53,3905,Mastercard,Matched,False,False,True,Review Required
+TXN001871,Guest 0037,651,30695,2025-01-04,916.66,,Mastercard,Matched,True,False,False,Review Required
+TXN001945,Guest 0105,278,39909,2025-02-04,636.96,,American Express,Unmatched,True,False,False,Review Required
+TXN000692,Guest 0486,147,36718,2025-03-13,-1261.12,7931,Mastercard,Matched,False,True,False,Review Required
+TXN000111,Guest 0225,103,38649,2025-01-25,-373.7,2368,Visa,Unmatched,False,True,False,Review Required
+TXN001559,Guest 0135,469,31045,2025-03-31,694.87,,Visa,Matched,True,False,False,Review Required
+TXN000268,Guest 0583,750,30429,2025-02-01,336.64,,Mastercard,Matched,True,False,False,Review Required
+TXN000450,Guest 0138,728,31390,2025-01-26,365.24,,Mastercard,Matched,True,False,False,Review Required
+TXN000698,Guest 0335,163,37738,2025-02-23,-494.87,8136,Visa,Unmatched,False,True,False,Review Required
+TXN000714,Guest 0417,442,35605,2025-03-10,435.7,,Mastercard,Matched,True,False,False,Review Required
+TXN001382,Guest 0630,764,30389,2025-01-26,1180.79,,American Express,Matched,True,False,False,Review Required
+TXN001734,Guest 0747,387,35638,2025-03-19,160.17,,Mastercard,Pending,True,False,False,Review Required
+TXN000741,Guest 0149,286,30023,2025-03-15,-489.56,6208,Mastercard,Matched,False,True,False,Review Required
+TXN000269,Guest 0095,132,32741,2025-02-25,558.62,,Visa,Matched,True,False,False,Review Required
+TXN000727,Guest 0110,169,38637,2025-03-06,529.68,,American Express,Matched,True,False,False,Review Required
+TXN001322,Guest 0130,688,32126,,375.61,8563,Visa,Matched,False,False,True,Review Required
+TXN001013,Guest 0037,519,37427,2025-01-23,-370.33,6997,Mastercard,Matched,False,True,False,Review Required
+TXN000792,Guest 0125,793,39269,2025-02-10,447.82,,Visa,Matched,True,False,False,Review Required

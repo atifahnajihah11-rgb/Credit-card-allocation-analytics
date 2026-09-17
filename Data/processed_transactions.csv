@@ -1,0 +1,2001 @@
+transaction_id,guest_name,room_no,folio_no,transaction_date,amount_rm,card_last4,payment_method,allocation_status,missing_card,invalid_amount,invalid_date,data_quality_status
+TXN001199,Guest 0784,498,32386,2025-03-14,727.43,7421,Visa,Pending,False,False,False,Valid
+TXN000527,Guest 0375,114,30144,2025-03-25,1273.31,1389,Visa,Matched,False,False,False,Valid
+TXN000394,Guest 0177,148,35550,2025-02-23,814.75,9635,Visa,Matched,False,False,False,Valid
+TXN001408,Guest 0511,668,36843,2025-03-20,804.24,4383,Mastercard,Matched,False,False,False,Valid
+TXN000434,Guest 0252,180,33548,2025-01-12,826.32,8010,Visa,Matched,False,False,False,Valid
+TXN001721,Guest 0512,786,30159,2025-01-08,645.94,2365,American Express,Matched,False,False,False,Valid
+TXN001091,Guest 0275,721,36532,2025-02-15,458.22,7810,Visa,Unmatched,False,False,False,Valid
+TXN000430,Guest 0217,745,31464,2025-03-06,344.12,8383,Mastercard,Pending,False,False,False,Valid
+TXN001800,Guest 0044,394,31923,2025-02-16,565.04,5953,Visa,Matched,False,False,False,Valid
+TXN000531,Guest 0733,122,30638,2025-02-23,206.7,0659,Mastercard,Matched,False,False,False,Valid
+TXN001728,Guest 0422,173,33437,2025-02-21,122.43,7497,American Express,Matched,False,False,False,Valid
+TXN001454,Guest 0279,649,39618,2025-01-23,480.92,5479,Mastercard,Matched,False,False,False,Valid
+TXN001294,Guest 0232,610,33500,2025-01-01,342.72,1231,Mastercard,Matched,False,False,False,Valid
+TXN001619,Guest 0349,732,32556,2025-01-11,572.7,3322,American Express,Matched,False,False,False,Valid
+TXN001023,Guest 0310,578,36026,2025-03-20,649.37,1092,Visa,Matched,False,False,False,Valid
+TXN000679,Guest 0464,557,39026,2025-02-17,588.89,4188,Visa,Pending,False,False,False,Valid
+TXN001129,Guest 0404,574,32933,2025-02-20,659.96,7229,Visa,Matched,False,False,False,Valid
+TXN000125,Guest 0597,652,31387,2025-03-18,615.84,2015,Visa,Pending,False,False,False,Valid
+TXN001474,Guest 0709,227,32550,2025-01-19,308.92,7192,Visa,Unmatched,False,False,False,Valid
+TXN000463,Guest 0380,512,32379,2025-03-09,189.6,7569,Mastercard,Matched,False,False,False,Valid
+TXN001857,Guest 0288,432,30990,2025-02-03,368.31,0028,Mastercard,Matched,False,False,False,Valid
+TXN001970,Guest 0495,147,33720,2025-01-14,312.35,6259,Visa,Matched,False,False,False,Valid
+TXN001002,Guest 0538,124,34140,2025-03-08,423.2,2402,American Express,Matched,False,False,False,Valid
+TXN001207,Guest 0800,594,39867,2025-02-16,1102.76,2910,Visa,Matched,False,False,False,Valid
+TXN001705,Guest 0756,318,39378,2025-03-24,306.22,8394,Visa,Matched,False,False,False,Valid
+TXN001299,Guest 0432,219,34302,,198.68,9145,Visa,Unmatched,False,False,True,Review Required
+TXN001396,Guest 0637,123,30473,2025-02-23,858.64,4554,Visa,Unmatched,False,False,False,Valid
+TXN001840,Guest 0763,596,34305,2025-02-19,195.28,7736,Mastercard,Matched,False,False,False,Valid
+TXN000545,Guest 0645,412,31732,2025-03-16,212.87,2780,American Express,Matched,False,False,False,Valid
+TXN001957,Guest 0417,253,36871,2025-02-17,319.21,9836,Mastercard,Matched,False,False,False,Valid
+TXN000974,Guest 0786,640,36763,2025-02-12,517.81,5870,Visa,Matched,False,False,False,Valid
+TXN001710,Guest 0680,630,36038,2025-01-20,421.37,8171,Mastercard,Matched,False,False,False,Valid
+TXN000030,Guest 0275,390,32786,2025-02-09,577.29,8700,Mastercard,Matched,False,False,False,Valid
+TXN000544,Guest 0305,529,35947,2025-01-16,389.25,8652,Mastercard,Matched,False,False,False,Valid
+TXN001451,Guest 0380,278,37783,2025-01-27,352.09,8304,Mastercard,Matched,False,False,False,Valid
+TXN000810,Guest 0152,664,38779,2025-03-31,366.17,7467,Mastercard,Matched,False,False,False,Valid
+TXN000775,Guest 0437,289,39388,2025-03-18,316.47,8714,Visa,Matched,False,False,False,Valid
+TXN000057,Guest 0588,692,30045,2025-02-19,390.84,1073,Mastercard,Matched,False,False,False,Valid
+TXN000520,Guest 0798,400,30429,2025-02-23,207.52,1567,Mastercard,Matched,False,False,False,Valid
+TXN000585,Guest 0281,511,37287,2025-02-06,297.56,3337,Visa,Matched,False,False,False,Valid
+TXN000671,Guest 0634,168,31873,2025-03-27,342.95,5196,American Express,Pending,False,False,False,Valid
+TXN000252,Guest 0442,370,31930,2025-02-14,572.95,7067,American Express,Matched,False,False,False,Valid
+TXN000100,Guest 0198,336,32486,2025-01-13,577.28,5528,Mastercard,Matched,False,False,False,Valid
+TXN000568,Guest 0507,592,30942,2025-01-23,591.07,7462,Mastercard,Matched,False,False,False,Valid
+TXN000589,Guest 0777,524,32379,2025-03-17,342.68,8772,Visa,Matched,False,False,False,Valid
+TXN000299,Guest 0178,126,32961,2025-01-26,448.03,0516,Visa,Matched,False,False,False,Valid
+TXN001556,Guest 0358,460,30782,2025-01-15,412.8,6199,Visa,Matched,False,False,False,Valid
+TXN000423,Guest 0084,635,31742,2025-03-10,1224.51,6584,Mastercard,Matched,False,False,False,Valid
+TXN001780,Guest 0358,189,32547,2025-03-03,947.75,7082,Visa,Matched,False,False,False,Valid
+TXN001525,Guest 0233,529,34038,2025-02-24,245.28,1040,Mastercard,Matched,False,False,False,Valid
+TXN001862,Guest 0516,516,35314,2025-01-27,484.06,9655,Mastercard,Matched,False,False,False,Valid
+TXN001693,Guest 0157,720,33740,2025-03-01,1129.36,5847,Mastercard,Matched,False,False,False,Valid
+TXN001544,Guest 0620,659,39612,2025-02-21,276.25,4898,Visa,Matched,False,False,False,Valid
+TXN000496,Guest 0165,539,38019,2025-02-07,1044.09,2788,Mastercard,Matched,False,False,False,Valid
+TXN001289,Guest 0140,286,34387,2025-01-10,463.69,0252,Mastercard,Matched,False,False,False,Valid
+TXN001476,Guest 0173,471,37247,2025-01-28,549.3,7582,Mastercard,Pending,False,False,False,Valid
+TXN000071,Guest 0152,168,31288,2025-03-13,671.41,5207,Visa,Pending,False,False,False,Valid
+TXN000276,Guest 0340,641,30568,2025-02-13,1628.97,6228,American Express,Matched,False,False,False,Valid
+TXN001054,Guest 0287,739,31085,2025-03-28,629.31,7576,Mastercard,Matched,False,False,False,Valid
+TXN001035,Guest 0080,115,38487,2025-01-06,385.51,6220,Mastercard,Matched,False,False,False,Valid
+TXN000066,Guest 0408,342,32538,2025-01-30,1136.19,0832,Visa,Matched,False,False,False,Valid
+TXN001660,Guest 0395,615,36243,2025-01-23,228.81,0628,Mastercard,Unmatched,False,False,False,Valid
+TXN001606,Guest 0109,143,33123,2025-03-22,317.04,4077,Visa,Matched,False,False,False,Valid
+TXN001086,Guest 0289,338,38858,2025-03-17,307.2,8033,Mastercard,Matched,False,False,False,Valid
+TXN001232,Guest 0171,446,36945,2025-03-08,577.02,8062,Visa,Matched,False,False,False,Valid
+TXN000395,Guest 0379,456,35788,2025-03-06,299.68,3542,Mastercard,Matched,False,False,False,Valid
+TXN000924,Guest 0433,575,37895,2025-01-14,152.78,1793,Mastercard,Matched,False,False,False,Valid
+TXN001765,Guest 0331,320,34675,2025-02-21,452.84,2709,Visa,Matched,False,False,False,Valid
+TXN000112,Guest 0540,436,34955,2025-03-12,447.13,9797,Mastercard,Matched,False,False,False,Valid
+TXN000353,Guest 0572,486,31279,2025-01-27,523.48,1550,Mastercard,Matched,False,False,False,Valid
+TXN001653,Guest 0328,140,32860,2025-01-05,1089.67,8985,Visa,Matched,False,False,False,Valid
+TXN000860,Guest 0357,630,38216,2025-03-14,798.6,7573,American Express,Matched,False,False,False,Valid
+TXN001246,Guest 0648,260,34509,2025-03-30,939.05,4350,Mastercard,Matched,False,False,False,Valid
+TXN001982,Guest 0071,653,39796,2025-02-26,391.84,1973,Visa,Pending,False,False,False,Valid
+TXN001229,Guest 0591,161,39164,2025-01-14,559.71,7190,Visa,Pending,False,False,False,Valid
+TXN001406,Guest 0282,372,35740,2025-01-14,404.44,9099,American Express,Matched,False,False,False,Valid
+TXN001270,Guest 0787,465,35890,2025-01-05,959.52,3528,Visa,Matched,False,False,False,Valid
+TXN001062,Guest 0247,534,30487,2025-03-03,537.42,6017,American Express,Matched,False,False,False,Valid
+TXN000629,Guest 0494,633,34364,2025-02-15,269.61,9019,American Express,Matched,False,False,False,Valid
+TXN000412,Guest 0040,511,34167,2025-01-21,2352.14,6508,Visa,Matched,False,False,False,Valid
+TXN001445,Guest 0735,276,36763,2025-01-13,769.15,9121,Mastercard,Unmatched,False,False,False,Valid
+TXN000536,Guest 0783,455,37634,2025-01-14,254.39,4887,Visa,Matched,False,False,False,Valid
+TXN001337,Guest 0419,617,39696,2025-02-27,796.5,3606,Mastercard,Matched,False,False,False,Valid
+TXN001191,Guest 0003,613,34755,2025-02-07,264.84,0151,American Express,Matched,False,False,False,Valid
+TXN001517,Guest 0136,468,30126,2025-02-13,660.86,8538,Mastercard,Unmatched,False,False,False,Valid
+TXN000070,Guest 0336,171,39853,2025-02-12,387.76,8003,Visa,Matched,False,False,False,Valid
+TXN001125,Guest 0353,181,30758,2025-03-17,887.69,1657,American Express,Matched,False,False,False,Valid
+TXN000555,Guest 0786,596,34163,2025-03-30,810.36,2614,American Express,Pending,False,False,False,Valid
+TXN000975,Guest 0014,661,33055,2025-01-14,315.58,0345,Mastercard,Matched,False,False,False,Valid
+TXN001300,Guest 0643,692,38591,2025-01-03,257.16,2341,American Express,Matched,False,False,False,Valid
+TXN001252,Guest 0598,396,35606,2025-02-07,139.14,4356,Visa,Matched,False,False,False,Valid
+TXN001991,Guest 0604,135,32423,2025-02-17,565.99,1540,Visa,Matched,False,False,False,Valid
+TXN000582,Guest 0370,780,33527,2025-03-17,373.85,9055,American Express,Matched,False,False,False,Valid
+TXN001906,Guest 0611,204,39443,2025-01-23,724.78,5285,Mastercard,Pending,False,False,False,Valid
+TXN001963,Guest 0526,680,35957,2025-01-13,491.51,2669,Visa,Matched,False,False,False,Valid
+TXN000722,Guest 0535,681,33180,2025-03-25,252.56,7585,Visa,Matched,False,False,False,Valid
+TXN001193,Guest 0537,447,35672,2025-01-16,275.13,2996,Visa,Matched,False,False,False,Valid
+TXN001745,Guest 0194,112,31633,2025-01-19,683.63,4636,Mastercard,Matched,False,False,False,Valid
+TXN000786,Guest 0095,352,39741,2025-02-22,296.27,8128,Visa,Matched,False,False,False,Valid
+TXN001090,Guest 0374,469,33300,2025-01-13,684.97,3490,Visa,Matched,False,False,False,Valid
+TXN001470,Guest 0694,291,31672,2025-01-06,374.6,5049,Mastercard,Unmatched,False,False,False,Valid
+TXN001549,Guest 0247,254,34691,2025-02-14,160.64,3714,Visa,Unmatched,False,False,False,Valid
+TXN000766,Guest 0428,206,39223,2025-03-12,484.61,9166,Mastercard,Matched,False,False,False,Valid
+TXN001302,Guest 0213,795,32973,2025-02-06,213.84,6230,Mastercard,Matched,False,False,False,Valid
+TXN001947,Guest 0019,283,37168,2025-01-15,280.67,5949,Mastercard,Matched,False,False,False,Valid
+TXN001014,Guest 0590,758,34965,2025-01-29,703.01,1445,American Express,Matched,False,False,False,Valid
+TXN000487,Guest 0196,480,37866,2025-01-31,235.32,6430,Mastercard,Matched,False,False,False,Valid
+TXN000129,Guest 0052,483,33195,2025-02-21,1494.23,0738,Visa,Matched,False,False,False,Valid
+TXN001243,Guest 0719,736,32454,2025-03-28,1091.14,6387,Visa,Matched,False,False,False,Valid
+TXN001687,Guest 0085,631,30705,2025-02-08,574.57,2225,Visa,Matched,False,False,False,Valid
+TXN001329,Guest 0315,229,33919,2025-03-02,274.4,3831,Visa,Matched,False,False,False,Valid
+TXN000856,Guest 0062,584,38784,2025-03-18,1078.69,2468,Mastercard,Matched,False,False,False,Valid
+TXN000916,Guest 0351,171,39023,2025-02-11,323.05,5887,Mastercard,Matched,False,False,False,Valid
+TXN000362,Guest 0602,649,39370,2025-03-22,402.92,4899,Visa,Matched,False,False,False,Valid
+TXN001786,Guest 0444,532,35158,2025-01-22,982.89,5965,Mastercard,Matched,False,False,False,Valid
+TXN001230,Guest 0669,290,36025,2025-01-26,574.64,7156,Mastercard,Matched,False,False,False,Valid
+TXN000257,Guest 0638,329,36242,2025-03-02,393.84,9930,Mastercard,Pending,False,False,False,Valid
+TXN001738,Guest 0423,751,36201,2025-01-09,149.41,5945,Visa,Matched,False,False,False,Valid
+TXN001348,Guest 0103,430,33458,2025-03-05,223.49,4239,American Express,Unmatched,False,False,False,Valid
+TXN001188,Guest 0323,187,30868,2025-02-23,387.99,6282,Mastercard,Matched,False,False,False,Valid
+TXN000343,Guest 0437,427,36585,2025-02-25,384.81,2758,Mastercard,Matched,False,False,False,Valid
+TXN001950,Guest 0140,454,30763,2025-01-29,440.65,5221,American Express,Matched,False,False,False,Valid
+TXN001757,Guest 0510,331,31436,2025-02-01,773.65,0491,Mastercard,Matched,False,False,False,Valid
+TXN001041,Guest 0317,346,35278,2025-03-05,439.7,0316,Visa,Matched,False,False,False,Valid
+TXN001831,Guest 0718,331,31780,2025-02-01,167.34,2276,American Express,Unmatched,False,False,False,Valid
+TXN001833,Guest 0647,675,34040,2025-02-22,679.35,8520,Visa,Unmatched,False,False,False,Valid
+TXN000308,Guest 0123,659,31237,2025-02-19,952.33,1471,Visa,Matched,False,False,False,Valid
+TXN001567,Guest 0338,255,34184,2025-03-29,517.0,2700,Mastercard,Matched,False,False,False,Valid
+TXN000768,Guest 0795,107,35568,2025-02-13,921.96,5991,American Express,Matched,False,False,False,Valid
+TXN000969,Guest 0576,126,35472,2025-03-24,746.45,5076,Mastercard,Matched,False,False,False,Valid
+TXN001303,Guest 0482,224,39428,2025-03-04,549.42,4801,Visa,Matched,False,False,False,Valid
+TXN000234,Guest 0111,285,31594,2025-03-10,2980.14,4602,American Express,Matched,False,False,False,Valid
+TXN000232,Guest 0056,749,36324,2025-03-19,527.38,6024,Visa,Matched,False,False,False,Valid
+TXN001217,Guest 0005,650,36124,2025-02-15,336.72,2504,Visa,Matched,False,False,False,Valid
+TXN001804,Guest 0018,751,38102,2025-01-24,79.63,1191,Mastercard,Unmatched,False,False,False,Valid
+TXN001006,Guest 0297,765,30006,2025-03-24,245.04,0785,Mastercard,Matched,False,False,False,Valid
+TXN001346,Guest 0608,379,32962,2025-03-31,1005.34,1293,Mastercard,Matched,False,False,False,Valid
+TXN001068,Guest 0565,112,31643,2025-02-27,317.0,4790,Visa,Matched,False,False,False,Valid
+TXN000901,Guest 0406,342,30371,2025-01-01,326.15,0677,Mastercard,Pending,False,False,False,Valid
+TXN000809,Guest 0634,373,30498,2025-02-05,718.9,9851,Mastercard,Matched,False,False,False,Valid
+TXN001183,Guest 0598,546,30605,2025-03-04,527.19,5941,Mastercard,Matched,False,False,False,Valid
+TXN000355,Guest 0248,438,37381,2025-03-29,344.9,2274,Visa,Matched,False,False,False,Valid
+TXN000995,Guest 0617,550,37480,2025-02-17,452.22,0430,Visa,Matched,False,False,False,Valid
+TXN001306,Guest 0204,669,33092,2025-03-02,350.6,1223,Mastercard,Matched,False,False,False,Valid
+TXN001259,Guest 0452,568,31430,2025-02-18,157.72,5870,American Express,Matched,False,False,False,Valid
+TXN000306,Guest 0077,639,33538,2025-01-13,414.39,1860,Mastercard,Pending,False,False,False,Valid
+TXN000965,Guest 0588,761,30811,2025-03-27,211.98,7684,Visa,Matched,False,False,False,Valid
+TXN001680,Guest 0587,132,32829,2025-02-16,685.9,6223,Visa,Matched,False,False,False,Valid
+TXN001836,Guest 0580,698,35448,2025-01-13,638.76,5976,Visa,Matched,False,False,False,Valid
+TXN000783,Guest 0610,340,33970,2025-01-12,819.7,6272,Mastercard,Matched,False,False,False,Valid
+TXN000753,Guest 0467,664,36117,2025-01-08,182.63,2318,Mastercard,Matched,False,False,False,Valid
+TXN000533,Guest 0740,593,34993,2025-01-15,535.51,3501,Mastercard,Unmatched,False,False,False,Valid
+TXN001311,Guest 0411,737,38725,2025-02-17,725.1,4371,American Express,Matched,False,False,False,Valid
+TXN001269,Guest 0108,589,34724,2025-03-27,1427.38,3188,Visa,Matched,False,False,False,Valid
+TXN000615,Guest 0084,492,32059,2025-03-03,413.3,,Mastercard,Matched,True,False,False,Review Required
+TXN000121,Guest 0616,608,32304,2025-02-09,406.3,5161,Mastercard,Matched,False,False,False,Valid
+TXN001359,Guest 0150,147,38772,2025-01-10,194.63,6653,Mastercard,Matched,False,False,False,Valid
+TXN001038,Guest 0124,484,35433,2025-01-02,1260.37,8983,Mastercard,Matched,False,False,False,Valid
+TXN000793,Guest 0578,779,38511,2025-03-07,689.57,5099,Mastercard,Matched,False,False,False,Valid
+TXN000765,Guest 0164,406,34826,2025-02-02,606.08,5933,Visa,Matched,False,False,False,Valid
+TXN000782,Guest 0749,514,31382,2025-02-27,321.79,9108,Visa,Matched,False,False,False,Valid
+TXN000136,Guest 0549,779,31819,2025-01-28,201.56,8631,Visa,Matched,False,False,False,Valid
+TXN001324,Guest 0512,378,39083,2025-03-21,186.32,3113,Mastercard,Matched,False,False,False,Valid
+TXN000375,Guest 0560,313,31460,2025-03-21,691.47,0851,Visa,Matched,False,False,False,Valid
+TXN000317,Guest 0070,785,37827,2025-03-07,305.17,1461,Mastercard,Matched,False,False,False,Valid
+TXN001994,Guest 0229,558,30952,2025-02-27,372.29,3257,Visa,Matched,False,False,False,Valid
+TXN000255,Guest 0237,339,32530,2025-03-01,597.82,9721,Mastercard,Matched,False,False,False,Valid
+TXN000465,Guest 0372,412,31319,2025-01-01,238.66,4602,Mastercard,Pending,False,False,False,Valid
+TXN001467,Guest 0432,124,36600,2025-02-27,464.84,5773,Visa,Matched,False,False,False,Valid
+TXN000110,Guest 0227,327,36146,2025-03-05,759.11,9667,Mastercard,Matched,False,False,False,Valid
+TXN001610,Guest 0540,184,30201,2025-01-12,976.57,3369,Visa,Matched,False,False,False,Valid
+TXN000939,Guest 0723,307,37938,2025-02-11,732.38,0650,American Express,Matched,False,False,False,Valid
+TXN001875,Guest 0497,598,32900,2025-02-06,232.5,0789,Mastercard,Matched,False,False,False,Valid
+TXN000240,Guest 0708,268,32728,2025-02-26,1335.33,9809,Visa,Matched,False,False,False,Valid
+TXN001227,Guest 0464,318,30153,2025-01-10,331.38,9349,Mastercard,Matched,False,False,False,Valid
+TXN001834,Guest 0528,271,35187,2025-01-07,831.12,1731,Mastercard,Unmatched,False,False,False,Valid
+TXN001719,Guest 0546,105,34344,2025-02-07,556.28,4364,Visa,Matched,False,False,False,Valid
+TXN000213,Guest 0484,391,35796,2025-03-13,312.6,5113,Visa,Unmatched,False,False,False,Valid
+TXN001770,Guest 0267,484,39744,2025-01-18,550.37,7067,Visa,Pending,False,False,False,Valid
+TXN001442,Guest 0020,459,36382,2025-02-16,438.6,5829,Visa,Pending,False,False,False,Valid
+TXN001860,Guest 0352,588,39099,2025-03-08,1106.1,9688,Visa,Matched,False,False,False,Valid
+TXN000417,Guest 0496,430,32115,2025-03-29,266.86,7134,Visa,Matched,False,False,False,Valid
+TXN000352,Guest 0601,496,30401,2025-01-05,363.87,4855,Visa,Matched,False,False,False,Valid
+TXN001426,Guest 0784,275,39922,2025-03-15,1127.96,6778,Mastercard,Matched,False,False,False,Valid
+TXN000904,Guest 0495,604,35592,2025-03-21,360.44,5792,Mastercard,Matched,False,False,False,Valid
+TXN000345,Guest 0471,362,31739,2025-03-23,581.33,0467,American Express,Matched,False,False,False,Valid
+TXN001079,Guest 0165,665,32308,2025-02-07,552.51,6747,Visa,Matched,False,False,False,Valid
+TXN000282,Guest 0283,726,33033,2025-02-13,1432.13,1360,Visa,Matched,False,False,False,Valid
+TXN001044,Guest 0424,494,38682,2025-02-03,282.48,6451,Visa,Unmatched,False,False,False,Valid
+TXN000530,Guest 0462,493,33386,2025-03-24,699.2,5058,Visa,Matched,False,False,False,Valid
+TXN001138,Guest 0382,558,38372,2025-02-02,948.43,2669,Mastercard,Matched,False,False,False,Valid
+TXN001627,Guest 0617,393,32215,2025-02-22,542.63,4634,Mastercard,Matched,False,False,False,Valid
+TXN000577,Guest 0217,159,30380,2025-03-25,460.59,5838,American Express,Matched,False,False,False,Valid
+TXN001274,Guest 0323,425,38221,2025-03-02,426.7,8859,American Express,Matched,False,False,False,Valid
+TXN000212,Guest 0620,597,36760,2025-03-06,297.83,4512,Mastercard,Matched,False,False,False,Valid
+TXN000351,Guest 0432,526,33411,2025-02-17,1023.65,8538,Visa,Matched,False,False,False,Valid
+TXN000325,Guest 0598,779,39437,2025-03-29,262.82,6313,Visa,Matched,False,False,False,Valid
+TXN001889,Guest 0112,565,38313,2025-01-06,1556.14,1529,American Express,Unmatched,False,False,False,Valid
+TXN000556,Guest 0083,252,35333,2025-02-15,317.56,4030,Mastercard,Matched,False,False,False,Valid
+TXN000708,Guest 0244,484,33289,2025-02-21,1110.31,1946,Visa,Matched,False,False,False,Valid
+TXN001621,Guest 0797,116,39368,2025-01-24,393.38,8312,Visa,Matched,False,False,False,Valid
+TXN001331,Guest 0492,494,32500,2025-02-10,297.39,6253,Mastercard,Matched,False,False,False,Valid
+TXN000050,Guest 0528,420,33141,2025-03-12,765.69,5234,Visa,Matched,False,False,False,Valid
+TXN000211,Guest 0560,206,30598,2025-01-24,302.32,5482,Mastercard,Matched,False,False,False,Valid
+TXN001101,Guest 0293,485,34595,2025-02-13,284.74,8461,Mastercard,Unmatched,False,False,False,Valid
+TXN001358,Guest 0702,622,32781,2025-01-13,420.84,5779,American Express,Matched,False,False,False,Valid
+TXN001997,Guest 0021,698,37182,2025-02-19,1147.06,4851,Visa,Matched,False,False,False,Valid
+TXN000987,Guest 0599,776,35293,2025-02-25,278.62,6679,Mastercard,Matched,False,False,False,Valid
+TXN001117,Guest 0503,279,35114,2025-03-31,352.67,3045,American Express,Unmatched,False,False,False,Valid
+TXN001285,Guest 0332,794,31137,2025-02-04,533.88,8823,Mastercard,Pending,False,False,False,Valid
+TXN000174,Guest 0612,349,32052,2025-03-07,715.76,1905,Mastercard,Matched,False,False,False,Valid
+TXN000290,Guest 0334,316,38270,2025-02-12,180.97,4155,Mastercard,Matched,False,False,False,Valid
+TXN001740,Guest 0667,126,34670,2025-01-19,279.98,7511,American Express,Pending,False,False,False,Valid
+TXN000248,Guest 0142,235,34541,2025-02-07,327.72,4255,American Express,Matched,False,False,False,Valid
+TXN000238,Guest 0217,176,32706,2025-02-08,161.97,6985,Mastercard,Matched,False,False,False,Valid
+TXN001287,Guest 0105,301,36582,2025-03-23,969.65,3687,Visa,Pending,False,False,False,Valid
+TXN000721,Guest 0502,500,38619,2025-01-13,303.68,3952,Visa,Matched,False,False,False,Valid
+TXN000638,Guest 0595,447,30855,2025-01-27,451.09,7020,Visa,Matched,False,False,False,Valid
+TXN000024,Guest 0480,301,38893,2025-03-25,675.46,1545,Mastercard,Matched,False,False,False,Valid
+TXN000603,Guest 0625,319,34751,2025-03-08,385.94,1023,Visa,Matched,False,False,False,Valid
+TXN000064,Guest 0576,461,30644,2025-03-29,503.04,5727,Mastercard,Matched,False,False,False,Valid
+TXN001724,Guest 0795,468,30282,2025-03-07,1028.3,6666,Mastercard,Matched,False,False,False,Valid
+TXN000189,Guest 0370,130,31291,2025-01-22,603.47,6886,Mastercard,Pending,False,False,False,Valid
+TXN000706,Guest 0228,265,30387,2025-02-20,309.11,5246,Visa,Matched,False,False,False,Valid
+TXN001935,Guest 0147,686,36637,2025-01-14,443.1,5234,Mastercard,Matched,False,False,False,Valid
+TXN001336,Guest 0183,150,31285,2025-03-31,700.8,6252,American Express,Matched,False,False,False,Valid
+TXN001238,Guest 0796,676,33205,2025-01-12,474.37,8447,Visa,Matched,False,False,False,Valid
+TXN001966,Guest 0682,170,35812,2025-03-08,451.4,1238,Mastercard,Matched,False,False,False,Valid
+TXN001468,Guest 0207,334,35791,2025-02-04,730.37,6553,Mastercard,Matched,False,False,False,Valid
+TXN000515,Guest 0083,738,38098,2025-03-28,203.99,0682,American Express,Matched,False,False,False,Valid
+TXN000197,Guest 0233,487,36188,2025-01-31,367.45,8167,Visa,Matched,False,False,False,Valid
+TXN000472,Guest 0080,713,31325,2025-03-14,215.2,5046,Mastercard,Matched,False,False,False,Valid
+TXN001936,Guest 0680,299,31581,2025-01-15,580.48,0269,Visa,Matched,False,False,False,Valid
+TXN001286,Guest 0375,502,38158,2025-01-05,610.09,8181,Mastercard,Matched,False,False,False,Valid
+TXN000271,Guest 0257,659,35060,2025-01-27,140.48,0218,Visa,Matched,False,False,False,Valid
+TXN000439,Guest 0676,341,30749,2025-01-08,272.72,8144,Visa,Unmatched,False,False,False,Valid
+TXN000101,Guest 0731,165,32066,2025-03-16,281.21,7463,Mastercard,Matched,False,False,False,Valid
+TXN001667,Guest 0472,242,35658,2025-03-09,827.69,7279,Visa,Matched,False,False,False,Valid
+TXN001539,Guest 0423,671,32926,2025-03-05,184.7,3677,Mastercard,Matched,False,False,False,Valid
+TXN001954,Guest 0372,558,30547,2025-02-11,865.27,2510,Visa,Matched,False,False,False,Valid
+TXN000221,Guest 0757,179,32813,2025-01-12,396.38,0057,American Express,Matched,False,False,False,Valid
+TXN000367,Guest 0270,217,38260,2025-02-12,553.66,4384,American Express,Matched,False,False,False,Valid
+TXN001135,Guest 0569,608,30160,2025-02-25,548.31,9405,American Express,Matched,False,False,False,Valid
+TXN000675,Guest 0745,682,35627,2025-02-25,483.86,9199,Visa,Matched,False,False,False,Valid
+TXN001059,Guest 0312,279,39674,2025-02-08,355.95,3521,Mastercard,Matched,False,False,False,Valid
+TXN001034,Guest 0089,202,36094,2025-01-29,334.66,5017,Mastercard,Matched,False,False,False,Valid
+TXN000369,Guest 0130,748,30262,2025-01-02,679.53,0964,Visa,Pending,False,False,False,Valid
+TXN000614,Guest 0478,465,30618,2025-02-04,531.18,9427,Visa,Matched,False,False,False,Valid
+TXN001266,Guest 0514,721,35988,2025-01-04,263.47,8244,American Express,Matched,False,False,False,Valid
+TXN001375,Guest 0538,619,33702,2025-03-21,257.97,2190,Mastercard,Matched,False,False,False,Valid
+TXN001648,Guest 0482,769,30310,2025-03-01,487.98,2264,Visa,Unmatched,False,False,False,Valid
+TXN000307,Guest 0261,617,38072,2025-01-28,417.36,2885,Visa,Matched,False,False,False,Valid
+TXN000484,Guest 0257,143,35629,2025-03-13,901.91,9078,Visa,Unmatched,False,False,False,Valid
+TXN001629,Guest 0677,411,37199,2025-02-04,272.64,3041,Mastercard,Matched,False,False,False,Valid
+TXN000731,Guest 0769,743,36893,2025-03-07,343.94,0959,Visa,Matched,False,False,False,Valid
+TXN000116,Guest 0163,432,31516,2025-02-21,190.88,3677,Mastercard,Matched,False,False,False,Valid
+TXN001953,Guest 0583,236,39095,2025-01-07,862.25,0799,Visa,Pending,False,False,False,Valid
+TXN001404,Guest 0788,473,32440,2025-01-30,252.52,7773,Visa,Matched,False,False,False,Valid
+TXN000483,Guest 0145,685,39461,2025-01-23,492.9,8564,Visa,Matched,False,False,False,Valid
+TXN001605,Guest 0740,526,30767,2025-01-12,191.03,4646,Visa,Matched,False,False,False,Valid
+TXN000652,Guest 0704,790,38468,2025-02-28,223.33,2960,Mastercard,Pending,False,False,False,Valid
+TXN001624,Guest 0353,711,31375,2025-01-02,623.64,0852,Visa,Pending,False,False,False,Valid
+TXN001005,Guest 0564,641,33850,2025-01-12,542.56,9259,Mastercard,Matched,False,False,False,Valid
+TXN001275,Guest 0195,530,30732,2025-03-10,431.31,3536,Visa,Matched,False,False,False,Valid
+TXN000079,Guest 0207,273,35769,2025-02-20,240.28,6836,Visa,Matched,False,False,False,Valid
+TXN000830,Guest 0102,441,32995,2025-01-03,731.36,8553,Mastercard,Matched,False,False,False,Valid
+TXN000033,Guest 0073,288,37693,2025-01-09,475.02,7939,Visa,Matched,False,False,False,Valid
+TXN000915,Guest 0326,644,31989,2025-02-23,1000.59,6805,Mastercard,Matched,False,False,False,Valid
+TXN000937,Guest 0615,772,34831,2025-01-15,435.39,3404,Mastercard,Matched,False,False,False,Valid
+TXN000383,Guest 0735,347,36076,2025-03-27,349.67,4263,Visa,Matched,False,False,False,Valid
+TXN000631,Guest 0749,204,34855,2025-03-08,242.59,6252,Mastercard,Matched,False,False,False,Valid
+TXN000164,Guest 0731,240,31139,2025-02-06,408.9,7251,Mastercard,Matched,False,False,False,Valid
+TXN000204,Guest 0269,192,31954,2025-03-04,606.18,3584,Mastercard,Unmatched,False,False,False,Valid
+TXN001356,Guest 0353,672,35715,2025-02-14,597.27,7519,Visa,Matched,False,False,False,Valid
+TXN001194,Guest 0154,163,38694,2025-03-05,1078.59,0257,American Express,Matched,False,False,False,Valid
+TXN001576,Guest 0549,477,31278,2025-01-29,971.96,9833,Visa,Matched,False,False,False,Valid
+TXN000917,Guest 0497,174,30307,2025-02-18,676.51,8888,Mastercard,Matched,False,False,False,Valid
+TXN001250,Guest 0317,500,36684,2025-03-30,585.35,1371,Mastercard,Matched,False,False,False,Valid
+TXN001981,Guest 0361,523,38813,2025-03-01,730.3,0191,American Express,Matched,False,False,False,Valid
+TXN001713,Guest 0646,425,33791,2025-03-21,1797.67,8321,Mastercard,Unmatched,False,False,False,Valid
+TXN001700,Guest 0608,364,32833,2025-03-28,471.43,3600,Mastercard,Matched,False,False,False,Valid
+TXN001640,Guest 0496,746,38409,2025-01-25,767.41,6809,Mastercard,Unmatched,False,False,False,Valid
+TXN001384,Guest 0731,367,36002,2025-03-22,272.17,0606,Mastercard,Matched,False,False,False,Valid
+TXN000219,Guest 0230,469,30235,2025-02-10,777.07,1523,Visa,Unmatched,False,False,False,Valid
+TXN001946,Guest 0587,190,35218,2025-01-11,200.33,4827,Mastercard,Matched,False,False,False,Valid
+TXN001588,Guest 0552,791,31535,2025-01-08,541.22,6012,Mastercard,Matched,False,False,False,Valid
+TXN000862,Guest 0745,679,35625,2025-03-25,1075.44,4652,Visa,Unmatched,False,False,False,Valid
+TXN000354,Guest 0372,389,38670,2025-02-09,825.09,3115,Mastercard,Matched,False,False,False,Valid
+TXN000713,Guest 0753,720,35649,2025-03-07,242.67,1114,Visa,Matched,False,False,False,Valid
+TXN000060,Guest 0323,515,33779,2025-03-03,251.03,1918,American Express,Pending,False,False,False,Valid
+TXN001084,Guest 0193,406,35440,2025-02-20,430.0,4348,Visa,Matched,False,False,False,Valid
+TXN000298,Guest 0394,639,38584,2025-02-09,387.02,9897,Visa,Matched,False,False,False,Valid
+TXN000074,Guest 0274,759,36177,2025-01-12,387.38,2415,Visa,Unmatched,False,False,False,Valid
+TXN000163,Guest 0323,494,32248,2025-02-06,395.13,3112,Mastercard,Matched,False,False,False,Valid
+TXN000964,Guest 0054,265,37052,2025-01-20,492.35,7046,Visa,Pending,False,False,False,Valid
+TXN001548,Guest 0706,135,38178,2025-03-18,610.04,5743,Visa,Matched,False,False,False,Valid
+TXN001504,Guest 0162,607,35115,2025-01-30,905.01,4930,Mastercard,Matched,False,False,False,Valid
+TXN001053,Guest 0602,773,36791,2025-02-15,309.56,9392,Mastercard,Matched,False,False,False,Valid
+TXN001732,Guest 0688,187,33241,2025-03-23,615.02,3493,American Express,Matched,False,False,False,Valid
+TXN001024,Guest 0159,394,37072,2025-03-17,270.1,1181,American Express,Matched,False,False,False,Valid
+TXN000046,Guest 0794,110,34742,2025-03-29,356.29,1829,Mastercard,Matched,False,False,False,Valid
+TXN001264,Guest 0690,448,39651,2025-03-16,423.85,5937,Visa,Matched,False,False,False,Valid
+TXN001108,Guest 0296,765,35192,2025-03-23,354.04,7321,Visa,Matched,False,False,False,Valid
+TXN000433,Guest 0130,728,32540,2025-03-16,145.29,1568,Mastercard,Matched,False,False,False,Valid
+TXN001658,Guest 0738,668,39356,2025-03-20,589.94,1087,Visa,Matched,False,False,False,Valid
+TXN000077,Guest 0372,785,33016,2025-01-30,286.22,0344,Mastercard,Matched,False,False,False,Valid
+TXN001932,Guest 0061,480,30903,2025-02-13,203.43,3815,Mastercard,Matched,False,False,False,Valid
+TXN001425,Guest 0489,311,39577,2025-01-24,526.93,9598,Visa,Matched,False,False,False,Valid
+TXN001473,Guest 0588,659,32201,2025-02-10,874.66,6408,Visa,Matched,False,False,False,Valid
+TXN000479,Guest 0063,708,37173,2025-03-01,381.52,5000,Visa,Matched,False,False,False,Valid
+TXN000454,Guest 0376,593,36771,2025-01-03,537.24,6564,Mastercard,Matched,False,False,False,Valid
+TXN000384,Guest 0315,495,30268,2025-01-22,187.61,0372,Visa,Matched,False,False,False,Valid
+TXN000927,Guest 0494,379,33864,2025-02-18,183.47,2045,American Express,Unmatched,False,False,False,Valid
+TXN000031,Guest 0445,479,38762,2025-02-10,462.87,3080,Mastercard,Matched,False,False,False,Valid
+TXN001393,Guest 0638,660,32834,2025-03-30,292.51,0874,Visa,Matched,False,False,False,Valid
+TXN001524,Guest 0136,743,33269,2025-01-14,530.3,3380,American Express,Matched,False,False,False,Valid
+TXN001000,Guest 0531,449,38542,2025-02-16,262.66,8634,Visa,Matched,False,False,False,Valid
+TXN001114,Guest 0745,118,34982,2025-01-27,813.58,2211,Visa,Matched,False,False,False,Valid
+TXN001058,Guest 0118,680,38376,2025-03-11,477.81,9598,Mastercard,Unmatched,False,False,False,Valid
+TXN001174,Guest 0276,334,33904,2025-01-16,313.81,7024,Visa,Matched,False,False,False,Valid
+TXN000863,Guest 0669,724,31795,2025-01-11,497.7,9912,American Express,Matched,False,False,False,Valid
+TXN001562,Guest 0136,182,30849,2025-01-23,741.38,6184,Mastercard,Unmatched,False,False,False,Valid
+TXN001579,Guest 0706,418,36205,2025-01-11,1273.9,7263,American Express,Matched,False,False,False,Valid
+TXN001392,Guest 0419,216,34235,2025-02-17,554.76,6108,Visa,Pending,False,False,False,Valid
+TXN001977,Guest 0516,752,30632,2025-03-25,685.66,2211,Mastercard,Unmatched,False,False,False,Valid
+TXN000045,Guest 0223,389,35926,2025-01-07,429.92,0278,Visa,Matched,False,False,False,Valid
+TXN000495,Guest 0335,315,32816,2025-01-27,305.8,7642,Visa,Matched,False,False,False,Valid
+TXN000169,Guest 0749,455,38192,2025-01-31,105.98,8377,Visa,Matched,False,False,False,Valid
+TXN000304,Guest 0704,124,35985,2025-03-22,526.02,5587,Mastercard,Matched,False,False,False,Valid
+TXN001334,Guest 0679,726,32112,2025-03-14,303.59,8405,Visa,Matched,False,False,False,Valid
+TXN000421,Guest 0207,605,36268,2025-03-25,609.49,4494,Mastercard,Matched,False,False,False,Valid
+TXN001940,Guest 0408,229,31433,2025-01-19,987.68,9867,American Express,Matched,False,False,False,Valid
+TXN000612,Guest 0743,327,30473,2025-02-11,171.34,3281,Mastercard,Matched,False,False,False,Valid
+TXN001735,Guest 0258,556,30050,2025-03-19,652.31,0902,Visa,Unmatched,False,False,False,Valid
+TXN001293,Guest 0191,338,32783,2025-02-09,512.24,4802,Visa,Pending,False,False,False,Valid
+TXN001665,Guest 0411,483,37844,2025-02-17,188.65,0935,Mastercard,Matched,False,False,False,Valid
+TXN000586,Guest 0444,527,35790,2025-03-25,261.54,,Mastercard,Matched,True,False,False,Review Required
+TXN001975,Guest 0077,774,31341,2025-02-20,433.53,2614,Mastercard,Matched,False,False,False,Valid
+TXN000803,Guest 0792,255,35275,2025-02-16,563.71,9233,Mastercard,Matched,False,False,False,Valid
+TXN001284,Guest 0079,632,30302,2025-03-14,590.68,8923,Visa,Matched,False,False,False,Valid
+TXN001291,Guest 0323,680,36718,2025-01-22,320.54,7264,Mastercard,Pending,False,False,False,Valid
+TXN000415,Guest 0298,444,32334,2025-01-02,195.86,9494,Visa,Matched,False,False,False,Valid
+TXN000186,Guest 0232,500,38502,2025-02-10,232.36,6401,Visa,Matched,False,False,False,Valid
+TXN000711,Guest 0053,300,32995,2025-03-03,2002.61,6356,American Express,Matched,False,False,False,Valid
+TXN001171,Guest 0504,521,38996,2025-02-26,710.75,4898,Mastercard,Matched,False,False,False,Valid
+TXN001212,Guest 0221,201,30040,2025-03-12,-638.86,5997,Mastercard,Matched,False,True,False,Review Required
+TXN000301,Guest 0214,294,33367,2025-02-02,826.48,4220,Visa,Matched,False,False,False,Valid
+TXN001577,Guest 0517,505,39264,2025-02-19,695.14,8915,American Express,Matched,False,False,False,Valid
+TXN001744,Guest 0352,420,32036,2025-01-03,203.03,4201,Mastercard,Matched,False,False,False,Valid
+TXN000940,Guest 0136,337,39667,2025-02-15,630.7,9689,Mastercard,Matched,False,False,False,Valid
+TXN001612,Guest 0547,272,31574,2025-01-13,259.01,2333,American Express,Pending,False,False,False,Valid
+TXN000818,Guest 0694,331,35059,2025-01-10,829.83,7128,Mastercard,Matched,False,False,False,Valid
+TXN001948,Guest 0296,751,31969,2025-03-24,383.3,1004,American Express,Matched,False,False,False,Valid
+TXN001376,Guest 0405,570,39522,2025-03-28,734.76,7925,Mastercard,Matched,False,False,False,Valid
+TXN000988,Guest 0626,746,36100,2025-01-29,424.26,2588,Visa,Matched,False,False,False,Valid
+TXN000176,Guest 0611,344,34536,2025-02-11,363.64,1831,Visa,Pending,False,False,False,Valid
+TXN001180,Guest 0136,382,32925,2025-01-03,297.77,0236,Visa,Matched,False,False,False,Valid
+TXN000695,Guest 0748,595,31371,2025-01-09,432.79,0214,Mastercard,Matched,False,False,False,Valid
+TXN001622,Guest 0178,132,35677,2025-01-01,436.77,9057,American Express,Matched,False,False,False,Valid
+TXN000124,Guest 0489,286,34419,2025-02-12,345.88,2611,Visa,Unmatched,False,False,False,Valid
+TXN000368,Guest 0142,200,31737,2025-01-29,360.4,3520,Mastercard,Matched,False,False,False,Valid
+TXN001533,Guest 0050,454,38335,2025-03-25,444.45,5855,Visa,Matched,False,False,False,Valid
+TXN000789,Guest 0004,314,32471,2025-02-19,661.1,0183,Mastercard,Pending,False,False,False,Valid
+TXN000040,Guest 0360,362,32346,2025-02-26,150.88,9185,Mastercard,Matched,False,False,False,Valid
+TXN000716,Guest 0371,450,34806,2025-03-13,710.07,6490,Mastercard,Matched,False,False,False,Valid
+TXN000951,Guest 0026,331,36889,2025-01-09,333.3,1889,American Express,Matched,False,False,False,Valid
+TXN000332,Guest 0689,289,36906,2025-02-03,634.24,5333,American Express,Matched,False,False,False,Valid
+TXN001499,Guest 0099,793,35799,2025-02-12,186.44,4873,Mastercard,Matched,False,False,False,Valid
+TXN000195,Guest 0526,495,33212,2025-03-28,290.62,7334,American Express,Matched,False,False,False,Valid
+TXN000528,Guest 0759,165,34770,2025-01-13,710.76,6918,Visa,Matched,False,False,False,Valid
+TXN000966,Guest 0475,174,38383,2025-02-22,230.57,0506,Mastercard,Matched,False,False,False,Valid
+TXN001727,Guest 0088,466,30080,2025-03-27,443.74,0714,Mastercard,Matched,False,False,False,Valid
+TXN000323,Guest 0271,424,31204,2025-02-25,845.02,3450,Mastercard,Pending,False,False,False,Valid
+TXN001205,Guest 0240,466,30042,2025-02-28,448.46,5020,Visa,Matched,False,False,False,Valid
+TXN000267,Guest 0547,346,36921,2025-02-10,247.4,6854,American Express,Matched,False,False,False,Valid
+TXN001256,Guest 0152,340,36724,2025-01-08,491.39,0360,Mastercard,Matched,False,False,False,Valid
+TXN001441,Guest 0759,462,31655,2025-03-12,588.35,0883,American Express,Matched,False,False,False,Valid
+TXN000068,Guest 0726,395,32301,2025-02-03,-524.72,0957,Visa,Matched,False,True,False,Review Required
+TXN001847,Guest 0618,185,32719,2025-02-06,275.94,2942,Visa,Matched,False,False,False,Valid
+TXN001813,Guest 0540,310,30968,2025-03-02,484.81,9693,Mastercard,Matched,False,False,False,Valid
+TXN000681,Guest 0094,328,31876,2025-03-07,174.4,5496,Visa,Matched,False,False,False,Valid
+TXN000486,Guest 0289,358,39191,2025-01-21,268.34,9910,Mastercard,Unmatched,False,False,False,Valid
+TXN000481,Guest 0522,427,36575,2025-01-26,182.01,9012,Visa,Matched,False,False,False,Valid
+TXN001422,Guest 0631,780,38675,2025-03-31,606.28,5910,Visa,Matched,False,False,False,Valid
+TXN000707,Guest 0565,429,30233,2025-01-01,329.33,1518,Visa,Matched,False,False,False,Valid
+TXN000549,Guest 0377,467,35687,2025-02-16,316.71,3747,Mastercard,Matched,False,False,False,Valid
+TXN001423,Guest 0481,152,31838,2025-02-23,551.8,5941,Visa,Unmatched,False,False,False,Valid
+TXN000428,Guest 0309,438,35902,2025-03-14,278.59,4532,Visa,Matched,False,False,False,Valid
+TXN001646,Guest 0423,138,35383,2025-01-27,314.8,3501,Visa,Matched,False,False,False,Valid
+TXN001488,Guest 0767,635,35107,2025-01-01,627.29,6318,Visa,Matched,False,False,False,Valid
+TXN000480,Guest 0108,476,33220,2025-01-10,623.94,7196,Visa,Matched,False,False,False,Valid
+TXN000451,Guest 0672,701,37882,2025-03-28,348.51,6630,Mastercard,Matched,False,False,False,Valid
+TXN000926,Guest 0147,164,30067,2025-03-27,285.32,7521,Mastercard,Matched,False,False,False,Valid
+TXN000618,Guest 0043,519,35996,2025-01-24,232.05,4720,Mastercard,Pending,False,False,False,Valid
+TXN001542,Guest 0465,214,39398,2025-01-22,487.12,9364,American Express,Matched,False,False,False,Valid
+TXN001962,Guest 0688,529,30873,2025-03-30,1352.62,2289,American Express,Matched,False,False,False,Valid
+TXN001671,Guest 0116,347,30787,2025-03-10,280.01,8868,Mastercard,Matched,False,False,False,Valid
+TXN000944,Guest 0151,705,34471,2025-02-12,399.15,0444,Visa,Matched,False,False,False,Valid
+TXN001795,Guest 0714,383,30381,2025-02-13,619.78,9761,Mastercard,Unmatched,False,False,False,Valid
+TXN001112,Guest 0611,585,37991,2025-01-21,724.79,8659,Visa,Matched,False,False,False,Valid
+TXN000694,Guest 0340,703,37955,2025-03-27,456.81,1555,Mastercard,Matched,False,False,False,Valid
+TXN001493,Guest 0298,224,32034,2025-01-03,375.53,9765,American Express,Matched,False,False,False,Valid
+TXN000922,Guest 0617,711,34511,2025-02-21,157.68,1484,Mastercard,Pending,False,False,False,Valid
+TXN000262,Guest 0800,242,34267,2025-01-16,588.17,5278,Visa,Matched,False,False,False,Valid
+TXN000747,Guest 0180,636,30120,2025-02-17,483.0,2596,American Express,Matched,False,False,False,Valid
+TXN001381,Guest 0666,217,36857,2025-03-30,742.47,1345,Visa,Matched,False,False,False,Valid
+TXN000241,Guest 0179,335,36509,2025-01-13,418.25,3953,Visa,Unmatched,False,False,False,Valid
+TXN001645,Guest 0768,527,31069,2025-01-12,606.86,1240,Mastercard,Matched,False,False,False,Valid
+TXN000580,Guest 0455,305,34333,2025-01-10,250.2,8730,Mastercard,Matched,False,False,False,Valid
+TXN001351,Guest 0128,259,37841,2025-01-06,196.74,3201,Visa,Matched,False,False,False,Valid
+TXN000553,Guest 0174,170,31795,2025-03-16,550.01,7475,Mastercard,Matched,False,False,False,Valid
+TXN000366,Guest 0069,686,34915,2025-02-16,1229.38,2256,Visa,Matched,False,False,False,Valid
+TXN001030,Guest 0716,263,39189,2025-01-31,177.85,6903,Visa,Matched,False,False,False,Valid
+TXN001742,Guest 0243,535,33706,2025-03-08,456.83,7910,Visa,Matched,False,False,False,Valid
+TXN000592,Guest 0303,128,39662,2025-03-23,338.62,9547,Visa,Unmatched,False,False,False,Valid
+TXN000742,Guest 0078,424,38927,2025-03-10,391.53,5278,Visa,Matched,False,False,False,Valid
+TXN001282,Guest 0604,601,32765,2025-03-08,250.98,0587,Visa,Matched,False,False,False,Valid
+TXN000584,Guest 0528,596,37204,2025-01-05,271.26,8808,Visa,Matched,False,False,False,Valid
+TXN000072,Guest 0518,648,37060,2025-01-18,682.92,4916,American Express,Unmatched,False,False,False,Valid
+TXN000888,Guest 0051,478,33643,2025-01-18,274.68,8478,Visa,Matched,False,False,False,Valid
+TXN000260,Guest 0794,118,39439,2025-02-22,253.83,0367,Visa,Matched,False,False,False,Valid
+TXN000052,Guest 0242,376,31412,2025-01-18,282.62,6258,Mastercard,Matched,False,False,False,Valid
+TXN000199,Guest 0457,766,31586,2025-01-31,117.89,7665,Mastercard,Unmatched,False,False,False,Valid
+TXN001182,Guest 0157,637,38038,2025-03-25,1361.99,8182,American Express,Matched,False,False,False,Valid
+TXN000655,Guest 0681,186,30924,2025-02-19,531.21,2523,Mastercard,Matched,False,False,False,Valid
+TXN000333,Guest 0215,702,32317,2025-01-28,453.56,3469,Visa,Pending,False,False,False,Valid
+TXN001489,Guest 0355,702,30144,2025-01-10,567.13,1984,Visa,Pending,False,False,False,Valid
+TXN000597,Guest 0401,729,38618,2025-02-22,303.21,7396,Visa,Matched,False,False,False,Valid
+TXN001694,Guest 0261,263,37323,2025-02-05,932.81,0138,Mastercard,Matched,False,False,False,Valid
+TXN001166,Guest 0322,154,34016,2025-01-10,382.78,5794,American Express,Matched,False,False,False,Valid
+TXN000963,Guest 0779,790,33400,2025-03-17,232.03,3068,Visa,Matched,False,False,False,Valid
+TXN000908,Guest 0760,653,30350,2025-01-16,121.92,7729,Visa,Matched,False,False,False,Valid
+TXN000889,Guest 0119,337,31018,2025-01-02,540.57,0893,Mastercard,Matched,False,False,False,Valid
+TXN000705,Guest 0056,614,38945,2025-01-12,353.37,0823,American Express,Matched,False,False,False,Valid
+TXN000427,Guest 0127,280,39752,2025-03-19,612.49,7204,Visa,Matched,False,False,False,Valid
+TXN001343,Guest 0080,497,38452,2025-01-11,422.68,3919,Mastercard,Matched,False,False,False,Valid
+TXN001784,Guest 0608,786,36633,2025-03-27,367.44,5485,Visa,Matched,False,False,False,Valid
+TXN000594,Guest 0076,610,37562,2025-03-30,810.04,7270,Mastercard,Unmatched,False,False,False,Valid
+TXN000991,Guest 0365,554,35714,2025-01-31,528.21,9642,Visa,Matched,False,False,False,Valid
+TXN001992,Guest 0604,431,30141,2025-02-09,572.49,3819,Visa,Matched,False,False,False,Valid
+TXN000583,Guest 0233,216,36201,2025-01-10,1173.51,0929,Mastercard,Matched,False,False,False,Valid
+TXN000728,Guest 0033,720,35964,2025-01-08,230.52,,Visa,Matched,True,False,False,Review Required
+TXN000399,Guest 0202,149,35688,2025-01-26,514.29,1746,Mastercard,Matched,False,False,False,Valid
+TXN000573,Guest 0585,446,30304,2025-01-26,502.02,5614,Visa,Matched,False,False,False,Valid
+TXN000437,Guest 0512,558,38179,2025-02-21,327.61,1687,Visa,Matched,False,False,False,Valid
+TXN000193,Guest 0230,619,32650,2025-02-24,608.33,7316,Mastercard,Matched,False,False,False,Valid
+TXN001657,Guest 0412,681,38031,2025-03-18,291.41,9708,Visa,Matched,False,False,False,Valid
+TXN000619,Guest 0526,543,33206,2025-01-06,391.55,5660,Mastercard,Unmatched,False,False,False,Valid
+TXN000293,Guest 0189,445,30338,2025-03-27,285.72,6057,Visa,Matched,False,False,False,Valid
+TXN001584,Guest 0247,153,33247,2025-02-07,122.12,7228,Visa,Matched,False,False,False,Valid
+TXN001566,Guest 0209,546,39329,2025-02-10,360.48,9737,Mastercard,Matched,False,False,False,Valid
+TXN000813,Guest 0159,469,34122,2025-03-03,98.49,0986,Mastercard,Pending,False,False,False,Valid
+TXN001550,Guest 0511,628,37924,2025-01-01,898.77,5583,Mastercard,Matched,False,False,False,Valid
+TXN000508,Guest 0496,511,34889,2025-01-23,276.78,7225,American Express,Matched,False,False,False,Valid
+TXN000142,Guest 0701,701,30162,2025-01-20,461.07,3643,Mastercard,Matched,False,False,False,Valid
+TXN001405,Guest 0314,118,34216,2025-01-16,584.39,5997,Visa,Matched,False,False,False,Valid
+TXN000003,Guest 0319,125,36401,2025-02-28,938.17,0546,Visa,Matched,False,False,False,Valid
+TXN000757,Guest 0708,502,35262,2025-03-08,1783.6,9273,Visa,Matched,False,False,False,Valid
+TXN001885,Guest 0130,192,38198,2025-02-25,349.54,2510,American Express,Matched,False,False,False,Valid
+TXN001260,Guest 0329,269,31897,2025-03-14,243.54,6605,American Express,Matched,False,False,False,Valid
+TXN000340,Guest 0075,452,36041,2025-03-27,587.25,4446,Visa,Matched,False,False,False,Valid
+TXN001545,Guest 0030,253,34007,2025-01-21,1172.36,4630,Mastercard,Matched,False,False,False,Valid
+TXN000983,Guest 0641,231,39926,2025-02-19,606.47,1549,Visa,Matched,False,False,False,Valid
+TXN000539,Guest 0425,684,33250,2025-02-18,563.03,9849,Visa,Matched,False,False,False,Valid
+TXN000266,Guest 0077,793,30983,2025-02-22,295.77,6605,American Express,Unmatched,False,False,False,Valid
+TXN000377,Guest 0683,322,31442,2025-03-08,355.78,4960,Visa,Matched,False,False,False,Valid
+TXN000693,Guest 0729,793,38286,2025-03-25,670.77,4636,American Express,Matched,False,False,False,Valid
+TXN001692,Guest 0502,511,35083,2025-03-22,371.21,9262,Visa,Matched,False,False,False,Valid
+TXN000440,Guest 0053,320,33306,2025-02-05,128.98,4613,American Express,Matched,False,False,False,Valid
+TXN000272,Guest 0255,472,37610,2025-01-03,289.42,7194,Visa,Matched,False,False,False,Valid
+TXN000185,Guest 0508,139,31779,2025-02-14,292.67,4644,Mastercard,Matched,False,False,False,Valid
+TXN000949,Guest 0425,286,33750,2025-03-27,199.09,1437,American Express,Matched,False,False,False,Valid
+TXN000245,Guest 0569,347,38024,2025-02-26,548.31,7848,American Express,Matched,False,False,False,Valid
+TXN001092,Guest 0314,363,34709,2025-02-10,272.87,2444,Visa,Matched,False,False,False,Valid
+TXN000446,Guest 0716,391,37599,2025-03-01,199.24,0258,Visa,Matched,False,False,False,Valid
+TXN000600,Guest 0312,610,30264,2025-02-27,256.1,7725,Mastercard,Unmatched,False,False,False,Valid
+TXN000825,Guest 0496,450,35400,2025-02-26,1529.98,7031,Visa,Matched,False,False,False,Valid
+TXN001652,Guest 0058,617,35449,2025-01-02,212.98,0260,Visa,Matched,False,False,False,Valid
+TXN001418,Guest 0701,220,34390,2025-02-09,1091.51,2433,Mastercard,Matched,False,False,False,Valid
+TXN001323,Guest 0630,583,39141,2025-02-19,718.62,8831,Visa,Matched,False,False,False,Valid
+TXN000979,Guest 0227,746,36174,2025-02-01,504.89,2729,Mastercard,Matched,False,False,False,Valid
+TXN000416,Guest 0389,410,30625,2025-03-02,475.35,4821,Visa,Matched,False,False,False,Valid
+TXN000274,Guest 0369,320,38430,2025-03-28,465.71,2625,Mastercard,Matched,False,False,False,Valid
+TXN000737,Guest 0460,143,33981,2025-03-07,435.6,6142,Mastercard,Matched,False,False,False,Valid
+TXN001651,Guest 0097,750,33675,2025-01-18,324.23,9419,Mastercard,Matched,False,False,False,Valid
+TXN001466,Guest 0600,488,35735,2025-01-11,316.33,0608,American Express,Matched,False,False,False,Valid
+TXN000251,Guest 0406,393,36834,2025-01-17,795.39,5264,Mastercard,Matched,False,False,False,Valid
+TXN000414,Guest 0482,602,30036,2025-01-12,471.1,1107,American Express,Pending,False,False,False,Valid
+TXN000621,Guest 0678,532,31161,2025-02-09,302.69,1362,Visa,Pending,False,False,False,Valid
+TXN001317,Guest 0506,476,36744,2025-03-05,777.38,4296,Mastercard,Matched,False,False,False,Valid
+TXN001775,Guest 0345,445,30864,2025-03-11,361.82,6460,American Express,Matched,False,False,False,Valid
+TXN000311,Guest 0225,464,34828,2025-03-01,1147.69,3875,Mastercard,Matched,False,False,False,Valid
+TXN000778,Guest 0723,623,34392,2025-01-11,301.89,5750,Mastercard,Matched,False,False,False,Valid
+TXN000382,Guest 0359,181,31950,2025-03-26,559.82,1772,Mastercard,Matched,False,False,False,Valid
+TXN000562,Guest 0287,394,36646,2025-01-04,284.47,9576,Mastercard,Matched,False,False,False,Valid
+TXN000426,Guest 0449,710,37906,2025-01-18,782.0,7044,Mastercard,Matched,False,False,False,Valid
+TXN001890,Guest 0660,299,31778,2025-02-10,499.17,8383,Visa,Matched,False,False,False,Valid
+TXN000535,Guest 0642,121,39784,2025-02-21,436.84,8807,Visa,Unmatched,False,False,False,Valid
+TXN000758,Guest 0508,194,34549,2025-02-04,725.69,1364,American Express,Matched,False,False,False,Valid
+TXN000772,Guest 0033,633,36852,2025-03-30,244.09,5069,Visa,Matched,False,False,False,Valid
+TXN001367,Guest 0497,161,37276,2025-01-28,309.94,4623,American Express,Matched,False,False,False,Valid
+TXN000409,Guest 0372,283,35250,2025-03-26,624.64,5803,Mastercard,Pending,False,False,False,Valid
+TXN001626,Guest 0595,585,35640,2025-03-31,488.6,3247,Mastercard,Matched,False,False,False,Valid
+TXN001601,Guest 0357,336,31314,2025-01-28,489.86,8342,American Express,Matched,False,False,False,Valid
+TXN001955,Guest 0475,576,36526,2025-03-29,252.06,6651,Mastercard,Matched,False,False,False,Valid
+TXN001162,Guest 0712,119,37657,2025-02-14,872.17,0604,Mastercard,Matched,False,False,False,Valid
+TXN000945,Guest 0658,126,37935,2025-01-12,1367.06,9033,Visa,Matched,False,False,False,Valid
+TXN001160,Guest 0699,748,30737,2025-01-31,727.78,6772,Visa,Matched,False,False,False,Valid
+TXN001570,Guest 0198,252,35248,2025-03-30,632.37,1623,American Express,Matched,False,False,False,Valid
+TXN000651,Guest 0705,378,32003,2025-02-14,689.06,3622,Mastercard,Matched,False,False,False,Valid
+TXN001913,Guest 0154,582,32017,2025-01-01,361.24,1190,Mastercard,Matched,False,False,False,Valid
+TXN000183,Guest 0485,171,31696,2025-02-14,1559.46,7817,Visa,Unmatched,False,False,False,Valid
+TXN000171,Guest 0017,361,35395,2025-01-10,358.67,2732,Visa,Matched,False,False,False,Valid
+TXN001943,Guest 0743,240,35729,2025-03-20,776.67,8071,Visa,Matched,False,False,False,Valid
+TXN000591,Guest 0057,586,30100,2025-03-14,508.89,9669,American Express,Matched,False,False,False,Valid
+TXN001892,Guest 0741,393,38817,2025-01-23,558.75,7349,Visa,Matched,False,False,False,Valid
+TXN001697,Guest 0247,153,35155,2025-02-12,424.8,5208,American Express,Unmatched,False,False,False,Valid
+TXN000858,Guest 0624,542,39242,2025-01-06,545.88,3476,Mastercard,Matched,False,False,False,Valid
+TXN000273,Guest 0238,753,35711,2025-01-14,864.78,1299,American Express,Matched,False,False,False,Valid
+TXN001561,Guest 0055,433,36607,2025-01-27,547.01,5826,Mastercard,Matched,False,False,False,Valid
+TXN001546,Guest 0505,721,36806,2025-02-23,253.08,,Mastercard,Matched,True,False,False,Review Required
+TXN001453,Guest 0362,690,38550,2025-01-05,338.36,0551,Mastercard,Matched,False,False,False,Valid
+TXN000372,Guest 0659,219,30805,2025-03-01,263.18,4207,Visa,Matched,False,False,False,Valid
+TXN000223,Guest 0022,677,36810,2025-03-05,780.12,9209,Visa,Matched,False,False,False,Valid
+TXN000905,Guest 0522,233,36399,2025-02-11,441.6,5331,Mastercard,Matched,False,False,False,Valid
+TXN001759,Guest 0065,476,38160,2025-02-21,530.95,7007,American Express,Pending,False,False,False,Valid
+TXN001320,Guest 0029,258,30572,2025-02-05,383.21,1547,Visa,Matched,False,False,False,Valid
+TXN000519,Guest 0115,597,31949,2025-02-12,489.73,8578,American Express,Matched,False,False,False,Valid
+TXN000335,Guest 0443,741,30666,2025-02-11,250.45,3766,Mastercard,Matched,False,False,False,Valid
+TXN001582,Guest 0613,685,32215,2025-01-20,299.72,9905,Visa,Pending,False,False,False,Valid
+TXN001345,Guest 0431,300,37392,2025-01-17,1141.67,0706,Mastercard,Matched,False,False,False,Valid
+TXN001812,Guest 0356,554,36684,2025-02-28,578.16,2882,American Express,Matched,False,False,False,Valid
+TXN000608,Guest 0206,440,39994,2025-02-16,753.74,2736,Visa,Pending,False,False,False,Valid
+TXN000016,Guest 0256,200,31107,2025-03-12,643.04,8081,Mastercard,Matched,False,False,False,Valid
+TXN001461,Guest 0334,729,35442,2025-03-13,447.16,0679,Mastercard,Matched,False,False,False,Valid
+TXN001990,Guest 0381,494,32377,2025-03-25,1119.55,9623,Visa,Pending,False,False,False,Valid
+TXN001551,Guest 0352,521,33553,2025-01-26,628.48,7354,Visa,Matched,False,False,False,Valid
+TXN001872,Guest 0083,430,32635,2025-01-19,320.68,5977,Visa,Matched,False,False,False,Valid
+TXN000611,Guest 0777,165,33356,2025-03-17,380.35,3490,American Express,Matched,False,False,False,Valid
+TXN001449,Guest 0485,400,37223,2025-03-08,153.73,5282,Visa,Matched,False,False,False,Valid
+TXN000466,Guest 0157,166,35183,2025-03-28,1181.25,0866,American Express,Unmatched,False,False,False,Valid
+TXN001402,Guest 0735,582,38833,2025-01-22,659.97,2709,Visa,Matched,False,False,False,Valid
+TXN000200,Guest 0135,267,31699,2025-03-28,899.7,8047,Mastercard,Matched,False,False,False,Valid
+TXN001281,Guest 0070,599,36452,2025-03-08,473.71,7732,Mastercard,Unmatched,False,False,False,Valid
+TXN001342,Guest 0245,530,33599,2025-01-13,275.4,3790,Visa,Matched,False,False,False,Valid
+TXN001868,Guest 0649,717,30360,2025-03-10,530.9,3168,American Express,Matched,False,False,False,Valid
+TXN001310,Guest 0756,417,33176,2025-03-18,860.98,4941,Visa,Unmatched,False,False,False,Valid
+TXN001743,Guest 0751,723,38429,2025-02-11,553.56,5865,Mastercard,Pending,False,False,False,Valid
+TXN001625,Guest 0667,246,38787,2025-02-19,435.33,0874,Mastercard,Matched,False,False,False,Valid
+TXN001755,Guest 0031,201,31555,2025-02-26,385.53,1080,Mastercard,Matched,False,False,False,Valid
+TXN001424,Guest 0307,273,37583,2025-03-02,555.26,9098,Visa,Matched,False,False,False,Valid
+TXN000977,Guest 0396,501,37910,2025-01-09,568.36,9263,Mastercard,Matched,False,False,False,Valid
+TXN000571,Guest 0642,584,38384,2025-03-27,676.54,2651,Mastercard,Matched,False,False,False,Valid
+TXN000044,Guest 0600,176,37423,2025-02-01,1654.28,0128,Mastercard,Matched,False,False,False,Valid
+TXN000275,Guest 0143,124,35625,2025-02-07,204.52,7077,Visa,Matched,False,False,False,Valid
+TXN001750,Guest 0725,183,39990,2025-03-06,371.39,1690,Visa,Matched,False,False,False,Valid
+TXN000102,Guest 0535,791,38865,2025-01-18,846.79,1977,American Express,Matched,False,False,False,Valid
+TXN001428,Guest 0707,198,37543,2025-03-23,248.87,3172,Mastercard,Matched,False,False,False,Valid
+TXN000734,Guest 0172,285,36940,2025-03-11,318.16,2028,Visa,Matched,False,False,False,Valid
+TXN001400,Guest 0578,709,34300,2025-01-27,375.72,0168,American Express,Matched,False,False,False,Valid
+TXN000108,Guest 0111,690,37828,2025-03-01,418.98,4296,Visa,Matched,False,False,False,Valid
+TXN001042,Guest 0234,215,35208,2025-03-19,709.32,5324,Visa,Matched,False,False,False,Valid
+TXN000498,Guest 0711,372,38794,2025-02-03,896.52,9651,Visa,Matched,False,False,False,Valid
+TXN001996,Guest 0269,247,34531,2025-01-01,480.34,5100,Visa,Unmatched,False,False,False,Valid
+TXN000890,Guest 0157,437,38789,2025-01-25,710.09,0122,Visa,Unmatched,False,False,False,Valid
+TXN001434,Guest 0270,452,37302,2025-02-20,497.83,4758,Mastercard,Matched,False,False,False,Valid
+TXN001611,Guest 0448,294,30504,2025-03-11,696.91,7957,Visa,Matched,False,False,False,Valid
+TXN001115,Guest 0292,267,35360,2025-01-18,357.69,5453,Mastercard,Pending,False,False,False,Valid
+TXN001617,Guest 0042,658,36168,2025-03-13,408.21,2203,Mastercard,Matched,False,False,False,Valid
+TXN000620,Guest 0757,728,30715,2025-01-13,494.62,3481,American Express,Matched,False,False,False,Valid
+TXN000866,Guest 0029,510,39846,2025-03-04,638.85,7349,American Express,Matched,False,False,False,Valid
+TXN000073,Guest 0323,683,37175,2025-02-11,533.83,1090,American Express,Matched,False,False,False,Valid
+TXN001248,Guest 0072,752,38355,2025-02-11,275.45,6830,Visa,Matched,False,False,False,Valid
+TXN001223,Guest 0621,744,33999,2025-03-28,266.37,3265,Mastercard,Matched,False,False,False,Valid
+TXN001176,Guest 0446,217,34842,2025-01-31,394.87,,Mastercard,Matched,True,False,False,Review Required
+TXN001495,Guest 0743,642,38610,2025-02-06,215.32,1147,Mastercard,Unmatched,False,False,False,Valid
+TXN000482,Guest 0689,308,38982,2025-03-16,1073.16,9285,Visa,Pending,False,False,False,Valid
+TXN001076,Guest 0599,364,35921,2025-01-15,1268.13,8638,Visa,Matched,False,False,False,Valid
+TXN000507,Guest 0368,303,39484,2025-02-17,407.21,3386,Visa,Matched,False,False,False,Valid
+TXN000680,Guest 0300,149,35207,2025-03-26,1018.29,1366,Mastercard,Matched,False,False,False,Valid
+TXN001236,Guest 0457,702,31597,2025-02-01,807.1,1922,Visa,Unmatched,False,False,False,Valid
+TXN001290,Guest 0149,304,30518,2025-02-25,234.05,2794,Visa,Matched,False,False,False,Valid
+TXN000746,Guest 0324,314,38551,2025-02-02,348.47,7828,Visa,Matched,False,False,False,Valid
+TXN001118,Guest 0515,425,36226,2025-02-22,105.29,0101,Visa,Unmatched,False,False,False,Valid
+TXN001240,Guest 0031,731,39642,2025-01-04,293.44,3675,Mastercard,Matched,False,False,False,Valid
+TXN000312,Guest 0055,699,33317,2025-03-02,360.49,3957,American Express,Matched,False,False,False,Valid
+TXN000835,Guest 0311,783,30640,2025-03-18,420.89,6183,Visa,Unmatched,False,False,False,Valid
+TXN000406,Guest 0663,726,39166,2025-02-15,510.44,3570,Mastercard,Matched,False,False,False,Valid
+TXN001919,Guest 0049,577,30584,2025-02-10,758.19,5379,Mastercard,Matched,False,False,False,Valid
+TXN001152,Guest 0181,534,33870,2025-02-15,454.38,6418,Visa,Matched,False,False,False,Valid
+TXN000310,Guest 0428,522,31861,2025-01-10,579.74,6773,Mastercard,Matched,False,False,False,Valid
+TXN000227,Guest 0703,415,35953,2025-03-14,249.88,2789,Mastercard,Matched,False,False,False,Valid
+TXN001712,Guest 0800,757,32198,2025-02-12,578.23,7453,Visa,Matched,False,False,False,Valid
+TXN001007,Guest 0480,448,36110,2025-03-18,861.13,8029,Visa,Matched,False,False,False,Valid
+TXN001641,Guest 0578,627,36328,2025-03-06,536.8,3783,Visa,Matched,False,False,False,Valid
+TXN000833,Guest 0241,373,34350,2025-02-10,384.19,8601,Mastercard,Matched,False,False,False,Valid
+TXN001437,Guest 0236,383,38102,2025-02-08,426.57,2679,Visa,Matched,False,False,False,Valid
+TXN000149,Guest 0678,704,30965,2025-03-15,717.81,2477,Mastercard,Matched,False,False,False,Valid
+TXN000745,Guest 0159,587,38679,2025-03-13,563.84,4133,Mastercard,Matched,False,False,False,Valid
+TXN001085,Guest 0272,464,35404,2025-01-19,326.97,3073,Visa,Matched,False,False,False,Valid
+TXN000839,Guest 0173,695,30647,2025-01-02,674.7,7990,Mastercard,Unmatched,False,False,False,Valid
+TXN001221,Guest 0560,312,33568,2025-02-28,515.37,7161,Visa,Unmatched,False,False,False,Valid
+TXN000846,Guest 0366,635,36590,2025-01-01,203.12,5684,Mastercard,Matched,False,False,False,Valid
+TXN000576,Guest 0264,635,34210,2025-02-03,505.81,1509,American Express,Matched,False,False,False,Valid
+TXN000558,Guest 0693,702,33238,2025-03-20,599.55,2498,Visa,Pending,False,False,False,Valid
+TXN000702,Guest 0636,140,30328,2025-02-25,351.55,2076,American Express,Matched,False,False,False,Valid
+TXN001164,Guest 0252,685,37920,2025-02-17,434.04,8808,Visa,Matched,False,False,False,Valid
+TXN001357,Guest 0046,586,32979,2025-01-31,259.42,0723,Mastercard,Matched,False,False,False,Valid
+TXN001170,Guest 0486,103,39151,2025-03-24,463.35,2629,Visa,Matched,False,False,False,Valid
+TXN001661,Guest 0446,191,36138,2025-02-25,416.39,8773,Visa,Matched,False,False,False,Valid
+TXN000967,Guest 0193,258,39038,2025-02-24,251.48,5013,Mastercard,Matched,False,False,False,Valid
+TXN000287,Guest 0725,600,30704,2025-01-15,900.22,7695,Mastercard,Matched,False,False,False,Valid
+TXN001616,Guest 0358,611,36295,2025-01-16,711.14,2150,Mastercard,Matched,False,False,False,Valid
+TXN000744,Guest 0758,329,30363,2025-01-25,769.35,6694,Mastercard,Matched,False,False,False,Valid
+TXN000599,Guest 0775,768,31322,2025-02-26,673.34,9117,Mastercard,Matched,False,False,False,Valid
+TXN000941,Guest 0573,609,38157,2025-03-04,297.18,2412,American Express,Matched,False,False,False,Valid
+TXN001472,Guest 0597,422,39749,2025-03-04,769.59,4530,American Express,Matched,False,False,False,Valid
+TXN001659,Guest 0268,465,36356,2025-03-17,932.26,9671,Visa,Matched,False,False,False,Valid
+TXN001827,Guest 0270,207,32835,2025-01-10,370.6,6666,Mastercard,Matched,False,False,False,Valid
+TXN001048,Guest 0609,538,33809,2025-02-24,1388.2,4331,Mastercard,Matched,False,False,False,Valid
+TXN001332,Guest 0681,664,34198,2025-03-06,402.59,7398,Visa,Matched,False,False,False,Valid
+TXN000814,Guest 0772,489,35158,2025-01-26,270.82,7237,Mastercard,Matched,False,False,False,Valid
+TXN001689,Guest 0774,631,30421,2025-03-26,402.01,1024,Mastercard,Matched,False,False,False,Valid
+TXN001001,Guest 0623,239,39004,2025-03-14,336.25,3561,Mastercard,Matched,False,False,False,Valid
+TXN001471,Guest 0179,515,37298,2025-03-22,388.41,0950,Visa,Matched,False,False,False,Valid
+TXN001507,Guest 0670,176,31581,2025-03-24,942.46,0211,Mastercard,Matched,False,False,False,Valid
+TXN000610,Guest 0662,405,37186,2025-03-19,408.39,4998,Visa,Matched,False,False,False,Valid
+TXN001799,Guest 0009,494,35457,2025-02-13,778.25,9834,American Express,Matched,False,False,False,Valid
+TXN001088,Guest 0142,275,32252,2025-03-31,806.43,9995,Mastercard,Matched,False,False,False,Valid
+TXN001433,Guest 0166,333,33813,2025-01-16,494.45,3596,Mastercard,Matched,False,False,False,Valid
+TXN001739,Guest 0535,257,36692,2025-01-01,193.8,6066,Mastercard,Matched,False,False,False,Valid
+TXN000494,Guest 0489,284,33455,2025-02-24,345.13,6443,Mastercard,Matched,False,False,False,Valid
+TXN001330,Guest 0734,444,32404,2025-01-31,536.31,8391,Mastercard,Matched,False,False,False,Valid
+TXN000278,Guest 0042,635,37769,2025-03-12,550.81,6109,Visa,Matched,False,False,False,Valid
+TXN001861,Guest 0435,460,36520,2025-03-08,420.84,0430,Mastercard,Matched,False,False,False,Valid
+TXN000359,Guest 0501,568,30371,2025-01-09,287.25,4610,Mastercard,Matched,False,False,False,Valid
+TXN001119,Guest 0019,711,34280,2025-03-07,417.2,4991,Visa,Matched,False,False,False,Valid
+TXN000237,Guest 0200,761,38111,2025-03-01,973.61,0089,Visa,Matched,False,False,False,Valid
+TXN000552,Guest 0257,126,38198,2025-02-05,501.03,8465,Mastercard,Matched,False,False,False,Valid
+TXN001882,Guest 0179,790,30730,2025-01-24,949.67,2576,Visa,Matched,False,False,False,Valid
+TXN000906,Guest 0692,549,30009,2025-03-05,436.21,8774,Visa,Matched,False,False,False,Valid
+TXN000209,Guest 0188,259,32905,2025-01-24,828.67,2098,Visa,Matched,False,False,False,Valid
+TXN001593,Guest 0788,469,35440,2025-02-04,339.96,0769,Visa,Pending,False,False,False,Valid
+TXN001572,Guest 0674,584,39278,2025-02-02,259.27,0559,Visa,Unmatched,False,False,False,Valid
+TXN000059,Guest 0316,244,36405,2025-03-08,257.98,0683,Visa,Matched,False,False,False,Valid
+TXN000632,Guest 0545,301,30639,2025-01-30,651.84,4325,Mastercard,Pending,False,False,False,Valid
+TXN001682,Guest 0026,651,36825,2025-01-02,258.3,3217,Visa,Matched,False,False,False,Valid
+TXN001874,Guest 0381,325,33426,2025-03-26,191.41,0545,Visa,Matched,False,False,False,Valid
+TXN001589,Guest 0521,665,31004,2025-03-19,320.41,7872,Visa,Matched,False,False,False,Valid
+TXN000364,Guest 0096,777,32573,2025-03-22,245.8,8184,Mastercard,Unmatched,False,False,False,Valid
+TXN000506,Guest 0093,365,32709,2025-02-10,294.83,1618,Visa,Matched,False,False,False,Valid
+TXN001288,Guest 0161,704,31764,2025-01-22,746.45,4562,Visa,Matched,False,False,False,Valid
+TXN001321,Guest 0069,321,32207,2025-01-11,545.62,6185,Mastercard,Matched,False,False,False,Valid
+TXN001615,Guest 0602,500,37883,2025-01-06,286.19,5988,Mastercard,Matched,False,False,False,Valid
+TXN001234,Guest 0004,239,33655,2025-03-09,91.99,4769,Visa,Matched,False,False,False,Valid
+TXN000850,Guest 0290,730,31541,2025-02-24,713.31,0454,Visa,Matched,False,False,False,Valid
+TXN001867,Guest 0418,602,37032,2025-01-10,1801.12,9960,Visa,Matched,False,False,False,Valid
+TXN001560,Guest 0375,195,39618,2025-03-18,1004.5,4939,Visa,Matched,False,False,False,Valid
+TXN000119,Guest 0437,246,35043,2025-01-23,-312.9,6165,Visa,Matched,False,True,False,Review Required
+TXN001771,Guest 0340,332,32267,2025-01-31,506.41,0196,Visa,Matched,False,False,False,Valid
+TXN000773,Guest 0163,224,39653,2025-01-01,1083.3,8689,Visa,Matched,False,False,False,Valid
+TXN000523,Guest 0168,477,31585,2025-01-18,433.01,0414,Visa,Matched,False,False,False,Valid
+TXN000514,Guest 0604,736,31014,2025-03-15,679.22,8486,Visa,Matched,False,False,False,Valid
+TXN000082,Guest 0074,300,33797,2025-02-09,270.58,1164,Visa,Matched,False,False,False,Valid
+TXN001884,Guest 0364,256,31856,2025-03-18,452.81,9069,Mastercard,Matched,False,False,False,Valid
+TXN001103,Guest 0012,270,36467,2025-03-24,685.06,9984,American Express,Matched,False,False,False,Valid
+TXN000381,Guest 0144,758,32908,2025-01-01,415.0,0222,Mastercard,Matched,False,False,False,Valid
+TXN001037,Guest 0642,740,30702,2025-03-23,408.02,7526,Visa,Unmatched,False,False,False,Valid
+TXN001702,Guest 0185,366,34240,2025-01-17,577.23,5270,Mastercard,Matched,False,False,False,Valid
+TXN000085,Guest 0106,451,36729,2025-02-26,377.02,1326,Mastercard,Matched,False,False,False,Valid
+TXN001691,Guest 0322,360,38892,2025-03-11,522.62,8326,Mastercard,Matched,False,False,False,Valid
+TXN000330,Guest 0118,715,36008,2025-02-19,504.9,1553,Visa,Matched,False,False,False,Valid
+TXN000007,Guest 0348,276,32807,2025-01-08,130.28,2632,Visa,Pending,False,False,False,Valid
+TXN001678,Guest 0616,360,37950,2025-02-07,486.32,6281,Visa,Matched,False,False,False,Valid
+TXN001666,Guest 0361,424,34137,2025-02-05,627.45,8018,Visa,Matched,False,False,False,Valid
+TXN000923,Guest 0099,488,34713,2025-02-10,216.24,7800,Visa,Matched,False,False,False,Valid
+TXN000882,Guest 0190,798,32640,2025-03-18,613.14,6647,Visa,Matched,False,False,False,Valid
+TXN000452,Guest 0713,278,38078,2025-03-25,1306.47,2101,Visa,Matched,False,False,False,Valid
+TXN000491,Guest 0274,232,38820,2025-03-25,255.25,3161,Visa,Pending,False,False,False,Valid
+TXN001492,Guest 0509,648,37170,2025-02-14,857.13,7726,Visa,Matched,False,False,False,Valid
+TXN000288,Guest 0657,664,30636,2025-02-21,280.42,0441,Visa,Matched,False,False,False,Valid
+TXN001263,Guest 0593,512,37537,2025-02-10,664.82,4932,Visa,Pending,False,False,False,Valid
+TXN001379,Guest 0687,440,33503,2025-02-15,265.15,2898,Mastercard,Matched,False,False,False,Valid
+TXN001993,Guest 0113,677,36685,2025-01-26,458.64,3274,Mastercard,Matched,False,False,False,Valid
+TXN000760,Guest 0344,586,39542,2025-03-07,690.48,4111,Visa,Matched,False,False,False,Valid
+TXN000808,Guest 0249,724,39071,2025-01-10,1096.67,6672,Mastercard,Matched,False,False,False,Valid
+TXN001828,Guest 0440,571,33863,2025-03-30,160.43,0958,Visa,Matched,False,False,False,Valid
+TXN000837,Guest 0773,196,37157,2025-03-14,402.06,7829,Visa,Matched,False,False,False,Valid
+TXN000887,Guest 0747,584,38817,2025-01-05,835.22,3249,Visa,Matched,False,False,False,Valid
+TXN001233,Guest 0542,310,34408,2025-03-29,403.37,,Mastercard,Pending,True,False,False,Review Required
+TXN001177,Guest 0492,240,37458,2025-01-29,658.95,0541,Visa,Matched,False,False,False,Valid
+TXN001663,Guest 0775,702,34230,2025-01-17,717.32,4819,Mastercard,Matched,False,False,False,Valid
+TXN000328,Guest 0135,398,37149,2025-01-04,620.03,2476,Visa,Matched,False,False,False,Valid
+TXN000443,Guest 0008,578,35391,2025-01-12,399.5,6164,Visa,Matched,False,False,False,Valid
+TXN000781,Guest 0249,694,38790,2025-03-21,400.51,6993,Mastercard,Matched,False,False,False,Valid
+TXN001877,Guest 0556,740,34043,2025-01-21,432.35,5703,American Express,Unmatched,False,False,False,Valid
+TXN000933,Guest 0130,729,30704,2025-01-24,494.28,9055,American Express,Matched,False,False,False,Valid
+TXN001961,Guest 0758,222,33719,2025-03-17,574.45,6024,Mastercard,Unmatched,False,False,False,Valid
+TXN000178,Guest 0385,602,35468,2025-01-15,441.04,4450,Visa,Matched,False,False,False,Valid
+TXN001825,Guest 0476,462,38135,2025-03-11,947.58,4369,Visa,Matched,False,False,False,Valid
+TXN001197,Guest 0181,755,33110,2025-03-06,454.91,1726,Visa,Matched,False,False,False,Valid
+TXN000087,Guest 0587,289,34449,2025-01-09,620.82,1761,Visa,Matched,False,False,False,Valid
+TXN001419,Guest 0078,491,38818,2025-03-19,1356.18,9681,Visa,Matched,False,False,False,Valid
+TXN001915,Guest 0632,467,31326,2025-01-30,483.2,2535,Visa,Matched,False,False,False,Valid
+TXN000458,Guest 0749,128,36480,2025-02-27,759.61,0593,Mastercard,Matched,False,False,False,Valid
+TXN001956,Guest 0755,597,31393,2025-02-06,581.41,6121,Visa,Matched,False,False,False,Valid
+TXN000055,Guest 0572,105,38497,2025-02-14,592.5,8888,Visa,Matched,False,False,False,Valid
+TXN001513,Guest 0103,734,34811,2025-03-08,748.92,0878,Visa,Matched,False,False,False,Valid
+TXN000644,Guest 0373,147,34340,2025-02-13,307.16,9733,Visa,Matched,False,False,False,Valid
+TXN000678,Guest 0703,497,32923,2025-01-08,576.62,2016,Mastercard,Matched,False,False,False,Valid
+TXN000222,Guest 0124,463,33017,2025-02-11,260.48,5618,Visa,Pending,False,False,False,Valid
+TXN000114,Guest 0729,784,36173,2025-02-11,544.03,1292,American Express,Matched,False,False,False,Valid
+TXN001609,Guest 0494,525,32731,2025-01-22,464.63,0249,Visa,Matched,False,False,False,Valid
+TXN001808,Guest 0125,797,35303,2025-02-13,390.43,7169,Visa,Matched,False,False,False,Valid
+TXN001380,Guest 0317,458,33814,2025-02-18,292.64,5985,Visa,Matched,False,False,False,Valid
+TXN000175,Guest 0187,380,34645,,465.36,8681,Visa,Unmatched,False,False,True,Review Required
+TXN000788,Guest 0048,108,30283,2025-03-03,543.78,2256,Mastercard,Unmatched,False,False,False,Valid
+TXN000590,Guest 0277,310,34869,2025-03-17,136.48,6379,Visa,Matched,False,False,False,Valid
+TXN001848,Guest 0288,572,39229,,508.37,5612,Visa,Matched,False,False,True,Review Required
+TXN000019,Guest 0576,231,37581,2025-03-17,688.52,7403,Mastercard,Matched,False,False,False,Valid
+TXN000424,Guest 0662,419,37012,2025-02-22,231.47,0543,Visa,Matched,False,False,False,Valid
+TXN001353,Guest 0085,185,33732,2025-02-14,594.52,2504,Mastercard,Matched,False,False,False,Valid
+TXN000286,Guest 0666,637,39960,2025-03-26,256.77,4859,Mastercard,Matched,False,False,False,Valid
+TXN001595,Guest 0199,695,34916,2025-03-05,244.73,5812,Visa,Matched,False,False,False,Valid
+TXN000429,Guest 0604,639,36735,2025-01-03,484.62,3699,American Express,Matched,False,False,False,Valid
+TXN001761,Guest 0140,188,33569,2025-02-04,312.4,4142,American Express,Matched,False,False,False,Valid
+TXN000756,Guest 0698,521,39153,2025-02-09,304.28,4667,Mastercard,Matched,False,False,False,Valid
+TXN000670,Guest 0771,400,33666,2025-01-12,116.62,8774,Visa,Matched,False,False,False,Valid
+TXN000032,Guest 0142,465,37089,2025-01-21,1006.52,4867,Mastercard,Matched,False,False,False,Valid
+TXN000950,Guest 0416,358,35526,2025-01-26,312.92,9994,Mastercard,Matched,False,False,False,Valid
+TXN000723,Guest 0091,761,31783,2025-03-18,169.36,5266,American Express,Matched,False,False,False,Valid
+TXN001511,Guest 0778,384,33727,2025-01-31,386.72,7627,Visa,Matched,False,False,False,Valid
+TXN000215,Guest 0093,579,37104,2025-03-08,257.24,2681,Visa,Matched,False,False,False,Valid
+TXN000893,Guest 0292,141,30206,2025-02-17,452.1,2528,Mastercard,Matched,False,False,False,Valid
+TXN001790,Guest 0254,790,39246,2025-03-09,358.39,7738,Visa,Matched,False,False,False,Valid
+TXN000327,Guest 0274,695,30547,2025-01-22,876.67,9029,American Express,Matched,False,False,False,Valid
+TXN000561,Guest 0462,442,36353,2025-02-18,1693.69,0803,Mastercard,Matched,False,False,False,Valid
+TXN001121,Guest 0499,671,35218,2025-01-02,701.77,4119,Mastercard,Matched,False,False,False,Valid
+TXN000701,Guest 0705,721,38901,2025-02-16,238.15,3146,Visa,Unmatched,False,False,False,Valid
+TXN001450,Guest 0397,218,38197,2025-01-10,431.96,3851,Visa,Matched,False,False,False,Valid
+TXN001319,Guest 0205,634,35356,2025-02-10,458.02,1527,Visa,Pending,False,False,False,Valid
+TXN000342,Guest 0316,393,39865,2025-01-27,998.36,2159,Visa,Matched,False,False,False,Valid
+TXN000630,Guest 0031,347,32918,2025-02-02,526.05,3590,American Express,Matched,False,False,False,Valid
+TXN000148,Guest 0749,698,37235,2025-01-22,548.21,,Mastercard,Matched,True,False,False,Review Required
+TXN001390,Guest 0543,712,37519,2025-03-23,435.66,0984,Mastercard,Matched,False,False,False,Valid
+TXN000361,Guest 0519,106,36249,2025-03-18,842.93,9591,Mastercard,Matched,False,False,False,Valid
+TXN000084,Guest 0534,651,39242,2025-03-16,252.46,6162,Visa,Matched,False,False,False,Valid
+TXN000049,Guest 0601,335,31750,2025-03-03,293.56,1227,Visa,Pending,False,False,False,Valid
+TXN000469,Guest 0022,722,35142,2025-01-17,193.92,1949,Visa,Matched,False,False,False,Valid
+TXN000156,Guest 0392,231,36109,2025-03-01,315.57,5348,Mastercard,Matched,False,False,False,Valid
+TXN000807,Guest 0232,428,34978,2025-02-19,323.46,2648,Visa,Matched,False,False,False,Valid
+TXN001064,Guest 0102,547,30164,2025-03-05,204.91,7493,Visa,Matched,False,False,False,Valid
+TXN001209,Guest 0337,443,34401,2025-01-26,693.55,9181,Mastercard,Unmatched,False,False,False,Valid
+TXN001413,Guest 0178,455,36607,2025-01-23,653.33,2925,Mastercard,Matched,False,False,False,Valid
+TXN001211,Guest 0769,172,37723,2025-02-26,302.09,1332,Visa,Pending,False,False,False,Valid
+TXN001642,Guest 0743,302,37685,2025-01-05,256.52,5672,Visa,Matched,False,False,False,Valid
+TXN000501,Guest 0560,585,31217,2025-01-11,432.46,9363,Mastercard,Matched,False,False,False,Valid
+TXN001778,Guest 0681,176,39289,2025-01-15,171.8,2708,Visa,Matched,False,False,False,Valid
+TXN000180,Guest 0366,427,39190,2025-02-15,173.48,1893,Visa,Matched,False,False,False,Valid
+TXN001055,Guest 0631,135,39323,2025-01-07,512.86,4143,Visa,Matched,False,False,False,Valid
+TXN001781,Guest 0046,236,35121,2025-01-05,620.43,9388,Mastercard,Matched,False,False,False,Valid
+TXN001844,Guest 0241,106,38668,2025-03-18,533.03,2487,Visa,Matched,False,False,False,Valid
+TXN001568,Guest 0123,346,32261,2025-02-24,248.72,4007,Visa,Pending,False,False,False,Valid
+TXN001165,Guest 0103,349,36264,2025-02-16,1277.4,6488,Visa,Matched,False,False,False,Valid
+TXN001631,Guest 0372,433,33100,2025-02-21,608.26,2836,Mastercard,Unmatched,False,False,False,Valid
+TXN000529,Guest 0070,411,38401,2025-03-24,353.33,0100,Visa,Matched,False,False,False,Valid
+TXN000347,Guest 0262,135,35591,2025-03-31,288.65,5663,Visa,Unmatched,False,False,False,Valid
+TXN001768,Guest 0600,331,34636,2025-02-12,337.15,6439,Mastercard,Matched,False,False,False,Valid
+TXN001976,Guest 0555,484,34667,2025-01-05,431.42,8870,Mastercard,Matched,False,False,False,Valid
+TXN000819,Guest 0102,474,37233,2025-03-01,373.59,9210,Mastercard,Pending,False,False,False,Valid
+TXN001988,Guest 0057,484,33235,2025-01-20,395.76,9619,Visa,Matched,False,False,False,Valid
+TXN001620,Guest 0070,216,37981,2025-03-31,502.37,2174,Visa,Matched,False,False,False,Valid
+TXN000602,Guest 0172,764,39425,2025-03-12,622.06,9192,Mastercard,Matched,False,False,False,Valid
+TXN001630,Guest 0664,120,34308,2025-01-12,132.23,3545,Visa,Matched,False,False,False,Valid
+TXN000244,Guest 0090,123,33323,2025-02-28,992.26,3922,Mastercard,Matched,False,False,False,Valid
+TXN001456,Guest 0693,196,32489,2025-01-06,373.1,3549,Mastercard,Matched,False,False,False,Valid
+TXN001113,Guest 0048,794,39392,2025-01-18,290.84,1098,Visa,Matched,False,False,False,Valid
+TXN001487,Guest 0273,249,38047,2025-01-15,522.18,1432,American Express,Matched,False,False,False,Valid
+TXN000313,Guest 0409,344,30462,2025-01-11,1088.59,0790,Mastercard,Matched,False,False,False,Valid
+TXN000436,Guest 0452,750,30129,2025-01-12,341.5,0373,Visa,Matched,False,False,False,Valid
+TXN001914,Guest 0441,210,39890,2025-03-11,214.62,0538,Visa,Matched,False,False,False,Valid
+TXN000943,Guest 0611,686,35032,2025-03-24,373.63,3569,American Express,Matched,False,False,False,Valid
+TXN000309,Guest 0247,662,33958,2025-01-29,867.17,8436,Mastercard,Matched,False,False,False,Valid
+TXN000431,Guest 0106,744,38524,2025-01-08,453.04,1847,American Express,Matched,False,False,False,Valid
+TXN000661,Guest 0348,682,30674,2025-01-16,634.72,1375,Mastercard,Matched,False,False,False,Valid
+TXN000371,Guest 0036,491,39908,2025-01-31,362.11,6224,Visa,Matched,False,False,False,Valid
+TXN000567,Guest 0641,593,31025,2025-01-21,307.02,8450,Mastercard,Matched,False,False,False,Valid
+TXN000989,Guest 0723,752,33691,2025-01-23,625.19,0706,Mastercard,Matched,False,False,False,Valid
+TXN000182,Guest 0193,353,38748,2025-01-14,675.23,1567,Mastercard,Matched,False,False,False,Valid
+TXN000875,Guest 0307,234,34433,2025-03-04,279.33,4589,Visa,Pending,False,False,False,Valid
+TXN000622,Guest 0314,796,39333,2025-02-13,979.76,6394,American Express,Pending,False,False,False,Valid
+TXN001394,Guest 0151,673,32994,2025-03-08,285.65,5258,American Express,Matched,False,False,False,Valid
+TXN001201,Guest 0738,405,36812,2025-03-21,386.43,5816,Visa,Pending,False,False,False,Valid
+TXN001563,Guest 0337,651,34913,2025-01-23,378.63,1211,Mastercard,Matched,False,False,False,Valid
+TXN001432,Guest 0617,259,38323,2025-01-17,830.71,8320,Mastercard,Matched,False,False,False,Valid
+TXN001855,Guest 0386,388,37472,2025-01-10,321.3,7571,Visa,Matched,False,False,False,Valid
+TXN000931,Guest 0140,111,30919,2025-02-18,862.84,6368,Mastercard,Matched,False,False,False,Valid
+TXN001081,Guest 0352,322,33414,2025-03-24,339.67,7444,American Express,Matched,False,False,False,Valid
+TXN000297,Guest 0134,412,31479,2025-03-18,957.44,9645,Mastercard,Unmatched,False,False,False,Valid
+TXN000910,Guest 0279,537,39908,2025-01-09,411.16,0407,Visa,Matched,False,False,False,Valid
+TXN000462,Guest 0173,337,34393,2025-01-13,668.4,2684,Visa,Matched,False,False,False,Valid
+TXN001565,Guest 0626,165,32798,2025-02-20,578.55,7923,Mastercard,Matched,False,False,False,Valid
+TXN001575,Guest 0763,599,35277,2025-01-14,449.92,3482,Mastercard,Matched,False,False,False,Valid
+TXN000378,Guest 0110,285,31432,2025-03-09,1130.9,5659,Mastercard,Matched,False,False,False,Valid
+TXN000799,Guest 0567,374,34781,2025-01-29,562.39,1127,Mastercard,Matched,False,False,False,Valid
+TXN001111,Guest 0432,484,30395,2025-02-26,231.64,6091,Mastercard,Matched,False,False,False,Valid
+TXN000106,Guest 0221,417,36484,2025-03-12,1150.05,8351,American Express,Matched,False,False,False,Valid
+TXN000127,Guest 0247,133,31645,2025-01-08,299.31,5584,American Express,Matched,False,False,False,Valid
+TXN001133,Guest 0609,434,37857,2025-03-13,447.22,1812,Visa,Matched,False,False,False,Valid
+TXN001139,Guest 0375,157,32244,2025-03-08,732.96,5825,Mastercard,Matched,False,False,False,Valid
+TXN001008,Guest 0341,680,36448,2025-02-15,471.67,1599,Mastercard,Matched,False,False,False,Valid
+TXN000356,Guest 0295,676,33646,2025-03-31,718.58,4522,American Express,Matched,False,False,False,Valid
+TXN001628,Guest 0190,128,30615,2025-02-22,236.27,5284,Mastercard,Matched,False,False,False,Valid
+TXN000683,Guest 0312,588,37417,2025-03-28,711.01,9852,Visa,Matched,False,False,False,Valid
+TXN000820,Guest 0567,752,31008,2025-03-31,249.21,2249,Visa,Matched,False,False,False,Valid
+TXN000880,Guest 0782,629,35962,2025-02-26,448.79,2610,Visa,Matched,False,False,False,Valid
+TXN000210,Guest 0111,524,36409,2025-03-12,762.09,0970,American Express,Pending,False,False,False,Valid
+TXN001830,Guest 0121,419,33959,2025-03-30,641.43,5648,Mastercard,Matched,False,False,False,Valid
+TXN000141,Guest 0561,608,33167,2025-03-30,404.5,5001,Visa,Matched,False,False,False,Valid
+TXN001448,Guest 0451,387,34313,2025-03-28,718.69,5163,Mastercard,Matched,False,False,False,Valid
+TXN001430,Guest 0242,702,38521,2025-03-12,728.37,6428,Visa,Pending,False,False,False,Valid
+TXN001925,Guest 0511,738,31294,2025-02-02,498.34,3959,Visa,Matched,False,False,False,Valid
+TXN001930,Guest 0592,280,33448,2025-03-27,291.82,9675,Mastercard,Matched,False,False,False,Valid
+TXN001104,Guest 0352,449,35531,2025-01-14,221.62,2716,Mastercard,Matched,False,False,False,Valid
+TXN001978,Guest 0790,213,39904,2025-01-31,1047.81,9265,Visa,Matched,False,False,False,Valid
+TXN001478,Guest 0426,594,37957,2025-02-05,837.39,8462,Mastercard,Matched,False,False,False,Valid
+TXN000712,Guest 0020,657,33563,2025-02-17,617.07,9622,Visa,Matched,False,False,False,Valid
+TXN001304,Guest 0220,394,32101,2025-03-22,669.9,9792,Mastercard,Matched,False,False,False,Valid
+TXN000942,Guest 0750,412,34392,2025-02-06,451.92,4486,Visa,Matched,False,False,False,Valid
+TXN000980,Guest 0381,526,34983,2025-02-20,1070.63,8923,Mastercard,Matched,False,False,False,Valid
+TXN000011,Guest 0398,347,33966,2025-02-17,503.59,9363,Visa,Unmatched,False,False,False,Valid
+TXN001736,Guest 0164,490,32573,2025-03-13,1167.2,2802,Mastercard,Matched,False,False,False,Valid
+TXN001132,Guest 0369,377,38121,2025-03-02,240.26,4119,Mastercard,Matched,False,False,False,Valid
+TXN000283,Guest 0259,219,35951,2025-03-02,774.15,8785,Mastercard,Matched,False,False,False,Valid
+TXN000811,Guest 0411,243,38163,2025-01-04,522.2,7369,Visa,Matched,False,False,False,Valid
+TXN001465,Guest 0288,239,34480,2025-03-18,430.05,2932,Mastercard,Matched,False,False,False,Valid
+TXN000292,Guest 0258,750,36394,2025-01-25,531.16,7882,American Express,Unmatched,False,False,False,Valid
+TXN000755,Guest 0793,249,36585,2025-02-19,609.01,1296,Mastercard,Unmatched,False,False,False,Valid
+TXN000627,Guest 0784,103,37859,2025-01-31,443.97,9447,American Express,Matched,False,False,False,Valid
+TXN000953,Guest 0750,648,38066,2025-02-25,185.35,2711,Visa,Matched,False,False,False,Valid
+TXN000870,Guest 0165,588,30759,2025-01-04,217.39,8885,Mastercard,Matched,False,False,False,Valid
+TXN000130,Guest 0257,397,33739,2025-02-27,441.56,7626,Visa,Matched,False,False,False,Valid
+TXN001673,Guest 0470,767,37124,2025-01-25,551.77,7037,Mastercard,Matched,False,False,False,Valid
+TXN000844,Guest 0387,239,33422,2025-01-04,511.67,9917,Visa,Matched,False,False,False,Valid
+TXN000324,Guest 0522,286,39643,2025-03-24,656.92,3819,Mastercard,Matched,False,False,False,Valid
+TXN001325,Guest 0347,738,34769,2025-03-19,331.0,0796,Mastercard,Matched,False,False,False,Valid
+TXN001421,Guest 0414,660,37162,2025-03-27,595.62,2657,Mastercard,Matched,False,False,False,Valid
+TXN001782,Guest 0183,203,31424,2025-01-31,272.37,4940,Visa,Matched,False,False,False,Valid
+TXN001879,Guest 0143,559,37983,2025-03-07,598.72,9321,Visa,Matched,False,False,False,Valid
+TXN000874,Guest 0175,511,33287,2025-01-12,875.69,6590,Mastercard,Matched,False,False,False,Valid
+TXN001602,Guest 0489,798,30155,2025-03-08,563.49,3709,American Express,Matched,False,False,False,Valid
+TXN000696,Guest 0296,685,35896,2025-01-23,605.81,5568,Mastercard,Matched,False,False,False,Valid
+TXN000216,Guest 0313,794,36464,2025-01-25,542.5,0039,Visa,Matched,False,False,False,Valid
+TXN001377,Guest 0405,220,36059,2025-03-28,525.39,3936,Visa,Matched,False,False,False,Valid
+TXN001271,Guest 0132,230,33046,2025-02-03,171.15,0270,Mastercard,Matched,False,False,False,Valid
+TXN000159,Guest 0651,240,37731,2025-02-15,283.37,1030,Mastercard,Matched,False,False,False,Valid
+TXN001340,Guest 0694,427,35758,2025-02-06,796.31,3935,Mastercard,Matched,False,False,False,Valid
+TXN000842,Guest 0564,187,38607,2025-03-01,170.43,6072,Visa,Matched,False,False,False,Valid
+TXN000635,Guest 0067,171,38680,2025-01-17,160.93,3838,Mastercard,Matched,False,False,False,Valid
+TXN000517,Guest 0554,346,32738,2025-03-21,256.69,0354,Mastercard,Matched,False,False,False,Valid
+TXN001690,Guest 0134,247,39591,2025-01-09,300.69,1239,Visa,Pending,False,False,False,Valid
+TXN001532,Guest 0058,761,37900,2025-01-01,581.75,6341,Mastercard,Matched,False,False,False,Valid
+TXN000598,Guest 0579,104,34792,2025-03-12,1075.85,6888,Visa,Matched,False,False,False,Valid
+TXN000196,Guest 0653,446,33902,2025-01-08,1233.64,9184,American Express,Matched,False,False,False,Valid
+TXN001655,Guest 0535,272,31294,2025-01-15,570.25,7241,Visa,Matched,False,False,False,Valid
+TXN001647,Guest 0514,715,35574,2025-01-31,405.41,1420,Visa,Matched,False,False,False,Valid
+TXN000411,Guest 0425,185,38481,2025-01-16,264.75,9868,Mastercard,Matched,False,False,False,Valid
+TXN000097,Guest 0752,475,36806,2025-01-22,978.85,3824,Mastercard,Matched,False,False,False,Valid
+TXN001010,Guest 0650,294,37181,2025-02-16,433.44,3809,Mastercard,Unmatched,False,False,False,Valid
+TXN001938,Guest 0378,502,34320,2025-02-19,667.13,5533,Visa,Matched,False,False,False,Valid
+TXN000157,Guest 0355,595,30874,2025-01-12,492.64,0382,Visa,Matched,False,False,False,Valid
+TXN000420,Guest 0335,173,30953,2025-02-15,578.02,8849,Visa,Matched,False,False,False,Valid
+TXN001817,Guest 0362,385,35274,2025-01-22,484.56,2426,Visa,Matched,False,False,False,Valid
+TXN000478,Guest 0141,358,33552,2025-01-02,361.68,8907,Visa,Matched,False,False,False,Valid
+TXN001870,Guest 0570,567,34970,2025-03-11,489.73,6291,Visa,Matched,False,False,False,Valid
+TXN000669,Guest 0062,615,34506,2025-03-24,272.08,1878,Visa,Matched,False,False,False,Valid
+TXN001814,Guest 0355,777,38129,2025-02-14,691.25,5500,Visa,Matched,False,False,False,Valid
+TXN001911,Guest 0187,238,30464,2025-01-07,567.45,8358,Visa,Matched,False,False,False,Valid
+TXN001730,Guest 0512,390,39492,2025-01-10,839.63,8857,Mastercard,Matched,False,False,False,Valid
+TXN000448,Guest 0518,233,36955,2025-03-28,295.04,0353,Mastercard,Pending,False,False,False,Valid
+TXN000554,Guest 0155,489,34834,2025-01-29,432.96,5790,American Express,Matched,False,False,False,Valid
+TXN000179,Guest 0501,422,37995,2025-03-23,284.28,6912,American Express,Matched,False,False,False,Valid
+TXN000391,Guest 0364,227,37599,2025-03-09,1121.77,2556,Mastercard,Pending,False,False,False,Valid
+TXN000579,Guest 0776,293,31325,2025-03-22,1131.81,5271,Mastercard,Matched,False,False,False,Valid
+TXN001865,Guest 0506,739,32354,2025-03-17,432.73,3874,Visa,Pending,False,False,False,Valid
+TXN001720,Guest 0211,421,30814,2025-02-16,39.88,7470,Visa,Matched,False,False,False,Valid
+TXN001371,Guest 0790,648,37610,2025-03-21,350.01,1407,Mastercard,Matched,False,False,False,Valid
+TXN001656,Guest 0386,254,33278,2025-01-21,215.25,6778,Visa,Pending,False,False,False,Valid
+TXN000907,Guest 0500,300,30300,2025-02-07,490.86,9190,Visa,Matched,False,False,False,Valid
+TXN000821,Guest 0433,478,37889,2025-01-03,533.08,1594,Visa,Unmatched,False,False,False,Valid
+TXN001839,Guest 0768,295,37730,2025-01-21,163.97,,Visa,Matched,True,False,False,Review Required
+TXN000994,Guest 0685,487,37170,2025-02-08,463.51,5595,American Express,Matched,False,False,False,Valid
+TXN001056,Guest 0383,731,31535,2025-03-31,340.88,9689,Visa,Matched,False,False,False,Valid
+TXN000665,Guest 0172,319,36932,2025-02-23,529.14,4321,Visa,Matched,False,False,False,Valid
+TXN000143,Guest 0770,215,35312,2025-01-25,727.18,1324,Mastercard,Matched,False,False,False,Valid
+TXN001636,Guest 0379,518,32798,2025-02-18,229.93,6485,Mastercard,Unmatched,False,False,False,Valid
+TXN001733,Guest 0322,690,32780,2025-03-04,355.52,0463,Visa,Matched,False,False,False,Valid
+TXN000865,Guest 0070,715,39013,2025-03-18,369.71,7937,American Express,Matched,False,False,False,Valid
+TXN000422,Guest 0607,799,33517,2025-03-04,168.32,1384,Visa,Matched,False,False,False,Valid
+TXN000637,Guest 0269,677,30969,2025-01-22,608.25,1220,Mastercard,Unmatched,False,False,False,Valid
+TXN001484,Guest 0185,691,31889,2025-01-11,203.89,7143,Mastercard,Matched,False,False,False,Valid
+TXN000800,Guest 0318,489,36479,2025-02-09,368.07,2953,Mastercard,Matched,False,False,False,Valid
+TXN001074,Guest 0626,647,32282,2025-02-17,496.56,9667,American Express,Matched,False,False,False,Valid
+TXN000616,Guest 0536,402,30255,2025-02-27,464.62,5079,Mastercard,Pending,False,False,False,Valid
+TXN000295,Guest 0572,749,30674,2025-02-19,600.24,9788,Mastercard,Matched,False,False,False,Valid
+TXN000932,Guest 0539,614,37930,2025-03-04,556.67,7316,American Express,Pending,False,False,False,Valid
+TXN000938,Guest 0578,514,33103,2025-01-14,718.74,3039,Mastercard,Matched,False,False,False,Valid
+TXN001918,Guest 0680,274,31060,2025-02-14,589.46,5282,American Express,Matched,False,False,False,Valid
+TXN000089,Guest 0245,788,33890,2025-03-11,777.76,7259,Visa,Matched,False,False,False,Valid
+TXN000042,Guest 0714,556,33932,2025-03-10,436.13,0503,Mastercard,Matched,False,False,False,Valid
+TXN001816,Guest 0058,141,38812,2025-01-10,2562.98,3647,Visa,Matched,False,False,False,Valid
+TXN001949,Guest 0776,754,35784,2025-01-01,684.57,2125,Mastercard,Unmatched,False,False,False,Valid
+TXN000132,Guest 0781,751,34460,2025-02-19,405.22,3867,Mastercard,Matched,False,False,False,Valid
+TXN001011,Guest 0296,691,30296,2025-01-25,520.43,4366,Visa,Matched,False,False,False,Valid
+TXN000999,Guest 0348,575,34162,2025-03-28,686.62,2943,Mastercard,Matched,False,False,False,Valid
+TXN001512,Guest 0463,658,33438,2025-01-21,229.08,5262,American Express,Matched,False,False,False,Valid
+TXN001869,Guest 0178,747,36063,2025-01-03,475.43,9837,Mastercard,Matched,False,False,False,Valid
+TXN001354,Guest 0583,431,33220,2025-03-24,732.79,2751,American Express,Matched,False,False,False,Valid
+TXN001510,Guest 0280,717,34646,2025-03-03,755.35,7728,Visa,Matched,False,False,False,Valid
+TXN000165,Guest 0764,600,32497,2025-02-07,408.23,2937,Visa,Matched,False,False,False,Valid
+TXN000725,Guest 0633,304,32750,2025-03-12,272.31,4879,Visa,Matched,False,False,False,Valid
+TXN000291,Guest 0316,148,34057,2025-03-14,145.12,4732,Visa,Matched,False,False,False,Valid
+TXN001829,Guest 0546,183,35515,2025-02-25,571.77,9317,Mastercard,Matched,False,False,False,Valid
+TXN001547,Guest 0328,208,36616,2025-03-03,299.18,7682,Mastercard,Matched,False,False,False,Valid
+TXN001912,Guest 0777,336,35933,2025-03-21,538.04,8115,Mastercard,Pending,False,False,False,Valid
+TXN001028,Guest 0598,168,39712,2025-01-26,308.73,4381,American Express,Matched,False,False,False,Valid
+TXN001792,Guest 0142,162,36200,2025-03-21,161.44,7235,Visa,Matched,False,False,False,Valid
+TXN000779,Guest 0311,175,31427,2025-01-25,220.14,7475,Visa,Matched,False,False,False,Valid
+TXN000840,Guest 0778,752,38502,2025-03-23,226.64,4015,Mastercard,Matched,False,False,False,Valid
+TXN000349,Guest 0162,636,34779,2025-01-17,171.47,6528,Mastercard,Matched,False,False,False,Valid
+TXN001960,Guest 0173,712,36518,2025-01-17,923.9,0009,Visa,Matched,False,False,False,Valid
+TXN000572,Guest 0747,166,36387,2025-02-07,552.31,4274,Visa,Pending,False,False,False,Valid
+TXN000918,Guest 0757,291,30204,2025-03-12,311.77,5753,Visa,Matched,False,False,False,Valid
+TXN000986,Guest 0519,136,38559,2025-02-28,281.89,5179,Visa,Unmatched,False,False,False,Valid
+TXN001902,Guest 0762,208,34254,2025-02-17,255.68,9015,Visa,Matched,False,False,False,Valid
+TXN001777,Guest 0426,379,38304,2025-01-30,258.13,8744,American Express,Matched,False,False,False,Valid
+TXN001603,Guest 0125,107,32731,2025-03-16,556.3,5768,Visa,Matched,False,False,False,Valid
+TXN001327,Guest 0129,496,32460,2025-03-03,315.97,,Mastercard,Matched,True,False,False,Review Required
+TXN001859,Guest 0261,340,30951,2025-02-17,341.07,6262,Visa,Pending,False,False,False,Valid
+TXN000137,Guest 0436,781,31429,2025-02-24,262.58,4639,Visa,Matched,False,False,False,Valid
+TXN000459,Guest 0380,182,33461,,570.53,3905,Mastercard,Matched,False,False,True,Review Required
+TXN000376,Guest 0793,509,38640,2025-01-09,345.48,8381,American Express,Matched,False,False,False,Valid
+TXN001352,Guest 0751,451,38783,2025-02-05,508.54,0345,Mastercard,Matched,False,False,False,Valid
+TXN000334,Guest 0659,725,30961,2025-03-16,279.59,6956,Visa,Matched,False,False,False,Valid
+TXN001316,Guest 0678,496,34170,2025-01-27,553.15,6059,Visa,Matched,False,False,False,Valid
+TXN001344,Guest 0496,413,36108,2025-02-21,976.99,4183,Visa,Matched,False,False,False,Valid
+TXN001774,Guest 0102,117,39868,2025-02-05,1264.54,5634,American Express,Matched,False,False,False,Valid
+TXN001469,Guest 0420,487,39038,2025-03-11,442.65,0851,Visa,Pending,False,False,False,Valid
+TXN000817,Guest 0540,710,38754,2025-01-04,510.76,0915,Visa,Matched,False,False,False,Valid
+TXN001436,Guest 0486,793,38018,2025-01-10,146.93,8197,American Express,Matched,False,False,False,Valid
+TXN001672,Guest 0077,550,34398,2025-02-21,784.1,4255,Mastercard,Matched,False,False,False,Valid
+TXN001871,Guest 0037,651,30695,2025-01-04,916.66,,Mastercard,Matched,True,False,False,Review Required
+TXN000985,Guest 0576,235,39568,2025-02-22,243.19,7169,American Express,Pending,False,False,False,Valid
+TXN001927,Guest 0402,620,39903,2025-02-02,404.96,7487,American Express,Matched,False,False,False,Valid
+TXN000911,Guest 0090,762,36343,2025-03-11,613.6,8991,Visa,Matched,False,False,False,Valid
+TXN001945,Guest 0105,278,39909,2025-02-04,636.96,,American Express,Unmatched,True,False,False,Review Required
+TXN001134,Guest 0065,129,38607,2025-03-10,283.34,8516,Visa,Matched,False,False,False,Valid
+TXN000329,Guest 0022,134,30776,2025-01-13,498.89,2760,Visa,Matched,False,False,False,Valid
+TXN001922,Guest 0492,658,33155,2025-02-18,331.53,9765,Mastercard,Unmatched,False,False,False,Valid
+TXN000319,Guest 0681,696,34658,2025-03-26,554.73,5203,American Express,Matched,False,False,False,Valid
+TXN001541,Guest 0588,299,36556,2025-02-12,909.39,9822,Visa,Matched,False,False,False,Valid
+TXN001369,Guest 0339,565,30905,2025-03-28,477.14,6124,Visa,Matched,False,False,False,Valid
+TXN001746,Guest 0789,115,31115,2025-03-30,620.55,5087,Mastercard,Matched,False,False,False,Valid
+TXN000168,Guest 0675,227,37809,2025-01-16,283.29,3291,Visa,Matched,False,False,False,Valid
+TXN000013,Guest 0123,582,36570,2025-03-08,532.56,6593,Visa,Matched,False,False,False,Valid
+TXN001942,Guest 0250,428,39538,2025-01-23,436.95,9797,Visa,Matched,False,False,False,Valid
+TXN000172,Guest 0596,285,33162,2025-01-09,336.81,9568,Mastercard,Matched,False,False,False,Valid
+TXN000650,Guest 0265,284,36043,2025-03-18,574.97,2044,Visa,Matched,False,False,False,Valid
+TXN001069,Guest 0120,125,36277,2025-01-31,483.72,7428,Mastercard,Matched,False,False,False,Valid
+TXN000261,Guest 0020,258,31244,2025-03-13,423.36,9736,Visa,Matched,False,False,False,Valid
+TXN001222,Guest 0203,720,36560,2025-02-19,466.27,8835,American Express,Matched,False,False,False,Valid
+TXN001420,Guest 0228,550,37341,2025-02-12,284.9,0439,Visa,Matched,False,False,False,Valid
+TXN000902,Guest 0641,560,36918,2025-01-04,430.01,3269,American Express,Matched,False,False,False,Valid
+TXN000673,Guest 0682,248,33339,2025-02-27,367.16,1432,Visa,Matched,False,False,False,Valid
+TXN000259,Guest 0001,523,37330,2025-01-16,238.49,0226,Visa,Matched,False,False,False,Valid
+TXN000845,Guest 0366,626,32735,2025-01-01,588.69,6816,Mastercard,Unmatched,False,False,False,Valid
+TXN000868,Guest 0127,326,32479,2025-03-17,660.67,9740,American Express,Matched,False,False,False,Valid
+TXN001203,Guest 0616,685,32644,2025-03-30,402.06,6297,Mastercard,Matched,False,False,False,Valid
+TXN000139,Guest 0432,716,30657,2025-02-01,407.12,2299,Mastercard,Matched,False,False,False,Valid
+TXN000894,Guest 0730,135,36790,2025-03-30,600.93,4720,Mastercard,Matched,False,False,False,Valid
+TXN001852,Guest 0037,513,35600,2025-01-23,68.39,8207,Mastercard,Matched,False,False,False,Valid
+TXN000550,Guest 0103,708,37041,2025-03-03,384.8,1842,American Express,Matched,False,False,False,Valid
+TXN000320,Guest 0620,130,33121,2025-03-11,1303.2,0323,Visa,Unmatched,False,False,False,Valid
+TXN001538,Guest 0107,688,36620,2025-01-10,302.1,9690,Mastercard,Matched,False,False,False,Valid
+TXN001245,Guest 0584,346,37283,2025-03-20,457.44,4808,Visa,Matched,False,False,False,Valid
+TXN001186,Guest 0760,557,38059,2025-01-28,445.57,3390,American Express,Unmatched,False,False,False,Valid
+TXN000559,Guest 0025,625,39541,2025-03-13,442.92,4504,American Express,Matched,False,False,False,Valid
+TXN000140,Guest 0321,453,34484,2025-02-09,326.55,0559,Mastercard,Matched,False,False,False,Valid
+TXN001748,Guest 0789,275,31198,2025-02-03,405.5,3338,Visa,Pending,False,False,False,Valid
+TXN000532,Guest 0645,189,32280,2025-01-15,262.6,5314,Visa,Matched,False,False,False,Valid
+TXN000225,Guest 0321,647,33757,2025-03-06,540.44,1971,Mastercard,Matched,False,False,False,Valid
+TXN000724,Guest 0302,137,33462,2025-01-11,188.52,4340,Mastercard,Matched,False,False,False,Valid
+TXN000787,Guest 0227,493,36494,2025-01-03,417.15,8523,Mastercard,Matched,False,False,False,Valid
+TXN001731,Guest 0578,684,35547,2025-03-12,544.65,9227,Visa,Matched,False,False,False,Valid
+TXN001683,Guest 0173,367,38621,2025-01-04,462.28,9755,Mastercard,Pending,False,False,False,Valid
+TXN000410,Guest 0022,326,39282,2025-01-02,330.91,9197,Mastercard,Unmatched,False,False,False,Valid
+TXN000326,Guest 0659,375,31425,2025-01-21,967.07,5986,Visa,Pending,False,False,False,Valid
+TXN001107,Guest 0689,631,31477,2025-01-22,540.97,8244,Visa,Matched,False,False,False,Valid
+TXN000300,Guest 0715,166,31837,2025-01-02,726.5,5059,Visa,Matched,False,False,False,Valid
+TXN001272,Guest 0330,400,30618,2025-01-10,309.12,9421,Visa,Matched,False,False,False,Valid
+TXN001526,Guest 0170,171,30883,2025-01-05,780.82,1058,Visa,Matched,False,False,False,Valid
+TXN000026,Guest 0379,198,37620,2025-02-27,816.11,4014,Visa,Matched,False,False,False,Valid
+TXN001873,Guest 0692,616,34485,2025-02-24,382.58,8017,Visa,Matched,False,False,False,Valid
+TXN000715,Guest 0406,120,39349,2025-03-24,462.71,4557,Visa,Matched,False,False,False,Valid
+TXN001019,Guest 0479,646,34641,2025-01-04,860.74,1288,American Express,Matched,False,False,False,Valid
+TXN000194,Guest 0176,128,30835,2025-02-02,489.81,3263,Mastercard,Matched,False,False,False,Valid
+TXN000441,Guest 0290,329,38357,2025-03-29,557.76,0680,American Express,Pending,False,False,False,Valid
+TXN000574,Guest 0314,721,36284,2025-01-05,435.7,3369,Visa,Matched,False,False,False,Valid
+TXN000947,Guest 0472,359,34681,2025-03-29,391.87,1004,Mastercard,Matched,False,False,False,Valid
+TXN000998,Guest 0279,673,33920,2025-02-02,882.12,2799,Mastercard,Pending,False,False,False,Valid
+TXN000504,Guest 0086,640,35530,2025-03-20,413.92,5214,Mastercard,Matched,False,False,False,Valid
+TXN000606,Guest 0605,430,32559,2025-02-18,295.37,4331,Mastercard,Matched,False,False,False,Valid
+TXN001888,Guest 0142,218,36083,2025-02-07,553.14,7968,Visa,Matched,False,False,False,Valid
+TXN001899,Guest 0243,555,38565,2025-03-09,262.73,3998,Visa,Matched,False,False,False,Valid
+TXN001801,Guest 0739,187,34292,2025-01-06,488.68,7102,Visa,Matched,False,False,False,Valid
+TXN000847,Guest 0691,686,31097,2025-01-15,1190.02,5757,Visa,Matched,False,False,False,Valid
+TXN000004,Guest 0367,413,35940,2025-02-09,1689.77,8490,Visa,Unmatched,False,False,False,Valid
+TXN001158,Guest 0796,186,37452,2025-03-18,542.92,6999,Mastercard,Matched,False,False,False,Valid
+TXN001231,Guest 0673,195,35746,2025-03-15,323.85,7900,Mastercard,Unmatched,False,False,False,Valid
+TXN000468,Guest 0544,764,30999,2025-02-23,132.76,8386,Visa,Matched,False,False,False,Valid
+TXN000322,Guest 0028,414,39822,2025-01-10,733.41,7499,Mastercard,Matched,False,False,False,Valid
+TXN000006,Guest 0104,767,32448,2025-03-19,215.67,2252,American Express,Matched,False,False,False,Valid
+TXN001385,Guest 0639,143,36235,2025-02-04,537.22,7631,Mastercard,Pending,False,False,False,Valid
+TXN000548,Guest 0468,689,37099,2025-02-23,1733.78,5975,Visa,Matched,False,False,False,Valid
+TXN000229,Guest 0232,344,30046,2025-02-19,953.92,8489,Mastercard,Pending,False,False,False,Valid
+TXN000543,Guest 0766,748,33126,2025-01-18,292.14,7366,Mastercard,Matched,False,False,False,Valid
+TXN000243,Guest 0363,677,39185,2025-01-09,358.61,5620,Visa,Matched,False,False,False,Valid
+TXN000899,Guest 0638,630,39381,2025-01-07,1322.58,6736,American Express,Matched,False,False,False,Valid
+TXN001477,Guest 0439,280,39589,2025-02-14,1032.92,2412,Mastercard,Matched,False,False,False,Valid
+TXN001555,Guest 0332,488,36183,2025-02-11,248.46,7264,Visa,Matched,False,False,False,Valid
+TXN001305,Guest 0095,264,39107,2025-02-24,329.58,0596,Mastercard,Matched,False,False,False,Valid
+TXN000843,Guest 0612,169,34992,2025-03-23,718.04,7648,Visa,Unmatched,False,False,False,Valid
+TXN001429,Guest 0624,121,38886,2025-01-25,690.66,8056,Mastercard,Unmatched,False,False,False,Valid
+TXN001876,Guest 0483,161,36491,2025-01-11,335.36,0051,Mastercard,Matched,False,False,False,Valid
+TXN001985,Guest 0687,199,37198,2025-02-27,1338.17,4569,Visa,Unmatched,False,False,False,Valid
+TXN000662,Guest 0620,506,39441,2025-03-08,569.79,8719,Visa,Unmatched,False,False,False,Valid
+TXN001633,Guest 0030,465,39910,2025-01-09,479.58,6969,American Express,Unmatched,False,False,False,Valid
+TXN000315,Guest 0182,626,38523,2025-01-22,2694.76,9244,Visa,Matched,False,False,False,Valid
+TXN000692,Guest 0486,147,36718,2025-03-13,-1261.12,7931,Mastercard,Matched,False,True,False,Review Required
+TXN001515,Guest 0211,456,32823,2025-01-23,404.2,6808,Visa,Matched,False,False,False,Valid
+TXN000425,Guest 0279,320,39705,2025-02-07,1033.5,4504,Mastercard,Pending,False,False,False,Valid
+TXN000595,Guest 0245,532,39567,2025-01-29,217.19,5023,Visa,Matched,False,False,False,Valid
+TXN001979,Guest 0434,244,34709,2025-01-06,545.92,1132,Visa,Pending,False,False,False,Valid
+TXN000623,Guest 0084,678,38059,2025-01-15,734.89,9199,Visa,Matched,False,False,False,Valid
+TXN001179,Guest 0173,161,33885,2025-01-24,260.68,6513,Mastercard,Matched,False,False,False,Valid
+TXN001051,Guest 0669,404,39913,2025-02-15,623.21,1983,Visa,Matched,False,False,False,Valid
+TXN000228,Guest 0747,529,36564,2025-02-22,318.94,8915,Mastercard,Matched,False,False,False,Valid
+TXN001126,Guest 0712,622,39045,2025-03-17,433.11,1116,Mastercard,Matched,False,False,False,Valid
+TXN001341,Guest 0434,311,38831,2025-02-18,533.09,0213,Visa,Pending,False,False,False,Valid
+TXN001106,Guest 0243,550,33440,2025-01-17,1119.84,1598,American Express,Matched,False,False,False,Valid
+TXN000067,Guest 0581,698,33827,2025-03-23,308.71,9423,Mastercard,Matched,False,False,False,Valid
+TXN000025,Guest 0059,418,34885,2025-03-12,540.89,9243,Mastercard,Matched,False,False,False,Valid
+TXN000145,Guest 0291,191,30691,2025-03-31,555.3,1766,American Express,Matched,False,False,False,Valid
+TXN000537,Guest 0261,157,33445,2025-02-11,471.41,6417,American Express,Matched,False,False,False,Valid
+TXN000812,Guest 0229,273,38125,2025-03-21,485.48,4720,Visa,Matched,False,False,False,Valid
+TXN001558,Guest 0277,282,37580,2025-03-11,582.53,7446,Visa,Pending,False,False,False,Valid
+TXN000086,Guest 0525,543,37647,2025-03-05,305.0,6069,Visa,Matched,False,False,False,Valid
+TXN001318,Guest 0320,175,38794,2025-02-23,551.66,1573,Visa,Matched,False,False,False,Valid
+TXN001190,Guest 0668,307,30443,2025-01-01,1590.03,0999,Visa,Matched,False,False,False,Valid
+TXN001819,Guest 0502,375,36925,2025-01-13,174.03,2912,Mastercard,Pending,False,False,False,Valid
+TXN001832,Guest 0163,209,33049,2025-03-27,832.13,5378,Mastercard,Matched,False,False,False,Valid
+TXN001779,Guest 0789,595,34215,2025-01-28,1035.82,2621,American Express,Matched,False,False,False,Valid
+TXN001880,Guest 0035,108,30932,2025-01-10,269.98,1279,Mastercard,Matched,False,False,False,Valid
+TXN000363,Guest 0770,448,37596,2025-01-21,221.59,9630,Mastercard,Pending,False,False,False,Valid
+TXN001623,Guest 0265,241,38405,2025-03-25,300.22,3705,Visa,Matched,False,False,False,Valid
+TXN001161,Guest 0095,367,30454,2025-02-22,307.25,6087,American Express,Matched,False,False,False,Valid
+TXN001027,Guest 0091,278,32447,2025-01-07,360.61,5979,Visa,Matched,False,False,False,Valid
+TXN001031,Guest 0586,322,38918,2025-02-13,655.12,7179,Mastercard,Matched,False,False,False,Valid
+TXN001226,Guest 0618,445,36150,2025-03-29,210.21,8495,Visa,Matched,False,False,False,Valid
+TXN001365,Guest 0129,291,39906,2025-02-19,317.15,2109,Mastercard,Pending,False,False,False,Valid
+TXN001095,Guest 0728,411,39748,2025-01-30,303.94,4028,Mastercard,Pending,False,False,False,Valid
+TXN000666,Guest 0430,678,30262,2025-03-04,567.2,7531,Mastercard,Matched,False,False,False,Valid
+TXN000365,Guest 0608,505,38151,2025-01-11,553.93,8199,Mastercard,Matched,False,False,False,Valid
+TXN000078,Guest 0353,521,31843,2025-01-21,316.68,7292,American Express,Matched,False,False,False,Valid
+TXN000028,Guest 0761,409,36981,2025-03-16,500.07,3324,Visa,Matched,False,False,False,Valid
+TXN001447,Guest 0257,567,31486,2025-03-26,444.68,0538,American Express,Matched,False,False,False,Valid
+TXN000526,Guest 0260,421,30717,2025-01-28,548.88,1526,American Express,Matched,False,False,False,Valid
+TXN001849,Guest 0593,523,30652,2025-02-16,279.69,8223,Visa,Matched,False,False,False,Valid
+TXN000056,Guest 0294,365,38596,2025-01-04,347.13,0686,Mastercard,Matched,False,False,False,Valid
+TXN000639,Guest 0121,531,37915,2025-03-13,101.32,4577,Visa,Matched,False,False,False,Valid
+TXN000303,Guest 0456,194,31651,2025-01-01,454.32,3099,Mastercard,Matched,False,False,False,Valid
+TXN000719,Guest 0464,381,31742,2025-01-22,331.33,4215,Mastercard,Matched,False,False,False,Valid
+TXN000625,Guest 0738,375,35308,2025-02-24,1196.11,4320,Mastercard,Matched,False,False,False,Valid
+TXN000008,Guest 0122,555,37456,2025-03-04,389.84,0276,Mastercard,Matched,False,False,False,Valid
+TXN000804,Guest 0051,654,38344,2025-03-24,327.51,4908,Visa,Matched,False,False,False,Valid
+TXN001050,Guest 0567,738,35059,2025-01-11,138.55,6247,Visa,Pending,False,False,False,Valid
+TXN000337,Guest 0364,630,35407,2025-03-28,503.8,5398,Visa,Matched,False,False,False,Valid
+TXN000048,Guest 0426,274,35707,2025-03-22,148.18,8108,Visa,Matched,False,False,False,Valid
+TXN001491,Guest 0087,432,31117,2025-01-25,169.07,5079,Visa,Matched,False,False,False,Valid
+TXN000107,Guest 0613,172,30255,2025-03-12,489.81,7233,American Express,Matched,False,False,False,Valid
+TXN000350,Guest 0404,346,36780,2025-01-15,824.41,1134,Mastercard,Matched,False,False,False,Valid
+TXN001080,Guest 0359,457,33035,2025-03-17,518.84,2541,Mastercard,Unmatched,False,False,False,Valid
+TXN000239,Guest 0381,631,39976,2025-01-28,469.6,6622,Visa,Matched,False,False,False,Valid
+TXN000214,Guest 0093,599,33314,2025-02-10,667.11,0431,Mastercard,Matched,False,False,False,Valid
+TXN001262,Guest 0384,158,31063,2025-03-25,1521.55,8877,Visa,Matched,False,False,False,Valid
+TXN001147,Guest 0515,433,38890,2025-02-17,453.57,6175,Visa,Matched,False,False,False,Valid
+TXN000794,Guest 0428,281,30747,2025-03-16,340.56,4686,Visa,Matched,False,False,False,Valid
+TXN001097,Guest 0140,531,31612,2025-03-17,507.28,0813,Visa,Matched,False,False,False,Valid
+TXN001594,Guest 0456,539,36489,2025-01-02,131.11,4175,Visa,Matched,False,False,False,Valid
+TXN001685,Guest 0781,481,35141,2025-02-02,745.51,7576,Visa,Matched,False,False,False,Valid
+TXN000524,Guest 0322,790,36961,2025-03-16,179.39,9520,Visa,Matched,False,False,False,Valid
+TXN000233,Guest 0751,523,31514,2025-01-02,411.43,7352,Visa,Matched,False,False,False,Valid
+TXN000645,Guest 0362,119,37974,2025-03-11,305.32,3219,Mastercard,Matched,False,False,False,Valid
+TXN001519,Guest 0543,497,32365,2025-02-14,305.97,7603,Mastercard,Pending,False,False,False,Valid
+TXN000534,Guest 0137,626,31887,2025-01-26,136.04,7064,Mastercard,Matched,False,False,False,Valid
+TXN001520,Guest 0738,468,31650,2025-02-11,470.79,1679,Mastercard,Matched,False,False,False,Valid
+TXN000604,Guest 0451,629,33191,2025-01-13,406.21,7632,Visa,Unmatched,False,False,False,Valid
+TXN001443,Guest 0365,745,35664,2025-03-26,326.8,8931,American Express,Matched,False,False,False,Valid
+TXN001075,Guest 0466,201,37124,2025-02-12,173.93,8502,Visa,Matched,False,False,False,Valid
+TXN001314,Guest 0180,376,31585,2025-03-18,150.28,5315,Mastercard,Matched,False,False,False,Valid
+TXN000061,Guest 0716,202,34691,2025-03-25,317.37,1731,Mastercard,Matched,False,False,False,Valid
+TXN001273,Guest 0523,269,35677,2025-03-25,308.59,8029,American Express,Matched,False,False,False,Valid
+TXN000093,Guest 0645,357,31759,2025-03-17,512.48,0548,Visa,Matched,False,False,False,Valid
+TXN000667,Guest 0193,315,30799,2025-02-15,791.93,6115,Mastercard,Matched,False,False,False,Valid
+TXN000281,Guest 0611,435,30161,2025-01-25,298.82,2157,American Express,Matched,False,False,False,Valid
+TXN001122,Guest 0800,532,37110,2025-01-08,157.99,2566,Mastercard,Unmatched,False,False,False,Valid
+TXN000360,Guest 0167,778,35072,2025-03-09,538.32,9079,Mastercard,Matched,False,False,False,Valid
+TXN001754,Guest 0216,292,30019,2025-02-05,509.96,9121,Mastercard,Matched,False,False,False,Valid
+TXN001178,Guest 0238,416,37793,2025-01-18,913.79,3860,American Express,Matched,False,False,False,Valid
+TXN000848,Guest 0310,168,34026,2025-01-05,318.98,1150,American Express,Matched,False,False,False,Valid
+TXN001388,Guest 0590,790,35425,2025-01-30,996.26,0948,American Express,Unmatched,False,False,False,Valid
+TXN000111,Guest 0225,103,38649,2025-01-25,-373.7,2368,Visa,Unmatched,False,True,False,Review Required
+TXN000043,Guest 0598,632,33505,2025-03-05,298.91,4238,Mastercard,Matched,False,False,False,Valid
+TXN000126,Guest 0205,453,32444,2025-02-20,618.45,9520,Visa,Matched,False,False,False,Valid
+TXN000205,Guest 0364,308,30541,2025-02-11,313.08,9345,Visa,Matched,False,False,False,Valid
+TXN000053,Guest 0289,635,33894,2025-02-02,916.2,6538,Visa,Matched,False,False,False,Valid
+TXN000546,Guest 0319,628,36416,2025-01-05,557.45,1099,Visa,Matched,False,False,False,Valid
+TXN000069,Guest 0265,616,31498,2025-01-07,529.53,6870,Mastercard,Unmatched,False,False,False,Valid
+TXN001145,Guest 0611,548,32331,2025-01-30,814.3,0140,Mastercard,Pending,False,False,False,Valid
+TXN001559,Guest 0135,469,31045,2025-03-31,694.87,,Visa,Matched,True,False,False,Review Required
+TXN000184,Guest 0516,696,39160,2025-03-04,461.22,0958,Mastercard,Matched,False,False,False,Valid
+TXN000138,Guest 0019,281,37316,2025-01-03,410.7,0004,Visa,Matched,False,False,False,Valid
+TXN000900,Guest 0162,510,38216,2025-02-25,319.72,9148,Mastercard,Matched,False,False,False,Valid
+TXN000797,Guest 0697,453,30765,2025-03-29,664.43,3642,Visa,Matched,False,False,False,Valid
+TXN000133,Guest 0416,611,39139,2025-01-09,469.04,6669,Visa,Pending,False,False,False,Valid
+TXN000081,Guest 0662,732,38979,2025-03-26,861.04,0510,Mastercard,Matched,False,False,False,Valid
+TXN001494,Guest 0596,245,32501,2025-01-30,666.69,1900,Visa,Matched,False,False,False,Valid
+TXN001552,Guest 0418,348,34913,2025-03-18,731.12,0149,Visa,Unmatched,False,False,False,Valid
+TXN000542,Guest 0777,540,39596,2025-01-05,447.51,3785,Mastercard,Unmatched,False,False,False,Valid
+TXN001607,Guest 0262,416,35065,2025-01-14,356.37,3297,Mastercard,Matched,False,False,False,Valid
+TXN000984,Guest 0658,382,30024,2025-02-28,198.94,9229,Visa,Pending,False,False,False,Valid
+TXN000166,Guest 0740,576,36593,2025-03-15,971.41,2634,Mastercard,Pending,False,False,False,Valid
+TXN000249,Guest 0125,738,30624,2025-03-12,543.84,2250,Mastercard,Matched,False,False,False,Valid
+TXN000447,Guest 0619,316,32886,2025-01-29,253.41,0693,Mastercard,Matched,False,False,False,Valid
+TXN000859,Guest 0580,284,34279,2025-03-02,258.77,6947,Visa,Unmatched,False,False,False,Valid
+TXN001395,Guest 0270,480,35926,2025-01-20,767.82,7718,Visa,Matched,False,False,False,Valid
+TXN000098,Guest 0689,203,39186,2025-03-03,376.48,1396,Mastercard,Matched,False,False,False,Valid
+TXN001989,Guest 0333,707,30074,2025-01-19,612.06,9818,Visa,Unmatched,False,False,False,Valid
+TXN000738,Guest 0151,357,31350,2025-01-31,281.61,6909,Mastercard,Matched,False,False,False,Valid
+TXN001824,Guest 0143,205,34745,2025-03-20,453.85,5763,Visa,Pending,False,False,False,Valid
+TXN000103,Guest 0138,233,34878,2025-03-14,543.96,5473,Mastercard,Pending,False,False,False,Valid
+TXN000435,Guest 0361,509,36108,2025-02-09,426.41,4699,Mastercard,Matched,False,False,False,Valid
+TXN000075,Guest 0558,327,39114,2025-03-03,366.27,8505,American Express,Pending,False,False,False,Valid
+TXN001806,Guest 0680,205,37048,2025-01-05,1832.94,6319,American Express,Matched,False,False,False,Valid
+TXN001339,Guest 0687,373,31073,2025-03-11,2651.0,8401,Mastercard,Matched,False,False,False,Valid
+TXN000919,Guest 0680,691,30788,2025-01-23,347.6,7603,Visa,Matched,False,False,False,Valid
+TXN001684,Guest 0456,403,36427,2025-03-13,489.65,0637,Mastercard,Matched,False,False,False,Valid
+TXN001766,Guest 0327,485,37128,2025-03-26,377.22,6968,American Express,Matched,False,False,False,Valid
+TXN000763,Guest 0292,169,31387,2025-03-27,109.03,3166,Visa,Matched,False,False,False,Valid
+TXN000990,Guest 0343,718,31291,2025-03-12,889.21,8457,Visa,Matched,False,False,False,Valid
+TXN000389,Guest 0765,336,32162,2025-03-22,386.15,5046,American Express,Matched,False,False,False,Valid
+TXN000236,Guest 0633,128,36733,2025-03-06,361.64,3456,Mastercard,Unmatched,False,False,False,Valid
+TXN001518,Guest 0723,572,39278,2025-01-05,315.88,7880,Mastercard,Matched,False,False,False,Valid
+TXN000268,Guest 0583,750,30429,2025-02-01,336.64,,Mastercard,Matched,True,False,False,Review Required
+TXN001803,Guest 0645,406,37347,2025-02-10,718.35,3802,Mastercard,Matched,False,False,False,Valid
+TXN000118,Guest 0434,192,32155,2025-01-13,262.28,6003,Mastercard,Matched,False,False,False,Valid
+TXN001618,Guest 0328,229,39356,2025-02-15,205.31,1123,Mastercard,Matched,False,False,False,Valid
+TXN000674,Guest 0151,707,35246,2025-01-09,692.74,1283,American Express,Matched,False,False,False,Valid
+TXN000250,Guest 0339,365,31904,2025-01-04,930.77,9906,Mastercard,Matched,False,False,False,Valid
+TXN001464,Guest 0041,309,39069,2025-01-05,527.9,6169,Visa,Unmatched,False,False,False,Valid
+TXN000095,Guest 0130,771,33146,2025-03-22,518.18,0227,Mastercard,Matched,False,False,False,Valid
+TXN000034,Guest 0543,296,39481,2025-02-19,377.14,2261,Mastercard,Matched,False,False,False,Valid
+TXN001475,Guest 0239,140,34750,2025-03-29,308.67,7137,Mastercard,Matched,False,False,False,Valid
+TXN001681,Guest 0568,233,33571,2025-03-26,402.19,4748,Mastercard,Matched,False,False,False,Valid
+TXN000449,Guest 0623,486,31880,2025-02-16,709.22,3940,Visa,Matched,False,False,False,Valid
+TXN000717,Guest 0347,722,35642,2025-02-16,1226.26,1300,Visa,Matched,False,False,False,Valid
+TXN001959,Guest 0079,528,39674,2025-03-01,380.65,8106,Visa,Unmatched,False,False,False,Valid
+TXN000001,Guest 0703,322,36191,2025-01-09,251.56,1503,Visa,Matched,False,False,False,Valid
+TXN001386,Guest 0198,713,30922,2025-01-22,1694.44,0084,Visa,Matched,False,False,False,Valid
+TXN001102,Guest 0105,480,38636,2025-02-12,526.43,1143,Mastercard,Matched,False,False,False,Valid
+TXN001109,Guest 0721,328,32803,2025-03-26,266.76,0785,Visa,Matched,False,False,False,Valid
+TXN001235,Guest 0458,364,33526,2025-02-27,341.52,0759,Visa,Matched,False,False,False,Valid
+TXN000083,Guest 0260,638,32358,2025-01-15,521.07,0509,Visa,Matched,False,False,False,Valid
+TXN001951,Guest 0302,380,36257,2025-03-24,833.2,2712,Visa,Matched,False,False,False,Valid
+TXN000677,Guest 0770,489,38067,2025-02-22,379.04,3934,Visa,Matched,False,False,False,Valid
+TXN001462,Guest 0757,102,39362,2025-01-29,1188.02,3841,Mastercard,Matched,False,False,False,Valid
+TXN001047,Guest 0583,640,35957,2025-01-22,826.92,3577,Mastercard,Pending,False,False,False,Valid
+TXN000771,Guest 0529,307,35620,2025-02-28,265.93,1205,Mastercard,Unmatched,False,False,False,Valid
+TXN001224,Guest 0621,673,33275,2025-02-28,448.79,1357,Visa,Matched,False,False,False,Valid
+TXN001592,Guest 0237,506,36530,2025-02-01,292.16,2216,Visa,Matched,False,False,False,Valid
+TXN001972,Guest 0742,269,30718,2025-03-24,843.05,1026,American Express,Pending,False,False,False,Valid
+TXN000405,Guest 0308,283,38127,2025-02-14,456.64,3138,Mastercard,Matched,False,False,False,Valid
+TXN001741,Guest 0180,625,31400,2025-02-08,185.65,1647,American Express,Matched,False,False,False,Valid
+TXN001308,Guest 0109,621,32031,2025-01-22,301.06,4584,American Express,Matched,False,False,False,Valid
+TXN001711,Guest 0288,292,32631,2025-01-31,453.67,2670,Visa,Matched,False,False,False,Valid
+TXN000105,Guest 0697,155,38249,2025-03-13,650.55,2699,Mastercard,Unmatched,False,False,False,Valid
+TXN000689,Guest 0511,106,36987,2025-02-10,365.84,0666,Visa,Matched,False,False,False,Valid
+TXN001315,Guest 0323,386,38889,2025-03-23,938.81,5837,American Express,Matched,False,False,False,Valid
+TXN000827,Guest 0290,238,35383,2025-03-03,360.11,0422,Mastercard,Unmatched,False,False,False,Valid
+TXN000063,Guest 0120,543,33779,2025-02-02,188.66,1170,Mastercard,Matched,False,False,False,Valid
+TXN000853,Guest 0092,175,36775,2025-03-28,492.03,2601,Mastercard,Matched,False,False,False,Valid
+TXN001363,Guest 0038,508,30013,2025-02-01,720.45,7608,Visa,Matched,False,False,False,Valid
+TXN000224,Guest 0339,473,32551,2025-01-19,292.49,3411,Mastercard,Matched,False,False,False,Valid
+TXN000146,Guest 0356,296,38157,2025-03-18,331.0,3417,Visa,Matched,False,False,False,Valid
+TXN001089,Guest 0186,197,31368,2025-02-28,369.15,7713,Visa,Matched,False,False,False,Valid
+TXN000374,Guest 0319,672,37270,2025-02-03,110.33,6686,Mastercard,Matched,False,False,False,Valid
+TXN001818,Guest 0643,746,35470,2025-01-23,496.41,9091,Visa,Matched,False,False,False,Valid
+TXN001143,Guest 0362,561,39988,2025-03-25,561.47,2488,American Express,Matched,False,False,False,Valid
+TXN001841,Guest 0697,644,34892,2025-02-08,297.43,8911,Mastercard,Matched,False,False,False,Valid
+TXN001506,Guest 0711,686,34507,2025-01-22,742.46,3795,Mastercard,Matched,False,False,False,Valid
+TXN001613,Guest 0488,548,34529,2025-03-02,647.5,1797,American Express,Matched,False,False,False,Valid
+TXN001574,Guest 0265,581,39602,2025-03-15,332.62,6361,Visa,Matched,False,False,False,Valid
+TXN000010,Guest 0506,182,30844,2025-01-09,311.62,0382,Visa,Unmatched,False,False,False,Valid
+TXN000450,Guest 0138,728,31390,2025-01-26,365.24,,Mastercard,Matched,True,False,False,Review Required
+TXN000709,Guest 0585,637,32001,2025-02-12,94.94,1178,Mastercard,Matched,False,False,False,Valid
+TXN000256,Guest 0549,330,31288,2025-01-14,212.72,3715,Visa,Unmatched,False,False,False,Valid
+TXN000883,Guest 0451,449,37616,2025-02-10,172.59,3321,Visa,Matched,False,False,False,Valid
+TXN000390,Guest 0699,518,36478,2025-01-14,310.22,0911,American Express,Matched,False,False,False,Valid
+TXN000909,Guest 0103,659,31589,2025-02-03,1254.49,1989,American Express,Matched,False,False,False,Valid
+TXN000925,Guest 0339,332,33487,2025-01-23,245.15,2061,American Express,Matched,False,False,False,Valid
+TXN001717,Guest 0280,240,36721,2025-02-28,341.49,6611,American Express,Matched,False,False,False,Valid
+TXN001241,Guest 0168,346,35067,2025-02-15,446.39,2451,American Express,Matched,False,False,False,Valid
+TXN000461,Guest 0273,172,31680,2025-03-07,413.45,6962,Mastercard,Matched,False,False,False,Valid
+TXN001279,Guest 0795,365,35045,2025-01-01,625.83,5889,Mastercard,Unmatched,False,False,False,Valid
+TXN001714,Guest 0180,562,38042,2025-03-08,494.91,8084,Visa,Matched,False,False,False,Valid
+TXN001169,Guest 0658,347,33988,2025-03-31,560.3,4515,Mastercard,Matched,False,False,False,Valid
+TXN000959,Guest 0411,743,32941,2025-03-29,271.87,2913,Mastercard,Matched,False,False,False,Valid
+TXN000502,Guest 0080,474,39713,2025-02-28,175.27,4995,Visa,Matched,False,False,False,Valid
+TXN000740,Guest 0276,465,34410,2025-03-22,292.71,3412,Mastercard,Matched,False,False,False,Valid
+TXN001864,Guest 0489,246,35861,2025-02-03,615.13,2744,Visa,Pending,False,False,False,Valid
+TXN000869,Guest 0689,745,37475,2025-02-10,279.36,7351,Visa,Unmatched,False,False,False,Valid
+TXN000732,Guest 0418,579,33303,2025-02-07,319.58,4497,Mastercard,Matched,False,False,False,Valid
+TXN000540,Guest 0395,708,31401,2025-01-02,450.62,2309,Visa,Matched,False,False,False,Valid
+TXN001202,Guest 0731,388,32868,2025-02-12,623.18,9892,Mastercard,Unmatched,False,False,False,Valid
+TXN000698,Guest 0335,163,37738,2025-02-23,-494.87,8136,Visa,Unmatched,False,True,False,Review Required
+TXN001403,Guest 0126,571,30876,2025-01-27,259.73,0284,American Express,Matched,False,False,False,Valid
+TXN001387,Guest 0620,265,37878,2025-02-20,471.69,9597,Mastercard,Unmatched,False,False,False,Valid
+TXN001146,Guest 0442,625,33070,2025-02-13,298.3,4279,Mastercard,Matched,False,False,False,Valid
+TXN001032,Guest 0219,685,37553,2025-01-16,263.89,5752,Visa,Matched,False,False,False,Valid
+TXN000373,Guest 0049,259,39393,2025-02-06,967.43,8257,Mastercard,Matched,False,False,False,Valid
+TXN000668,Guest 0773,197,32426,2025-03-19,544.26,1733,Mastercard,Unmatched,False,False,False,Valid
+TXN001537,Guest 0025,139,32222,2025-01-14,844.68,0250,Visa,Pending,False,False,False,Valid
+TXN000358,Guest 0176,280,30043,2025-03-22,342.86,4337,Mastercard,Matched,False,False,False,Valid
+TXN000968,Guest 0183,337,35629,2025-01-29,349.19,4486,Visa,Matched,False,False,False,Valid
+TXN000784,Guest 0670,629,36986,2025-01-11,523.84,8379,Mastercard,Unmatched,False,False,False,Valid
+TXN000736,Guest 0112,393,36474,2025-03-02,441.23,8780,Mastercard,Matched,False,False,False,Valid
+TXN001036,Guest 0765,259,31721,2025-03-08,294.04,6165,American Express,Matched,False,False,False,Valid
+TXN000971,Guest 0489,698,31990,2025-01-27,594.46,4650,Visa,Matched,False,False,False,Valid
+TXN001600,Guest 0498,639,32734,2025-03-05,227.25,9955,Visa,Matched,False,False,False,Valid
+TXN001498,Guest 0381,448,33095,2025-03-12,841.9,1581,Mastercard,Matched,False,False,False,Valid
+TXN001703,Guest 0200,294,35063,2025-03-03,740.06,7168,Mastercard,Matched,False,False,False,Valid
+TXN001360,Guest 0422,339,30533,2025-02-02,148.14,8061,Mastercard,Matched,False,False,False,Valid
+TXN001502,Guest 0513,258,30848,2025-01-24,588.76,6639,Mastercard,Pending,False,False,False,Valid
+TXN001654,Guest 0413,426,32707,2025-02-23,1753.01,3282,Mastercard,Matched,False,False,False,Valid
+TXN001253,Guest 0125,600,37756,2025-01-07,432.99,9962,Mastercard,Matched,False,False,False,Valid
+TXN001707,Guest 0126,388,38461,2025-03-30,681.33,0720,Visa,Matched,False,False,False,Valid
+TXN001729,Guest 0273,391,32205,2025-02-09,569.85,8118,Visa,Matched,False,False,False,Valid
+TXN001237,Guest 0291,491,38411,2025-01-01,176.8,8866,American Express,Unmatched,False,False,False,Valid
+TXN000886,Guest 0123,242,30404,2025-03-08,422.88,1604,Visa,Matched,False,False,False,Valid
+TXN000080,Guest 0101,634,36355,2025-03-02,567.91,0663,Mastercard,Matched,False,False,False,Valid
+TXN001173,Guest 0346,707,39922,2025-02-05,259.5,9263,American Express,Matched,False,False,False,Valid
+TXN000815,Guest 0160,622,33689,2025-03-12,433.56,8087,Mastercard,Matched,False,False,False,Valid
+TXN001909,Guest 0157,657,31118,2025-01-04,517.96,7488,Mastercard,Pending,False,False,False,Valid
+TXN000672,Guest 0685,583,33513,2025-02-25,677.57,2757,Visa,Matched,False,False,False,Valid
+TXN001543,Guest 0069,310,33703,2025-01-08,399.49,3205,Mastercard,Matched,False,False,False,Valid
+TXN000058,Guest 0591,471,36024,2025-01-14,286.49,8561,Visa,Matched,False,False,False,Valid
+TXN000134,Guest 0320,452,34097,2025-02-20,410.29,1318,Visa,Matched,False,False,False,Valid
+TXN001141,Guest 0394,364,31799,2025-03-21,445.12,3395,American Express,Matched,False,False,False,Valid
+TXN000934,Guest 0348,679,36197,2025-02-28,256.84,6512,Mastercard,Matched,False,False,False,Valid
+TXN001698,Guest 0330,637,32362,2025-01-14,222.82,9474,Mastercard,Matched,False,False,False,Valid
+TXN000824,Guest 0781,782,31339,2025-02-28,379.75,7151,Mastercard,Matched,False,False,False,Valid
+TXN001215,Guest 0450,662,32470,2025-01-07,372.25,5421,American Express,Matched,False,False,False,Valid
+TXN000505,Guest 0041,112,34136,2025-01-25,672.18,6038,American Express,Matched,False,False,False,Valid
+TXN001789,Guest 0781,481,38398,2025-02-12,511.22,7730,Mastercard,Matched,False,False,False,Valid
+TXN000348,Guest 0602,207,39845,2025-03-26,764.78,5097,American Express,Matched,False,False,False,Valid
+TXN000387,Guest 0763,282,34865,2025-01-07,464.58,1427,Visa,Matched,False,False,False,Valid
+TXN001025,Guest 0300,710,31241,2025-03-15,1155.5,5289,Mastercard,Matched,False,False,False,Valid
+TXN000895,Guest 0209,437,36993,2025-03-09,442.36,1835,Visa,Matched,False,False,False,Valid
+TXN000829,Guest 0502,742,34731,2025-03-19,290.14,4077,American Express,Matched,False,False,False,Valid
+TXN001908,Guest 0777,739,37149,2025-01-15,355.24,8901,Visa,Matched,False,False,False,Valid
+TXN000476,Guest 0339,324,32848,2025-03-12,304.72,3345,Mastercard,Matched,False,False,False,Valid
+TXN001482,Guest 0197,166,32111,2025-01-01,384.86,3270,Visa,Matched,False,False,False,Valid
+TXN001458,Guest 0025,376,37096,2025-02-10,1335.57,7229,American Express,Matched,False,False,False,Valid
+TXN001407,Guest 0285,611,39870,2025-02-01,439.42,4803,American Express,Matched,False,False,False,Valid
+TXN000653,Guest 0791,332,39316,2025-01-19,635.42,6723,Mastercard,Matched,False,False,False,Valid
+TXN000173,Guest 0798,455,39298,2025-03-11,819.93,6537,Visa,Matched,False,False,False,Valid
+TXN001150,Guest 0087,482,33223,2025-03-18,359.82,9097,Visa,Matched,False,False,False,Valid
+TXN000039,Guest 0791,314,34357,2025-01-25,915.39,3333,Visa,Matched,False,False,False,Valid
+TXN000714,Guest 0417,442,35605,2025-03-10,435.7,,Mastercard,Matched,True,False,False,Review Required
+TXN000091,Guest 0710,616,32106,2025-02-09,311.91,4287,Mastercard,Pending,False,False,False,Valid
+TXN001952,Guest 0176,673,32023,2025-02-24,919.09,5997,Mastercard,Unmatched,False,False,False,Valid
+TXN001206,Guest 0543,420,35012,2025-03-23,690.52,5250,Mastercard,Unmatched,False,False,False,Valid
+TXN000876,Guest 0413,565,33223,2025-02-15,529.66,0205,Visa,Matched,False,False,False,Valid
+TXN001361,Guest 0788,558,30616,2025-01-08,670.05,5455,Mastercard,Matched,False,False,False,Valid
+TXN001905,Guest 0699,232,36316,2025-01-30,610.83,1893,Visa,Pending,False,False,False,Valid
+TXN001094,Guest 0193,778,34800,2025-02-05,378.15,2673,Mastercard,Matched,False,False,False,Valid
+TXN001156,Guest 0679,701,32566,2025-02-22,395.43,2015,Visa,Matched,False,False,False,Valid
+TXN001503,Guest 0249,125,37444,2025-01-21,683.67,2954,Mastercard,Matched,False,False,False,Valid
+TXN001974,Guest 0207,143,32201,2025-01-31,365.33,7385,Mastercard,Matched,False,False,False,Valid
+TXN000500,Guest 0744,342,34725,2025-02-08,510.11,2044,American Express,Unmatched,False,False,False,Valid
+TXN000339,Guest 0035,618,38022,2025-01-19,501.92,4053,Visa,Matched,False,False,False,Valid
+TXN001189,Guest 0048,672,32617,2025-02-20,805.64,0934,Visa,Matched,False,False,False,Valid
+TXN000029,Guest 0421,583,35283,2025-02-19,862.51,9549,American Express,Matched,False,False,False,Valid
+TXN001218,Guest 0344,566,31989,2025-03-07,1007.23,4242,Mastercard,Matched,False,False,False,Valid
+TXN001335,Guest 0058,525,33341,2025-02-18,687.96,5251,Visa,Matched,False,False,False,Valid
+TXN001835,Guest 0113,279,39207,2025-02-06,614.58,5238,Visa,Matched,False,False,False,Valid
+TXN000946,Guest 0086,606,35523,2025-01-11,169.17,2195,Visa,Matched,False,False,False,Valid
+TXN000170,Guest 0783,572,37609,2025-01-03,342.23,2469,Visa,Pending,False,False,False,Valid
+TXN001415,Guest 0478,318,32409,2025-02-22,311.0,2840,Mastercard,Unmatched,False,False,False,Valid
+TXN001198,Guest 0650,759,39512,2025-03-30,284.55,3113,Visa,Matched,False,False,False,Valid
+TXN001254,Guest 0298,492,38851,2025-03-13,197.53,8917,Mastercard,Unmatched,False,False,False,Valid
+TXN001787,Guest 0142,552,37121,2025-01-18,640.6,9609,Mastercard,Matched,False,False,False,Valid
+TXN000913,Guest 0378,118,32955,2025-02-03,344.11,2503,Mastercard,Pending,False,False,False,Valid
+TXN000492,Guest 0212,238,35562,2025-03-20,222.15,8044,Mastercard,Matched,False,False,False,Valid
+TXN000954,Guest 0350,200,38267,2025-02-08,618.57,0263,Mastercard,Matched,False,False,False,Valid
+TXN001098,Guest 0252,324,31144,2025-03-09,185.89,3940,Mastercard,Matched,False,False,False,Valid
+TXN001033,Guest 0451,352,39164,2025-03-07,546.66,7628,Mastercard,Pending,False,False,False,Valid
+TXN000588,Guest 0257,316,34915,2025-01-09,209.52,2840,Mastercard,Matched,False,False,False,Valid
+TXN000751,Guest 0197,129,37257,2025-03-28,316.85,2836,Mastercard,Matched,False,False,False,Valid
+TXN000658,Guest 0217,501,35064,2025-02-26,475.78,4628,Visa,Matched,False,False,False,Valid
+TXN000235,Guest 0471,281,37624,2025-02-14,521.56,9697,American Express,Matched,False,False,False,Valid
+TXN000733,Guest 0746,634,35863,2025-03-24,1028.38,3185,Visa,Matched,False,False,False,Valid
+TXN001798,Guest 0052,536,31334,2025-01-17,505.11,8903,Mastercard,Matched,False,False,False,Valid
+TXN001157,Guest 0617,750,37284,2025-01-11,379.02,3759,Mastercard,Matched,False,False,False,Valid
+TXN001481,Guest 0640,792,36453,2025-01-14,267.25,7875,Visa,Matched,False,False,False,Valid
+TXN001776,Guest 0151,759,38493,2025-01-12,275.53,0678,Mastercard,Matched,False,False,False,Valid
+TXN000935,Guest 0647,366,33892,2025-02-09,191.55,7564,Visa,Pending,False,False,False,Valid
+TXN001210,Guest 0189,123,39355,2025-03-28,399.45,3769,Visa,Unmatched,False,False,False,Valid
+TXN001066,Guest 0441,583,34734,2025-02-04,98.85,1780,Mastercard,Pending,False,False,False,Valid
+TXN000109,Guest 0225,459,36073,2025-02-12,1022.29,8831,Visa,Matched,False,False,False,Valid
+TXN001554,Guest 0571,554,37044,2025-02-25,408.05,8612,Mastercard,Matched,False,False,False,Valid
+TXN000569,Guest 0304,317,31601,2025-02-27,513.75,8676,Mastercard,Matched,False,False,False,Valid
+TXN001168,Guest 0215,237,37224,2025-02-05,455.54,7924,Visa,Matched,False,False,False,Valid
+TXN001175,Guest 0796,244,31141,2025-01-01,470.99,3265,Visa,Matched,False,False,False,Valid
+TXN000891,Guest 0119,686,31486,2025-01-09,348.59,6565,Visa,Matched,False,False,False,Valid
+TXN000948,Guest 0399,464,34095,2025-01-13,868.23,3424,Visa,Matched,False,False,False,Valid
+TXN001049,Guest 0136,304,37994,2025-03-02,465.93,2280,American Express,Matched,False,False,False,Valid
+TXN001362,Guest 0596,660,37378,2025-01-07,294.65,5426,Mastercard,Matched,False,False,False,Valid
+TXN001382,Guest 0630,764,30389,2025-01-26,1180.79,,American Express,Matched,True,False,False,Review Required
+TXN001457,Guest 0601,212,35635,2025-03-30,523.45,5018,Visa,Matched,False,False,False,Valid
+TXN000885,Guest 0285,105,30470,2025-03-15,667.26,5803,Visa,Matched,False,False,False,Valid
+TXN001995,Guest 0410,193,38466,2025-03-09,407.82,4166,Visa,Matched,False,False,False,Valid
+TXN000851,Guest 0156,750,33528,2025-03-30,259.09,9048,Mastercard,Matched,False,False,False,Valid
+TXN000735,Guest 0358,679,33291,2025-01-19,723.79,1195,American Express,Matched,False,False,False,Valid
+TXN000718,Guest 0553,792,36779,2025-02-14,552.09,2118,American Express,Matched,False,False,False,Valid
+TXN000455,Guest 0665,529,34658,2025-02-23,363.82,1913,Mastercard,Matched,False,False,False,Valid
+TXN000265,Guest 0085,520,35397,2025-03-31,464.29,6171,Visa,Pending,False,False,False,Valid
+TXN000076,Guest 0327,116,30049,2025-02-12,210.13,3486,Visa,Matched,False,False,False,Valid
+TXN001670,Guest 0174,579,32903,2025-03-07,343.45,9570,Mastercard,Matched,False,False,False,Valid
+TXN000445,Guest 0479,616,30337,2025-02-15,468.21,8192,Mastercard,Matched,False,False,False,Valid
+TXN000396,Guest 0525,459,30940,2025-03-20,321.47,6162,Mastercard,Matched,False,False,False,Valid
+TXN000177,Guest 0085,313,37455,2025-03-06,784.0,1621,Visa,Matched,False,False,False,Valid
+TXN001043,Guest 0263,379,36098,2025-02-07,830.05,8987,American Express,Matched,False,False,False,Valid
+TXN001901,Guest 0415,751,31142,2025-02-18,327.24,0893,Mastercard,Pending,False,False,False,Valid
+TXN001928,Guest 0123,514,32738,2025-01-12,150.16,2433,Mastercard,Matched,False,False,False,Valid
+TXN001522,Guest 0266,557,39881,2025-03-06,1568.85,2857,Mastercard,Matched,False,False,False,Valid
+TXN001939,Guest 0579,794,30696,2025-03-28,756.87,5107,Visa,Unmatched,False,False,False,Valid
+TXN000596,Guest 0133,131,34969,2025-03-14,691.12,4948,Visa,Matched,False,False,False,Valid
+TXN000062,Guest 0450,116,37899,2025-03-09,252.37,0330,Mastercard,Matched,False,False,False,Valid
+TXN001297,Guest 0170,104,32723,2025-01-24,179.8,5721,Visa,Matched,False,False,False,Valid
+TXN000873,Guest 0655,142,39902,2025-01-11,368.11,0138,Mastercard,Matched,False,False,False,Valid
+TXN001553,Guest 0752,559,34996,2025-02-17,606.05,6460,American Express,Matched,False,False,False,Valid
+TXN001894,Guest 0162,327,32097,2025-03-05,207.11,3913,Mastercard,Pending,False,False,False,Valid
+TXN000279,Guest 0295,613,30386,2025-01-06,555.43,0478,Visa,Matched,False,False,False,Valid
+TXN000037,Guest 0467,580,35822,2025-03-19,880.4,5905,Visa,Matched,False,False,False,Valid
+TXN001527,Guest 0107,511,33136,2025-01-29,266.08,7270,Visa,Matched,False,False,False,Valid
+TXN000663,Guest 0120,209,34829,2025-01-04,421.4,3652,Visa,Matched,False,False,False,Valid
+TXN001821,Guest 0101,529,31576,2025-01-29,838.03,3341,American Express,Matched,False,False,False,Valid
+TXN001455,Guest 0655,316,36080,2025-02-21,1284.33,2019,Visa,Matched,False,False,False,Valid
+TXN000978,Guest 0718,178,32086,2025-02-21,368.03,7428,American Express,Unmatched,False,False,False,Valid
+TXN001583,Guest 0166,597,36864,2025-02-16,387.62,0953,Mastercard,Matched,False,False,False,Valid
+TXN000739,Guest 0394,345,33721,2025-03-08,431.67,1180,Visa,Unmatched,False,False,False,Valid
+TXN000192,Guest 0328,340,30474,2025-02-26,395.12,7733,Mastercard,Matched,False,False,False,Valid
+TXN000920,Guest 0303,469,37918,2025-02-27,389.53,7863,Mastercard,Matched,False,False,False,Valid
+TXN000457,Guest 0673,514,32952,2025-01-14,133.95,4222,Mastercard,Matched,False,False,False,Valid
+TXN000676,Guest 0476,359,38831,2025-03-07,905.45,9762,Visa,Matched,False,False,False,Valid
+TXN000761,Guest 0107,777,30332,2025-01-16,1235.31,5924,Mastercard,Matched,False,False,False,Valid
+TXN001822,Guest 0009,593,35113,2025-03-10,213.9,1757,Visa,Matched,False,False,False,Valid
+TXN001614,Guest 0060,330,36660,2025-03-04,634.07,3280,Visa,Matched,False,False,False,Valid
+TXN000729,Guest 0465,179,31255,2025-02-13,79.12,9308,Mastercard,Matched,False,False,False,Valid
+TXN000413,Guest 0745,334,30856,2025-01-26,300.75,8256,American Express,Matched,False,False,False,Valid
+TXN001099,Guest 0147,756,32443,2025-01-04,179.77,5502,Visa,Matched,False,False,False,Valid
+TXN000826,Guest 0674,392,35111,2025-01-09,130.01,2666,Mastercard,Unmatched,False,False,False,Valid
+TXN001508,Guest 0650,157,37513,2025-02-13,180.59,8849,Visa,Matched,False,False,False,Valid
+TXN000617,Guest 0794,305,34712,2025-01-23,789.65,8350,Visa,Pending,False,False,False,Valid
+TXN000115,Guest 0594,304,31977,2025-02-15,211.42,0431,Visa,Matched,False,False,False,Valid
+TXN000418,Guest 0209,210,31094,2025-01-11,349.55,2453,Mastercard,Matched,False,False,False,Valid
+TXN001926,Guest 0458,171,36947,2025-01-12,285.37,7181,Visa,Matched,False,False,False,Valid
+TXN000970,Guest 0511,671,36999,2025-01-04,612.85,1716,Visa,Matched,False,False,False,Valid
+TXN000605,Guest 0607,248,34460,2025-03-16,897.61,3922,Mastercard,Matched,False,False,False,Valid
+TXN001934,Guest 0584,324,34979,2025-03-27,382.31,0272,Mastercard,Matched,False,False,False,Valid
+TXN000090,Guest 0016,786,37495,2025-03-16,389.5,3745,Visa,Matched,False,False,False,Valid
+TXN000849,Guest 0224,208,33458,2025-03-15,489.07,0073,Visa,Pending,False,False,False,Valid
+TXN001531,Guest 0305,514,34254,2025-01-09,532.59,7709,Visa,Matched,False,False,False,Valid
+TXN001933,Guest 0563,337,34233,2025-03-17,323.66,5261,Mastercard,Matched,False,False,False,Valid
+TXN000754,Guest 0522,710,30101,2025-03-26,366.05,3949,Visa,Matched,False,False,False,Valid
+TXN000499,Guest 0026,271,33017,2025-03-25,332.52,8168,Visa,Matched,False,False,False,Valid
+TXN001277,Guest 0058,275,32629,2025-03-01,246.54,4582,Mastercard,Matched,False,False,False,Valid
+TXN001326,Guest 0627,376,38900,2025-01-17,1372.86,6303,Mastercard,Matched,False,False,False,Valid
+TXN000012,Guest 0315,719,37744,2025-03-29,554.1,1341,Visa,Matched,False,False,False,Valid
+TXN000397,Guest 0758,307,35651,2025-01-05,448.38,2385,Visa,Matched,False,False,False,Valid
+TXN000285,Guest 0545,186,34660,2025-02-09,612.14,5360,American Express,Unmatched,False,False,False,Valid
+TXN001067,Guest 0664,469,30036,2025-03-25,348.8,3436,Visa,Matched,False,False,False,Valid
+TXN001192,Guest 0546,739,39976,2025-01-26,254.13,0719,American Express,Matched,False,False,False,Valid
+TXN001820,Guest 0715,497,38198,2025-01-27,330.66,3567,Mastercard,Matched,False,False,False,Valid
+TXN000691,Guest 0584,102,34511,2025-03-31,853.45,4601,Mastercard,Matched,False,False,False,Valid
+TXN001643,Guest 0744,572,34172,2025-02-10,661.98,3194,Visa,Matched,False,False,False,Valid
+TXN001891,Guest 0454,621,32131,2025-01-17,291.03,8672,Visa,Pending,False,False,False,Valid
+TXN000690,Guest 0786,606,35029,2025-03-12,534.68,7589,Mastercard,Matched,False,False,False,Valid
+TXN000852,Guest 0314,608,35286,2025-03-14,330.14,7903,American Express,Matched,False,False,False,Valid
+TXN000160,Guest 0268,122,32672,2025-03-12,427.9,2874,Mastercard,Pending,False,False,False,Valid
+TXN000896,Guest 0430,383,37565,2025-02-25,761.81,3740,American Express,Matched,False,False,False,Valid
+TXN001587,Guest 0362,257,38264,2025-03-16,686.13,2556,Visa,Unmatched,False,False,False,Valid
+TXN000258,Guest 0523,163,36888,2025-01-10,527.04,4307,Visa,Matched,False,False,False,Valid
+TXN000336,Guest 0432,398,31885,2025-03-14,294.82,1954,Mastercard,Unmatched,False,False,False,Valid
+TXN001895,Guest 0487,477,37435,2025-01-13,655.61,8894,Mastercard,Pending,False,False,False,Valid
+TXN001040,Guest 0159,251,37653,2025-03-16,541.84,6993,Visa,Matched,False,False,False,Valid
+TXN000516,Guest 0656,655,33087,2025-01-10,304.11,3493,Visa,Matched,False,False,False,Valid
+TXN001349,Guest 0098,317,39244,2025-03-08,582.86,0290,Mastercard,Matched,False,False,False,Valid
+TXN001016,Guest 0368,756,38099,2025-03-17,216.31,8754,Visa,Matched,False,False,False,Valid
+TXN000769,Guest 0383,180,35174,2025-01-13,550.12,6437,Mastercard,Unmatched,False,False,False,Valid
+TXN001760,Guest 0449,101,34185,2025-02-22,402.46,2414,Mastercard,Matched,False,False,False,Valid
+TXN000762,Guest 0345,693,32867,2025-02-19,289.21,4416,Mastercard,Matched,False,False,False,Valid
+TXN001247,Guest 0615,509,31477,2025-03-19,641.5,6416,Visa,Matched,False,False,False,Valid
+TXN001204,Guest 0113,567,31300,2025-03-10,391.81,6694,Mastercard,Matched,False,False,False,Valid
+TXN001937,Guest 0420,212,31886,2025-02-03,983.87,0347,American Express,Pending,False,False,False,Valid
+TXN001999,Guest 0586,627,31319,2025-01-26,458.95,9798,Visa,Matched,False,False,False,Valid
+TXN000522,Guest 0036,589,30793,2025-01-14,196.02,8459,Visa,Matched,False,False,False,Valid
+TXN000023,Guest 0527,480,33174,2025-01-17,249.4,2816,Mastercard,Matched,False,False,False,Valid
+TXN000357,Guest 0330,775,36978,2025-01-14,308.24,4693,Mastercard,Matched,False,False,False,Valid
+TXN001278,Guest 0197,676,38045,2025-03-11,505.69,4754,Mastercard,Matched,False,False,False,Valid
+TXN001313,Guest 0744,246,35020,2025-03-12,741.82,4342,Visa,Matched,False,False,False,Valid
+TXN001734,Guest 0747,387,35638,2025-03-19,160.17,,Mastercard,Pending,True,False,False,Review Required
+TXN000341,Guest 0339,137,32973,2025-02-27,315.76,9142,Visa,Unmatched,False,False,False,Valid
+TXN000432,Guest 0418,162,37479,2025-03-08,388.61,0746,Mastercard,Pending,False,False,False,Valid
+TXN000474,Guest 0166,196,39541,2025-02-12,529.48,9685,Visa,Matched,False,False,False,Valid
+TXN000218,Guest 0799,339,31866,2025-01-09,424.73,9314,American Express,Unmatched,False,False,False,Valid
+TXN000912,Guest 0073,476,37822,2025-01-17,208.94,9427,Mastercard,Matched,False,False,False,Valid
+TXN001228,Guest 0303,641,38902,2025-03-30,373.23,2550,American Express,Matched,False,False,False,Valid
+TXN001608,Guest 0555,517,31782,2025-02-23,357.16,1395,Mastercard,Matched,False,False,False,Valid
+TXN001012,Guest 0405,138,35671,2025-03-13,761.31,8540,Mastercard,Matched,False,False,False,Valid
+TXN001965,Guest 0160,620,30525,2025-03-15,491.59,4559,Mastercard,Matched,False,False,False,Valid
+TXN000094,Guest 0159,412,34609,2025-02-04,729.51,5375,American Express,Matched,False,False,False,Valid
+TXN001009,Guest 0504,601,39683,2025-03-08,172.26,1388,American Express,Pending,False,False,False,Valid
+TXN001071,Guest 0339,736,32981,2025-03-02,828.59,5647,Mastercard,Matched,False,False,False,Valid
+TXN001093,Guest 0576,133,34217,2025-03-17,386.88,8965,Visa,Matched,False,False,False,Valid
+TXN001597,Guest 0272,474,36447,2025-03-01,464.42,3898,Visa,Matched,False,False,False,Valid
+TXN001309,Guest 0019,147,37620,2025-02-07,289.89,8904,Visa,Matched,False,False,False,Valid
+TXN000697,Guest 0103,153,38825,2025-03-06,418.38,5394,Mastercard,Unmatched,False,False,False,Valid
+TXN001969,Guest 0472,235,30089,2025-03-17,338.27,5004,Mastercard,Matched,False,False,False,Valid
+TXN000997,Guest 0242,622,33400,2025-02-17,1420.03,9453,American Express,Matched,False,False,False,Valid
+TXN001459,Guest 0673,462,31007,2025-01-24,329.47,2781,American Express,Matched,False,False,False,Valid
+TXN000154,Guest 0436,783,33374,2025-01-27,800.25,0054,Mastercard,Matched,False,False,False,Valid
+TXN001100,Guest 0219,306,38519,2025-02-09,563.17,0174,Mastercard,Matched,False,False,False,Valid
+TXN000790,Guest 0668,517,37404,2025-01-02,423.42,1531,American Express,Matched,False,False,False,Valid
+TXN000581,Guest 0307,236,34630,2025-01-09,564.08,9956,Mastercard,Pending,False,False,False,Valid
+TXN000704,Guest 0671,697,31160,2025-01-16,1332.81,0024,Visa,Matched,False,False,False,Valid
+TXN001213,Guest 0274,423,35005,2025-02-11,489.89,7851,American Express,Matched,False,False,False,Valid
+TXN001296,Guest 0637,659,33893,2025-02-16,231.94,7217,Mastercard,Matched,False,False,False,Valid
+TXN001815,Guest 0307,515,34589,2025-03-21,449.98,1404,Mastercard,Matched,False,False,False,Valid
+TXN001261,Guest 0349,795,32028,2025-01-24,779.75,1419,Visa,Matched,False,False,False,Valid
+TXN000488,Guest 0045,278,32999,2025-02-17,511.66,1316,Visa,Matched,False,False,False,Valid
+TXN000560,Guest 0472,554,31052,2025-03-18,374.95,4368,Mastercard,Pending,False,False,False,Valid
+TXN001142,Guest 0326,112,37619,2025-01-31,781.12,2733,Visa,Matched,False,False,False,Valid
+TXN001120,Guest 0694,122,35143,2025-02-14,406.03,7152,American Express,Matched,False,False,False,Valid
+TXN000802,Guest 0357,517,30688,2025-01-28,603.93,2846,Mastercard,Matched,False,False,False,Valid
+TXN000513,Guest 0771,186,30878,2025-03-17,842.17,4470,Visa,Matched,False,False,False,Valid
+TXN000634,Guest 0451,223,37374,2025-02-04,517.9,2056,Visa,Matched,False,False,False,Valid
+TXN001490,Guest 0569,353,30901,2025-02-15,851.18,5555,Visa,Pending,False,False,False,Valid
+TXN001802,Guest 0466,369,31433,2025-02-12,287.63,9670,Mastercard,Matched,False,False,False,Valid
+TXN001557,Guest 0564,171,38090,2025-03-22,260.77,0905,Mastercard,Pending,False,False,False,Valid
+TXN001151,Guest 0571,211,35981,2025-02-03,464.09,9900,American Express,Matched,False,False,False,Valid
+TXN000791,Guest 0750,238,38631,2025-01-09,807.16,2496,Visa,Matched,False,False,False,Valid
+TXN000117,Guest 0769,114,38437,2025-01-04,273.67,9369,Visa,Matched,False,False,False,Valid
+TXN000741,Guest 0149,286,30023,2025-03-15,-489.56,6208,Mastercard,Matched,False,True,False,Review Required
+TXN001704,Guest 0725,402,32776,2025-01-18,304.7,6957,Visa,Matched,False,False,False,Valid
+TXN001082,Guest 0657,455,38887,2025-03-31,702.74,6929,Mastercard,Matched,False,False,False,Valid
+TXN000831,Guest 0739,344,36173,2025-01-23,697.35,3579,Visa,Matched,False,False,False,Valid
+TXN000120,Guest 0562,137,32698,2025-01-11,632.13,0848,Mastercard,Matched,False,False,False,Valid
+TXN000657,Guest 0047,194,38873,2025-03-10,587.38,8209,Mastercard,Pending,False,False,False,Valid
+TXN001923,Guest 0385,559,35285,2025-03-16,242.21,5905,Visa,Matched,False,False,False,Valid
+TXN000636,Guest 0022,635,31017,2025-03-03,261.98,5533,Mastercard,Unmatched,False,False,False,Valid
+TXN000370,Guest 0141,468,30576,2025-03-11,390.83,0750,Visa,Matched,False,False,False,Valid
+TXN000269,Guest 0095,132,32741,2025-02-25,558.62,,Visa,Matched,True,False,False,Review Required
+TXN000656,Guest 0453,239,38487,2025-02-17,393.43,2913,Visa,Matched,False,False,False,Valid
+TXN000936,Guest 0183,515,33012,2025-03-26,238.28,2106,American Express,Unmatched,False,False,False,Valid
+TXN000823,Guest 0102,736,39976,2025-01-13,409.18,3318,Visa,Matched,False,False,False,Valid
+TXN000867,Guest 0253,428,34480,2025-03-15,391.36,0043,Visa,Matched,False,False,False,Valid
+TXN000047,Guest 0363,417,31127,2025-02-10,452.27,1022,Visa,Matched,False,False,False,Valid
+TXN001374,Guest 0403,267,33480,2025-02-07,550.36,5968,Visa,Matched,False,False,False,Valid
+TXN001722,Guest 0466,390,34699,2025-03-08,1280.48,6027,Mastercard,Matched,False,False,False,Valid
+TXN000992,Guest 0511,465,38163,2025-02-19,348.93,0355,Mastercard,Matched,False,False,False,Valid
+TXN000877,Guest 0532,389,34405,2025-02-18,462.84,2708,Visa,Matched,False,False,False,Valid
+TXN000774,Guest 0565,791,35489,2025-03-06,471.3,3141,American Express,Matched,False,False,False,Valid
+TXN001220,Guest 0347,346,32257,2025-02-09,948.85,3324,Mastercard,Matched,False,False,False,Valid
+TXN000005,Guest 0639,660,34673,2025-02-08,343.21,7705,Visa,Pending,False,False,False,Valid
+TXN001004,Guest 0769,578,35705,2025-03-21,587.14,8398,American Express,Unmatched,False,False,False,Valid
+TXN001737,Guest 0304,310,31654,2025-02-15,829.87,7024,Mastercard,Matched,False,False,False,Valid
+TXN000264,Guest 0414,629,39011,2025-03-25,622.58,8113,Visa,Matched,False,False,False,Valid
+TXN001581,Guest 0706,477,30134,2025-01-27,259.24,5096,Mastercard,Matched,False,False,False,Valid
+TXN001845,Guest 0737,711,31749,2025-03-08,824.2,8442,Visa,Pending,False,False,False,Valid
+TXN000444,Guest 0170,417,38118,2025-02-13,237.14,5937,American Express,Matched,False,False,False,Valid
+TXN001003,Guest 0744,539,39699,2025-02-20,291.06,0842,Mastercard,Matched,False,False,False,Valid
+TXN001078,Guest 0653,109,31544,2025-01-15,561.56,5136,Mastercard,Matched,False,False,False,Valid
+TXN000838,Guest 0720,148,30573,2025-01-18,512.27,8662,Mastercard,Matched,False,False,False,Valid
+TXN001805,Guest 0018,315,37583,2025-01-12,550.36,8842,Visa,Matched,False,False,False,Valid
+TXN000305,Guest 0733,568,33007,2025-02-18,604.64,4921,Visa,Matched,False,False,False,Valid
+TXN001366,Guest 0600,208,34257,2025-01-02,616.88,7960,American Express,Matched,False,False,False,Valid
+TXN001569,Guest 0605,320,33564,2025-03-23,274.54,9152,Mastercard,Matched,False,False,False,Valid
+TXN000314,Guest 0043,169,30702,2025-01-26,600.87,2899,Visa,Matched,False,False,False,Valid
+TXN000150,Guest 0684,373,38690,2025-01-06,660.11,3178,Visa,Matched,False,False,False,Valid
+TXN001149,Guest 0792,359,32819,2025-03-04,383.75,2002,Visa,Matched,False,False,False,Valid
+TXN001214,Guest 0772,530,31431,2025-03-20,203.88,9587,Mastercard,Matched,False,False,False,Valid
+TXN000575,Guest 0619,598,31367,2025-01-01,565.14,4600,Visa,Matched,False,False,False,Valid
+TXN000051,Guest 0138,327,34149,2025-03-10,315.48,7052,Visa,Matched,False,False,False,Valid
+TXN001564,Guest 0638,173,38361,2025-03-24,342.73,2574,Visa,Matched,False,False,False,Valid
+TXN000727,Guest 0110,169,38637,2025-03-06,529.68,,American Express,Matched,True,False,False,Review Required
+TXN000834,Guest 0437,266,36200,2025-01-13,419.23,7359,Visa,Matched,False,False,False,Valid
+TXN001378,Guest 0467,279,36151,2025-03-09,549.3,3318,American Express,Matched,False,False,False,Valid
+TXN001116,Guest 0399,284,39258,2025-02-14,251.18,1085,Mastercard,Unmatched,False,False,False,Valid
+TXN001167,Guest 0600,605,35895,2025-01-02,881.27,2239,Mastercard,Matched,False,False,False,Valid
+TXN000471,Guest 0714,382,30154,2025-03-08,343.83,7803,Visa,Matched,False,False,False,Valid
+TXN000972,Guest 0041,368,37497,2025-02-07,243.62,1229,American Express,Matched,False,False,False,Valid
+TXN000654,Guest 0299,247,34065,2025-03-14,297.75,8757,Visa,Matched,False,False,False,Valid
+TXN000400,Guest 0588,564,39317,2025-01-28,1408.69,8332,Visa,Pending,False,False,False,Valid
+TXN000512,Guest 0682,465,38040,2025-03-09,941.05,6930,Visa,Matched,False,False,False,Valid
+TXN000321,Guest 0080,561,37763,2025-01-29,308.71,4897,Mastercard,Matched,False,False,False,Valid
+TXN000020,Guest 0369,581,37508,2025-02-10,203.98,6351,Mastercard,Matched,False,False,False,Valid
+TXN000685,Guest 0405,462,33741,2025-01-16,508.79,1978,Visa,Matched,False,False,False,Valid
+TXN000036,Guest 0677,123,30915,2025-01-06,656.33,2888,Mastercard,Matched,False,False,False,Valid
+TXN000903,Guest 0691,535,38127,2025-01-20,462.64,2644,Visa,Matched,False,False,False,Valid
+TXN001842,Guest 0396,799,32178,2025-01-09,415.13,3615,Mastercard,Unmatched,False,False,False,Valid
+TXN000828,Guest 0755,476,30543,2025-03-22,444.95,5559,American Express,Matched,False,False,False,Valid
+TXN001811,Guest 0184,567,35058,2025-01-23,788.4,2654,Visa,Matched,False,False,False,Valid
+TXN000408,Guest 0569,230,36493,2025-01-13,433.14,9126,Visa,Matched,False,False,False,Valid
+TXN000921,Guest 0261,783,32574,2025-03-20,903.35,0097,Visa,Matched,False,False,False,Valid
+TXN000538,Guest 0399,606,39515,2025-01-11,246.47,6003,Mastercard,Matched,False,False,False,Valid
+TXN000759,Guest 0288,416,32971,2025-01-12,913.59,9265,Visa,Matched,False,False,False,Valid
+TXN001920,Guest 0492,739,33959,2025-02-17,1791.12,0736,Mastercard,Matched,False,False,False,Valid
+TXN001063,Guest 0306,531,39788,2025-01-13,404.25,6104,Mastercard,Unmatched,False,False,False,Valid
+TXN001200,Guest 0212,765,34383,2025-02-25,361.79,6606,Visa,Matched,False,False,False,Valid
+TXN000246,Guest 0667,296,33312,2025-01-08,281.08,4281,Mastercard,Matched,False,False,False,Valid
+TXN001417,Guest 0493,347,38153,2025-02-27,451.21,8973,Mastercard,Matched,False,False,False,Valid
+TXN001128,Guest 0727,462,31844,2025-02-27,198.51,9852,Mastercard,Matched,False,False,False,Valid
+TXN000785,Guest 0730,691,32406,2025-02-13,515.91,8009,Visa,Matched,False,False,False,Valid
+TXN001756,Guest 0257,381,39529,2025-01-29,521.86,3089,Visa,Matched,False,False,False,Valid
+TXN000490,Guest 0286,370,31148,2025-02-24,345.36,7960,American Express,Pending,False,False,False,Valid
+TXN000155,Guest 0564,259,30071,2025-02-09,311.49,9480,Visa,Unmatched,False,False,False,Valid
+TXN000962,Guest 0338,454,34421,2025-02-06,469.95,9923,Mastercard,Matched,False,False,False,Valid
+TXN000854,Guest 0072,148,30863,2025-01-22,2146.53,4236,American Express,Matched,False,False,False,Valid
+TXN001312,Guest 0322,748,30829,2025-02-01,620.7,1667,Mastercard,Matched,False,False,False,Valid
+TXN000626,Guest 0464,369,35460,2025-01-21,195.51,1290,Visa,Matched,False,False,False,Valid
+TXN000686,Guest 0386,609,31576,2025-03-14,379.56,1333,Mastercard,Matched,False,False,False,Valid
+TXN001573,Guest 0552,267,31948,2025-03-08,644.73,2347,Mastercard,Matched,False,False,False,Valid
+TXN000570,Guest 0742,243,31907,2025-02-21,335.58,3790,Visa,Matched,False,False,False,Valid
+TXN001924,Guest 0334,778,31297,2025-02-09,500.07,0055,Visa,Matched,False,False,False,Valid
+TXN000018,Guest 0581,207,30795,2025-01-12,726.76,8868,Visa,Matched,False,False,False,Valid
+TXN000128,Guest 0501,164,38828,2025-03-10,487.32,4115,American Express,Matched,False,False,False,Valid
+TXN001347,Guest 0483,448,30369,2025-03-19,686.67,3240,Mastercard,Matched,False,False,False,Valid
+TXN001280,Guest 0584,239,35343,2025-03-19,445.47,4510,Visa,Matched,False,False,False,Valid
+TXN001984,Guest 0540,675,34230,2025-03-09,1139.41,0852,Mastercard,Unmatched,False,False,False,Valid
+TXN000928,Guest 0257,515,32881,2025-01-28,297.74,1495,American Express,Matched,False,False,False,Valid
+TXN000981,Guest 0574,730,32940,2025-02-23,405.64,1855,Visa,Matched,False,False,False,Valid
+TXN001980,Guest 0121,527,39962,2025-03-13,1321.06,6601,Visa,Matched,False,False,False,Valid
+TXN000191,Guest 0291,401,39018,2025-03-03,566.77,3968,Visa,Matched,False,False,False,Valid
+TXN001140,Guest 0396,796,33067,2025-02-18,250.36,8084,Mastercard,Pending,False,False,False,Valid
+TXN000993,Guest 0155,794,32311,2025-01-18,141.85,0516,Mastercard,Matched,False,False,False,Valid
+TXN001971,Guest 0382,622,32182,2025-03-16,902.06,1796,American Express,Pending,False,False,False,Valid
+TXN001669,Guest 0341,631,32855,2025-02-17,557.18,7304,Visa,Matched,False,False,False,Valid
+TXN000607,Guest 0426,268,38705,2025-01-30,468.82,7816,Mastercard,Matched,False,False,False,Valid
+TXN000181,Guest 0560,557,33906,2025-03-26,349.77,7533,Visa,Matched,False,False,False,Valid
+TXN000302,Guest 0116,559,30008,2025-03-16,369.1,4983,American Express,Matched,False,False,False,Valid
+TXN000497,Guest 0641,331,36124,2025-01-11,426.12,4345,Visa,Matched,False,False,False,Valid
+TXN001709,Guest 0394,475,34435,2025-01-22,420.33,6475,Visa,Unmatched,False,False,False,Valid
+TXN001809,Guest 0416,438,31047,2025-01-09,443.92,0326,Visa,Matched,False,False,False,Valid
+TXN001674,Guest 0001,555,36855,2025-03-10,583.88,2643,Mastercard,Pending,False,False,False,Valid
+TXN001650,Guest 0591,786,37229,2025-03-17,584.96,5000,Visa,Matched,False,False,False,Valid
+TXN000518,Guest 0421,142,35653,2025-01-06,665.24,7094,American Express,Matched,False,False,False,Valid
+TXN002000,Guest 0417,169,31803,2025-01-26,277.01,9796,Visa,Matched,False,False,False,Valid
+TXN001070,Guest 0056,770,37051,2025-01-01,607.23,2573,Visa,Matched,False,False,False,Valid
+TXN000477,Guest 0418,757,32426,2025-03-18,663.32,3716,Mastercard,Matched,False,False,False,Valid
+TXN000158,Guest 0506,311,36088,2025-02-20,560.26,1166,Visa,Matched,False,False,False,Valid
+TXN001244,Guest 0416,771,32775,2025-02-14,425.88,5100,Mastercard,Matched,False,False,False,Valid
+TXN001196,Guest 0141,385,38828,2025-02-27,413.83,9166,Visa,Matched,False,False,False,Valid
+TXN000017,Guest 0332,290,33317,2025-02-16,448.94,1088,American Express,Matched,False,False,False,Valid
+TXN001536,Guest 0060,573,33369,2025-01-03,433.06,1235,Visa,Matched,False,False,False,Valid
+TXN001073,Guest 0193,223,36077,2025-03-10,615.61,0309,Visa,Matched,False,False,False,Valid
+TXN001987,Guest 0249,739,38401,2025-03-16,452.2,0989,Mastercard,Matched,False,False,False,Valid
+TXN000547,Guest 0636,513,36901,2025-02-08,616.72,6086,Mastercard,Matched,False,False,False,Valid
+TXN001540,Guest 0662,793,36306,2025-02-25,437.59,6582,Mastercard,Matched,False,False,False,Valid
+TXN000659,Guest 0538,394,35791,2025-01-07,82.26,5130,Mastercard,Matched,False,False,False,Valid
+TXN001753,Guest 0769,184,32068,2025-02-26,549.16,5161,Visa,Matched,False,False,False,Valid
+TXN001020,Guest 0597,549,32780,2025-01-11,532.51,4525,Visa,Matched,False,False,False,Valid
+TXN001675,Guest 0517,446,39856,2025-03-06,1018.58,7952,American Express,Pending,False,False,False,Valid
+TXN001505,Guest 0014,473,37574,2025-02-23,332.2,8454,Visa,Unmatched,False,False,False,Valid
+TXN000960,Guest 0383,760,35642,2025-02-07,371.32,2740,American Express,Matched,False,False,False,Valid
+TXN001897,Guest 0427,115,38669,2025-02-21,375.78,5182,Mastercard,Matched,False,False,False,Valid
+TXN000284,Guest 0630,404,31730,2025-02-14,700.69,1948,Visa,Matched,False,False,False,Valid
+TXN000798,Guest 0454,187,36919,2025-02-11,611.82,7606,Visa,Matched,False,False,False,Valid
+TXN001638,Guest 0400,404,36858,2025-02-25,1117.28,5634,Visa,Matched,False,False,False,Valid
+TXN000226,Guest 0496,225,37111,2025-01-28,428.71,5705,Visa,Unmatched,False,False,False,Valid
+TXN000027,Guest 0492,247,34488,2025-02-06,554.5,8293,American Express,Matched,False,False,False,Valid
+TXN001785,Guest 0788,499,34833,2025-03-07,384.54,2911,Visa,Matched,False,False,False,Valid
+TXN000438,Guest 0542,763,32805,2025-03-25,543.02,0280,Visa,Pending,False,False,False,Valid
+TXN001964,Guest 0303,295,34410,2025-03-15,1713.5,2099,American Express,Pending,False,False,False,Valid
+TXN001389,Guest 0232,447,32377,2025-03-22,296.73,3582,Visa,Matched,False,False,False,Valid
+TXN000230,Guest 0785,110,34512,2025-01-16,498.16,6523,Mastercard,Pending,False,False,False,Valid
+TXN000038,Guest 0033,530,33261,2025-03-16,433.62,1364,Visa,Matched,False,False,False,Valid
+TXN000750,Guest 0780,356,35072,2025-01-15,463.48,0225,Visa,Matched,False,False,False,Valid
+TXN001046,Guest 0707,358,31096,2025-01-14,163.68,6063,Visa,Matched,False,False,False,Valid
+TXN001399,Guest 0007,755,30385,2025-01-03,480.12,1864,Mastercard,Matched,False,False,False,Valid
+TXN000470,Guest 0172,624,31642,2025-03-25,414.56,5607,Visa,Unmatched,False,False,False,Valid
+TXN001973,Guest 0100,448,34342,2025-03-03,831.0,8062,Mastercard,Matched,False,False,False,Valid
+TXN001983,Guest 0537,749,35427,2025-01-05,703.31,4046,American Express,Matched,False,False,False,Valid
+TXN000688,Guest 0452,302,31035,2025-02-23,718.95,6011,Visa,Matched,False,False,False,Valid
+TXN001858,Guest 0015,356,31388,2025-02-22,479.57,7051,Visa,Matched,False,False,False,Valid
+TXN000640,Guest 0682,743,33112,2025-03-27,883.2,8811,Visa,Matched,False,False,False,Valid
+TXN001903,Guest 0408,166,33345,2025-03-06,1262.3,5155,American Express,Matched,False,False,False,Valid
+TXN001219,Guest 0789,137,32518,2025-03-14,580.51,4190,Visa,Matched,False,False,False,Valid
+TXN001159,Guest 0535,197,31550,2025-02-04,139.0,6626,American Express,Matched,False,False,False,Valid
+TXN001416,Guest 0330,261,36700,2025-03-12,280.83,4136,Visa,Matched,False,False,False,Valid
+TXN001528,Guest 0073,321,32486,2025-01-13,307.64,5018,Mastercard,Matched,False,False,False,Valid
+TXN001668,Guest 0145,678,34701,2025-03-02,426.06,9373,Mastercard,Matched,False,False,False,Valid
+TXN001301,Guest 0510,147,37627,2025-03-10,359.01,2994,American Express,Matched,False,False,False,Valid
+TXN001886,Guest 0332,670,31908,2025-01-17,827.75,5186,Visa,Matched,False,False,False,Valid
+TXN000801,Guest 0635,528,38514,2025-01-02,286.09,0546,Mastercard,Matched,False,False,False,Valid
+TXN001604,Guest 0499,445,32066,2025-01-29,448.9,7092,Visa,Matched,False,False,False,Valid
+TXN000161,Guest 0648,382,32387,2025-03-31,423.39,3330,Mastercard,Matched,False,False,False,Valid
+TXN000957,Guest 0080,213,31730,2025-02-06,276.25,2327,Mastercard,Pending,False,False,False,Valid
+TXN001187,Guest 0613,704,34696,2025-01-13,589.98,7358,Mastercard,Matched,False,False,False,Valid
+TXN000822,Guest 0665,577,36588,2025-03-01,372.54,7388,Visa,Matched,False,False,False,Valid
+TXN001695,Guest 0317,511,36375,2025-01-15,631.48,8644,Visa,Matched,False,False,False,Valid
+TXN000878,Guest 0749,406,30070,2025-03-09,189.39,9911,Visa,Matched,False,False,False,Valid
+TXN000914,Guest 0181,524,39375,2025-03-30,308.04,0466,Visa,Matched,False,False,False,Valid
+TXN000153,Guest 0686,738,36578,2025-03-24,510.16,9700,American Express,Matched,False,False,False,Valid
+TXN001851,Guest 0588,219,33149,2025-01-08,532.18,7050,American Express,Matched,False,False,False,Valid
+TXN001791,Guest 0090,613,39497,2025-02-22,318.46,8508,Visa,Matched,False,False,False,Valid
+TXN000510,Guest 0098,776,30373,2025-01-22,529.15,0888,American Express,Matched,False,False,False,Valid
+TXN001136,Guest 0013,170,34829,2025-01-06,164.92,2448,Visa,Matched,False,False,False,Valid
+TXN001251,Guest 0271,205,33412,2025-01-22,316.31,3411,Visa,Matched,False,False,False,Valid
+TXN001677,Guest 0294,466,37606,2025-01-14,329.11,4403,Visa,Matched,False,False,False,Valid
+TXN000104,Guest 0104,112,30975,2025-01-01,513.4,8447,Mastercard,Matched,False,False,False,Valid
+TXN001446,Guest 0570,349,38510,2025-01-04,282.92,9771,Visa,Matched,False,False,False,Valid
+TXN001444,Guest 0177,665,35149,2025-02-08,524.73,4646,Mastercard,Unmatched,False,False,False,Valid
+TXN001853,Guest 0084,279,32489,2025-02-10,1679.39,8712,Visa,Matched,False,False,False,Valid
+TXN000587,Guest 0296,251,35455,2025-03-04,532.67,4119,American Express,Matched,False,False,False,Valid
+TXN001783,Guest 0084,718,38428,2025-01-03,1207.37,5075,Mastercard,Matched,False,False,False,Valid
+TXN001144,Guest 0455,490,31404,2025-03-18,483.73,0028,American Express,Matched,False,False,False,Valid
+TXN000054,Guest 0759,667,32669,2025-02-12,931.82,3577,Visa,Matched,False,False,False,Valid
+TXN000152,Guest 0258,471,39068,2025-01-26,422.37,2449,Visa,Matched,False,False,False,Valid
+TXN000404,Guest 0441,755,39227,2025-03-29,455.24,4293,American Express,Matched,False,False,False,Valid
+TXN001958,Guest 0588,601,34934,2025-02-17,180.01,8996,Mastercard,Matched,False,False,False,Valid
+TXN000208,Guest 0672,755,37608,2025-03-29,319.0,4225,Mastercard,Matched,False,False,False,Valid
+TXN001910,Guest 0725,462,30689,2025-03-26,384.53,4544,Visa,Matched,False,False,False,Valid
+TXN001123,Guest 0378,531,36041,2025-01-25,844.74,4243,Mastercard,Matched,False,False,False,Valid
+TXN001764,Guest 0510,166,39145,2025-02-24,551.36,5739,American Express,Matched,False,False,False,Valid
+TXN000009,Guest 0631,233,30698,2025-01-19,374.65,3644,Visa,Unmatched,False,False,False,Valid
+TXN001015,Guest 0392,561,34293,2025-02-16,494.19,5840,Visa,Pending,False,False,False,Valid
+TXN001810,Guest 0486,366,33743,2025-03-28,345.7,4772,Visa,Matched,False,False,False,Valid
+TXN001061,Guest 0199,477,34847,2025-03-11,371.33,9475,Visa,Matched,False,False,False,Valid
+TXN000453,Guest 0077,434,39813,2025-02-14,541.24,6572,Visa,Matched,False,False,False,Valid
+TXN001676,Guest 0346,290,30399,2025-03-30,249.59,6086,American Express,Matched,False,False,False,Valid
+TXN000254,Guest 0401,337,35417,2025-01-30,214.78,3591,Mastercard,Matched,False,False,False,Valid
+TXN001328,Guest 0169,272,36794,2025-01-08,391.01,6267,Visa,Matched,False,False,False,Valid
+TXN000897,Guest 0529,695,32630,2025-02-15,345.83,2339,Visa,Matched,False,False,False,Valid
+TXN001747,Guest 0360,403,38167,2025-03-30,329.81,5503,Mastercard,Matched,False,False,False,Valid
+TXN000881,Guest 0033,366,33155,2025-01-08,1325.65,6545,Mastercard,Matched,False,False,False,Valid
+TXN001596,Guest 0232,347,37783,2025-01-15,296.38,2018,Mastercard,Matched,False,False,False,Valid
+TXN001904,Guest 0010,643,39590,2025-01-23,576.27,5986,Mastercard,Pending,False,False,False,Valid
+TXN000624,Guest 0740,156,39369,2025-02-07,523.0,5200,Mastercard,Matched,False,False,False,Valid
+TXN000346,Guest 0206,452,37107,2025-01-24,162.38,1459,Visa,Matched,False,False,False,Valid
+TXN001921,Guest 0751,203,33389,2025-02-05,359.55,9181,Visa,Unmatched,False,False,False,Valid
+TXN000263,Guest 0026,304,32339,2025-01-27,799.38,3876,Mastercard,Matched,False,False,False,Valid
+TXN001635,Guest 0769,636,30787,2025-02-07,620.98,4787,Visa,Matched,False,False,False,Valid
+TXN001322,Guest 0130,688,32126,,375.61,8563,Visa,Matched,False,False,True,Review Required
+TXN001439,Guest 0748,396,35883,2025-01-29,232.17,0391,Mastercard,Matched,False,False,False,Valid
+TXN000151,Guest 0263,331,30114,2025-03-19,616.34,5087,Visa,Pending,False,False,False,Valid
+TXN000473,Guest 0332,442,34485,2025-02-08,1299.35,2107,Visa,Matched,False,False,False,Valid
+TXN000641,Guest 0192,690,33267,2025-03-02,480.66,2787,Visa,Matched,False,False,False,Valid
+TXN001998,Guest 0677,785,33396,2025-03-31,390.78,2916,American Express,Matched,False,False,False,Valid
+TXN001898,Guest 0015,770,38757,2025-03-20,362.32,7420,Visa,Matched,False,False,False,Valid
+TXN000551,Guest 0524,132,35550,2025-03-14,324.84,8498,American Express,Matched,False,False,False,Valid
+TXN001794,Guest 0525,782,33110,2025-01-26,836.75,7142,Mastercard,Matched,False,False,False,Valid
+TXN000929,Guest 0149,228,37308,2025-02-07,147.22,0134,Visa,Matched,False,False,False,Valid
+TXN000489,Guest 0421,565,31320,2025-03-10,462.34,1133,Visa,Matched,False,False,False,Valid
+TXN001826,Guest 0724,473,38654,2025-03-23,456.37,3959,American Express,Matched,False,False,False,Valid
+TXN001172,Guest 0752,412,38007,2025-02-26,305.81,1220,Visa,Matched,False,False,False,Valid
+TXN000147,Guest 0142,390,35391,2025-01-04,610.73,9877,American Express,Matched,False,False,False,Valid
+TXN001718,Guest 0201,623,37062,2025-02-04,876.42,3703,Mastercard,Matched,False,False,False,Valid
+TXN001944,Guest 0776,555,31449,2025-01-03,804.45,3372,Visa,Unmatched,False,False,False,Valid
+TXN000403,Guest 0597,380,33097,2025-01-29,533.5,4638,Mastercard,Matched,False,False,False,Valid
+TXN000955,Guest 0222,363,34290,2025-03-12,643.2,0128,Mastercard,Matched,False,False,False,Valid
+TXN001893,Guest 0349,188,33219,2025-03-21,344.29,5272,Mastercard,Matched,False,False,False,Valid
+TXN000660,Guest 0129,449,32230,2025-01-26,491.96,7057,Visa,Matched,False,False,False,Valid
+TXN001373,Guest 0247,352,35946,2025-02-10,192.63,9165,American Express,Matched,False,False,False,Valid
+TXN000464,Guest 0469,559,31121,2025-02-07,322.33,3895,Mastercard,Matched,False,False,False,Valid
+TXN001350,Guest 0625,507,37906,2025-02-23,225.25,3894,Mastercard,Pending,False,False,False,Valid
+TXN000187,Guest 0245,286,33902,2025-01-15,604.0,2655,Mastercard,Matched,False,False,False,Valid
+TXN001148,Guest 0670,678,34457,2025-03-11,441.5,0125,Visa,Matched,False,False,False,Valid
+TXN001225,Guest 0487,470,35176,2025-02-07,449.07,8254,Visa,Matched,False,False,False,Valid
+TXN000609,Guest 0421,710,30849,2025-03-29,695.77,8836,Mastercard,Matched,False,False,False,Valid
+TXN000144,Guest 0489,414,39640,2025-02-06,422.18,6868,Mastercard,Matched,False,False,False,Valid
+TXN000752,Guest 0065,205,34243,2025-01-14,265.15,1144,Visa,Matched,False,False,False,Valid
+TXN001535,Guest 0071,162,32225,2025-03-15,665.33,1235,Visa,Matched,False,False,False,Valid
+TXN000982,Guest 0049,771,35882,2025-03-05,852.89,2466,Mastercard,Matched,False,False,False,Valid
+TXN000198,Guest 0689,187,32576,2025-01-11,683.12,7332,Mastercard,Matched,False,False,False,Valid
+TXN001634,Guest 0609,298,34278,2025-03-21,546.78,0434,Visa,Matched,False,False,False,Valid
+TXN000884,Guest 0040,213,31878,2025-01-14,80.58,8491,Mastercard,Unmatched,False,False,False,Valid
+TXN000280,Guest 0538,691,33765,2025-01-08,364.24,8397,Visa,Matched,False,False,False,Valid
+TXN000294,Guest 0600,166,37350,2025-01-30,149.3,1487,Visa,Matched,False,False,False,Valid
+TXN001838,Guest 0480,125,36604,2025-01-28,718.86,5673,Mastercard,Matched,False,False,False,Valid
+TXN000401,Guest 0006,365,35370,2025-03-31,536.43,1840,Visa,Matched,False,False,False,Valid
+TXN000123,Guest 0466,789,38023,2025-02-28,227.38,4794,Mastercard,Matched,False,False,False,Valid
+TXN001208,Guest 0652,627,32200,2025-03-06,615.24,5209,Mastercard,Matched,False,False,False,Valid
+TXN000203,Guest 0032,341,32214,2025-02-14,606.27,1994,Mastercard,Matched,False,False,False,Valid
+TXN001463,Guest 0694,595,32118,2025-01-05,673.58,5802,American Express,Matched,False,False,False,Valid
+TXN000836,Guest 0435,469,37867,2025-03-11,427.05,9539,Visa,Matched,False,False,False,Valid
+TXN000247,Guest 0461,291,37908,2025-03-10,305.86,7836,Visa,Pending,False,False,False,Valid
+TXN001440,Guest 0664,489,34752,2025-03-27,981.13,3485,Visa,Matched,False,False,False,Valid
+TXN001767,Guest 0543,316,38788,2025-02-15,372.23,6857,Mastercard,Matched,False,False,False,Valid
+TXN001917,Guest 0054,328,36676,2025-01-26,157.64,5731,Visa,Pending,False,False,False,Valid
+TXN001708,Guest 0605,325,33909,2025-03-24,359.63,4776,Visa,Pending,False,False,False,Valid
+TXN001929,Guest 0531,180,39319,2025-01-17,742.12,8227,Mastercard,Matched,False,False,False,Valid
+TXN001154,Guest 0635,588,38201,2025-03-23,692.97,5830,Visa,Matched,False,False,False,Valid
+TXN001662,Guest 0375,256,34759,2025-02-24,496.59,6521,Mastercard,Matched,False,False,False,Valid
+TXN001427,Guest 0385,679,35780,2025-03-02,817.59,6597,Visa,Matched,False,False,False,Valid
+TXN000385,Guest 0147,368,32450,2025-01-03,276.96,1674,Visa,Matched,False,False,False,Valid
+TXN001772,Guest 0265,256,30393,2025-02-03,711.46,9055,Mastercard,Matched,False,False,False,Valid
+TXN000855,Guest 0580,139,38723,2025-01-26,526.17,4836,Visa,Matched,False,False,False,Valid
+TXN001590,Guest 0728,692,35623,2025-01-03,616.76,0797,Visa,Matched,False,False,False,Valid
+TXN000220,Guest 0155,214,39377,2025-03-23,377.14,6893,American Express,Matched,False,False,False,Valid
+TXN000642,Guest 0398,123,30124,2025-03-24,284.15,0516,Visa,Matched,False,False,False,Valid
+TXN000002,Guest 0050,690,38292,2025-03-11,195.75,5450,Visa,Unmatched,False,False,False,Valid
+TXN000113,Guest 0732,206,34612,2025-02-20,496.44,0024,Mastercard,Matched,False,False,False,Valid
+TXN000699,Guest 0104,311,33294,2025-01-05,249.18,8772,Mastercard,Matched,False,False,False,Valid
+TXN001931,Guest 0568,748,33358,2025-01-09,437.44,5086,Mastercard,Matched,False,False,False,Valid
+TXN000952,Guest 0407,136,34323,2025-01-28,394.33,3026,Visa,Matched,False,False,False,Valid
+TXN001649,Guest 0799,781,35483,2025-03-29,510.53,4194,Visa,Unmatched,False,False,False,Valid
+TXN001637,Guest 0433,279,31453,2025-01-15,430.16,6725,Visa,Unmatched,False,False,False,Valid
+TXN001762,Guest 0405,214,37174,2025-02-06,594.42,7230,Mastercard,Matched,False,False,False,Valid
+TXN001411,Guest 0057,116,30808,2025-01-06,154.11,3616,Mastercard,Matched,False,False,False,Valid
+TXN001410,Guest 0380,596,30608,2025-01-26,926.52,0814,American Express,Pending,False,False,False,Valid
+TXN001534,Guest 0792,412,35125,2025-01-17,214.55,1900,Mastercard,Matched,False,False,False,Valid
+TXN001292,Guest 0372,717,37558,2025-03-19,395.13,3429,Mastercard,Matched,False,False,False,Valid
+TXN001823,Guest 0439,710,30299,2025-01-28,136.09,7801,Mastercard,Matched,False,False,False,Valid
+TXN000442,Guest 0001,349,32742,2025-01-28,593.19,2212,Mastercard,Unmatched,False,False,False,Valid
+TXN001521,Guest 0661,406,31511,2025-03-19,775.51,6328,American Express,Matched,False,False,False,Valid
+TXN001137,Guest 0465,421,35655,2025-03-07,138.39,0165,Visa,Matched,False,False,False,Valid
+TXN001716,Guest 0230,402,34375,2025-03-21,176.34,9873,Mastercard,Matched,False,False,False,Valid
+TXN001257,Guest 0139,142,39146,2025-01-20,271.01,1006,Mastercard,Matched,False,False,False,Valid
+TXN001878,Guest 0197,271,34976,2025-03-22,1179.68,0577,Visa,Unmatched,False,False,False,Valid
+TXN001632,Guest 0437,491,33902,2025-03-22,228.9,5176,Mastercard,Matched,False,False,False,Valid
+TXN001696,Guest 0514,145,37054,2025-03-03,549.03,6018,Mastercard,Matched,False,False,False,Valid
+TXN001398,Guest 0769,375,30247,2025-02-28,1202.5,6919,Visa,Matched,False,False,False,Valid
+TXN000664,Guest 0398,364,32749,2025-01-19,1100.14,6585,Visa,Matched,False,False,False,Valid
+TXN001850,Guest 0180,142,32073,2025-01-15,402.0,0271,Visa,Matched,False,False,False,Valid
+TXN001258,Guest 0157,302,36427,2025-02-19,303.61,4573,Visa,Matched,False,False,False,Valid
+TXN001788,Guest 0017,527,35231,2025-01-09,1496.08,3826,Visa,Matched,False,False,False,Valid
+TXN001701,Guest 0123,536,35289,2025-01-24,505.83,7798,Visa,Matched,False,False,False,Valid
+TXN000318,Guest 0350,390,39160,2025-03-07,561.35,8460,American Express,Matched,False,False,False,Valid
+TXN000649,Guest 0750,305,35503,2025-03-28,543.4,6425,Mastercard,Matched,False,False,False,Valid
+TXN001435,Guest 0189,468,34104,2025-01-29,476.6,4860,Mastercard,Matched,False,False,False,Valid
+TXN001480,Guest 0624,503,34412,2025-02-07,385.58,3748,Mastercard,Matched,False,False,False,Valid
+TXN000710,Guest 0700,398,34954,2025-02-11,256.85,7242,Visa,Unmatched,False,False,False,Valid
+TXN001383,Guest 0769,372,32373,2025-02-01,580.66,3050,Mastercard,Matched,False,False,False,Valid
+TXN001283,Guest 0776,678,37135,2025-02-05,472.75,1926,Mastercard,Matched,False,False,False,Valid
+TXN001769,Guest 0647,429,32842,2025-01-07,180.33,0459,American Express,Matched,False,False,False,Valid
+TXN000973,Guest 0479,685,32186,2025-02-12,331.05,9458,Visa,Pending,False,False,False,Valid
+TXN000628,Guest 0004,227,36166,2025-02-03,545.38,8692,American Express,Matched,False,False,False,Valid
+TXN000633,Guest 0731,293,31924,2025-02-09,797.76,2346,American Express,Matched,False,False,False,Valid
+TXN001307,Guest 0221,376,35402,2025-01-23,599.19,3419,Visa,Matched,False,False,False,Valid
+TXN001401,Guest 0652,696,37455,2025-03-18,937.34,4367,Visa,Unmatched,False,False,False,Valid
+TXN001409,Guest 0528,492,35383,2025-01-01,676.86,8426,Mastercard,Matched,False,False,False,Valid
+TXN001249,Guest 0113,730,34027,2025-01-30,312.31,0434,Visa,Pending,False,False,False,Valid
+TXN001968,Guest 0194,524,32342,2025-02-12,821.24,1661,Mastercard,Matched,False,False,False,Valid
+TXN001255,Guest 0190,342,32073,2025-02-28,1084.59,6487,Visa,Matched,False,False,False,Valid
+TXN001497,Guest 0083,639,37630,2025-02-19,507.73,9519,Mastercard,Matched,False,False,False,Valid
+TXN001372,Guest 0191,617,30945,2025-01-31,1321.39,0147,Mastercard,Matched,False,False,False,Valid
+TXN001530,Guest 0097,151,30584,2025-03-24,427.56,1922,Mastercard,Matched,False,False,False,Valid
+TXN001664,Guest 0770,416,36209,2025-02-19,369.08,3977,Visa,Matched,False,False,False,Valid
+TXN001355,Guest 0781,649,39251,2025-01-20,586.06,1435,Mastercard,Matched,False,False,False,Valid
+TXN001941,Guest 0436,279,36290,2025-01-15,609.93,5076,Visa,Matched,False,False,False,Valid
+TXN001916,Guest 0063,109,39469,2025-02-16,398.48,0012,Mastercard,Matched,False,False,False,Valid
+TXN001644,Guest 0394,575,36277,2025-02-23,408.74,4379,Mastercard,Matched,False,False,False,Valid
+TXN001883,Guest 0461,683,39273,2025-01-17,828.52,7631,American Express,Matched,False,False,False,Valid
+TXN000796,Guest 0733,233,31101,2025-01-27,516.77,6837,Mastercard,Unmatched,False,False,False,Valid
+TXN000646,Guest 0005,382,37076,2025-01-30,542.99,7038,Visa,Matched,False,False,False,Valid
+TXN001013,Guest 0037,519,37427,2025-01-23,-370.33,6997,Mastercard,Matched,False,True,False,Review Required
+TXN001854,Guest 0282,579,35366,2025-01-15,608.82,1967,American Express,Matched,False,False,False,Valid
+TXN000557,Guest 0639,209,31420,2025-03-08,766.93,0684,Visa,Matched,False,False,False,Valid
+TXN000682,Guest 0081,220,33401,2025-01-13,346.5,6260,Visa,Pending,False,False,False,Valid
+TXN000578,Guest 0361,240,30901,2025-02-17,313.39,7138,Visa,Pending,False,False,False,Valid
+TXN001110,Guest 0189,300,32924,2025-01-05,336.72,1056,Visa,Matched,False,False,False,Valid
+TXN001267,Guest 0591,480,37737,2025-01-05,1384.19,5430,American Express,Matched,False,False,False,Valid
+TXN001723,Guest 0601,579,38100,2025-02-28,148.75,5727,Mastercard,Matched,False,False,False,Valid
+TXN001184,Guest 0047,725,33280,2025-02-10,580.5,2060,American Express,Matched,False,False,False,Valid
+TXN000525,Guest 0050,660,32979,2025-01-29,596.37,8869,American Express,Matched,False,False,False,Valid
+TXN001060,Guest 0219,542,34843,2025-01-28,242.24,8207,Visa,Matched,False,False,False,Valid
+TXN000541,Guest 0232,519,39382,2025-03-05,963.14,2389,American Express,Matched,False,False,False,Valid
+TXN001195,Guest 0592,359,37425,2025-02-17,791.0,9384,Visa,Matched,False,False,False,Valid
+TXN001679,Guest 0431,528,34364,2025-03-25,326.89,2771,Visa,Unmatched,False,False,False,Valid
+TXN000749,Guest 0332,705,33637,2025-01-29,276.67,9133,Visa,Matched,False,False,False,Valid
+TXN001866,Guest 0622,494,35101,2025-02-06,821.16,7664,Mastercard,Matched,False,False,False,Valid
+TXN001431,Guest 0200,773,38977,2025-02-12,530.19,0240,Visa,Matched,False,False,False,Valid
+TXN000485,Guest 0276,428,37132,2025-02-11,246.79,9482,American Express,Matched,False,False,False,Valid
+TXN001758,Guest 0438,470,30199,2025-02-24,423.04,9747,American Express,Matched,False,False,False,Valid
+TXN000096,Guest 0623,483,36425,2025-01-26,1527.45,6383,Visa,Matched,False,False,False,Valid
+TXN001021,Guest 0280,716,35190,2025-01-06,1014.99,4721,Mastercard,Unmatched,False,False,False,Valid
+TXN000564,Guest 0327,232,30336,2025-01-17,295.12,5092,Visa,Matched,False,False,False,Valid
+TXN001265,Guest 0422,683,35168,2025-01-22,351.57,0393,Mastercard,Unmatched,False,False,False,Valid
+TXN000743,Guest 0410,400,35278,2025-02-27,265.19,6948,Visa,Matched,False,False,False,Valid
+TXN000864,Guest 0490,603,35575,2025-03-11,103.79,8684,American Express,Matched,False,False,False,Valid
+TXN001599,Guest 0228,627,30153,2025-03-18,336.16,3467,Mastercard,Matched,False,False,False,Valid
+TXN001715,Guest 0581,770,31446,2025-02-27,641.9,8080,Visa,Matched,False,False,False,Valid
+TXN001485,Guest 0327,473,30271,2025-02-07,183.03,6621,Visa,Matched,False,False,False,Valid
+TXN000892,Guest 0455,500,33366,2025-03-05,352.71,4419,Mastercard,Matched,False,False,False,Valid
+TXN001578,Guest 0686,754,33490,2025-03-13,690.72,8957,Visa,Unmatched,False,False,False,Valid
+TXN001039,Guest 0227,796,38098,2025-02-09,955.07,2942,Visa,Matched,False,False,False,Valid
+TXN000207,Guest 0108,734,37061,2025-03-10,285.79,8436,American Express,Unmatched,False,False,False,Valid
+TXN000393,Guest 0494,109,32568,2025-02-03,349.38,6314,Visa,Matched,False,False,False,Valid
+TXN000795,Guest 0056,378,37296,2025-02-08,164.53,0090,Visa,Matched,False,False,False,Valid
+TXN000871,Guest 0227,234,31510,2025-02-11,428.68,9088,Visa,Matched,False,False,False,Valid
+TXN000398,Guest 0232,281,31543,2025-01-18,445.92,3786,Mastercard,Matched,False,False,False,Valid
+TXN000767,Guest 0296,499,36651,2025-02-25,518.8,5207,Mastercard,Matched,False,False,False,Valid
+TXN001856,Guest 0570,512,38286,2025-03-18,1286.98,7860,Visa,Matched,False,False,False,Valid
+TXN001242,Guest 0167,714,36218,2025-03-11,217.63,3206,Mastercard,Unmatched,False,False,False,Valid
+TXN001029,Guest 0180,591,34457,2025-02-20,513.49,9312,American Express,Matched,False,False,False,Valid
+TXN001793,Guest 0205,374,37425,2025-01-31,382.52,9214,Mastercard,Matched,False,False,False,Valid
+TXN000643,Guest 0163,767,39725,2025-03-18,770.64,3120,Visa,Matched,False,False,False,Valid
+TXN001907,Guest 0573,428,37508,2025-01-27,681.35,0031,Mastercard,Matched,False,False,False,Valid
+TXN000613,Guest 0146,650,39222,2025-03-12,249.4,4209,American Express,Unmatched,False,False,False,Valid
+TXN001763,Guest 0461,237,35230,2025-01-01,328.53,9577,American Express,Matched,False,False,False,Valid
+TXN000961,Guest 0738,367,32835,2025-01-14,1457.4,4240,Mastercard,Matched,False,False,False,Valid
+TXN001571,Guest 0640,633,36881,2025-01-08,726.09,2611,Mastercard,Matched,False,False,False,Valid
+TXN000726,Guest 0495,434,35851,2025-01-11,233.27,9467,Visa,Matched,False,False,False,Valid
+TXN000684,Guest 0649,149,38217,2025-03-28,1043.4,3188,Mastercard,Matched,False,False,False,Valid
+TXN000099,Guest 0601,655,37892,2025-02-27,374.31,5356,Mastercard,Matched,False,False,False,Valid
+TXN000805,Guest 0138,584,34402,2025-03-08,820.72,4395,Mastercard,Matched,False,False,False,Valid
+TXN001752,Guest 0639,252,34123,2025-03-21,489.22,2605,Visa,Matched,False,False,False,Valid
+TXN001598,Guest 0444,575,34152,2025-03-07,265.08,9535,Mastercard,Matched,False,False,False,Valid
+TXN000407,Guest 0297,281,37415,2025-02-09,438.88,2950,Mastercard,Matched,False,False,False,Valid
+TXN000503,Guest 0603,798,35118,2025-03-28,978.07,8438,Visa,Matched,False,False,False,Valid
+TXN001072,Guest 0385,510,37953,2025-01-19,301.32,0034,Mastercard,Matched,False,False,False,Valid
+TXN001057,Guest 0642,763,33783,2025-02-10,311.91,0139,Mastercard,Pending,False,False,False,Valid
+TXN000930,Guest 0523,255,37513,2025-02-22,254.71,4694,Visa,Matched,False,False,False,Valid
+TXN000780,Guest 0037,151,32685,2025-03-18,195.35,4948,American Express,Matched,False,False,False,Valid
+TXN000201,Guest 0293,575,39384,2025-02-02,1000.06,2891,Mastercard,Matched,False,False,False,Valid
+TXN000135,Guest 0353,790,36512,2025-03-13,438.23,5331,Visa,Pending,False,False,False,Valid
+TXN001052,Guest 0141,206,34323,2025-02-02,271.17,4435,Mastercard,Pending,False,False,False,Valid
+TXN000041,Guest 0232,330,33984,2025-01-15,432.46,0750,Mastercard,Matched,False,False,False,Valid
+TXN001018,Guest 0173,473,36813,2025-02-14,826.67,2297,Visa,Matched,False,False,False,Valid
+TXN000231,Guest 0507,152,34752,2025-02-11,255.95,6390,Visa,Pending,False,False,False,Valid
+TXN001514,Guest 0113,708,32616,2025-01-30,230.5,9500,Visa,Matched,False,False,False,Valid
+TXN001797,Guest 0550,708,38717,2025-03-29,257.96,8369,Mastercard,Matched,False,False,False,Valid
+TXN000379,Guest 0791,217,35755,2025-02-04,301.04,9656,American Express,Unmatched,False,False,False,Valid
+TXN000289,Guest 0750,635,32712,2025-02-18,521.03,1066,American Express,Matched,False,False,False,Valid
+TXN000419,Guest 0231,599,39810,2025-01-27,792.18,0955,Mastercard,Matched,False,False,False,Valid
+TXN001699,Guest 0232,603,30732,2025-02-02,395.88,4097,Mastercard,Matched,False,False,False,Valid
+TXN000392,Guest 0154,671,33880,2025-01-17,402.02,9375,Mastercard,Matched,False,False,False,Valid
+TXN000593,Guest 0426,151,33700,2025-01-22,196.68,4197,Mastercard,Matched,False,False,False,Valid
+TXN001523,Guest 0663,626,34767,2025-01-18,194.59,0784,Visa,Matched,False,False,False,Valid
+TXN001163,Guest 0129,301,36257,2025-03-18,342.75,6264,Mastercard,Matched,False,False,False,Valid
+TXN001087,Guest 0146,681,34467,2025-03-14,564.43,9869,Visa,Matched,False,False,False,Valid
+TXN001496,Guest 0426,231,38763,2025-02-08,447.07,5557,Mastercard,Matched,False,False,False,Valid
+TXN000648,Guest 0630,157,38013,2025-02-18,1088.95,2842,Visa,Matched,False,False,False,Valid
+TXN001153,Guest 0158,283,31404,2025-02-08,250.48,5216,Mastercard,Matched,False,False,False,Valid
+TXN001368,Guest 0231,508,34870,2025-02-10,161.54,0982,Visa,Matched,False,False,False,Valid
+TXN000521,Guest 0355,793,30044,2025-02-02,401.89,3239,American Express,Matched,False,False,False,Valid
+TXN001863,Guest 0199,504,37909,2025-03-18,864.44,5714,Visa,Matched,False,False,False,Valid
+TXN001881,Guest 0692,209,33599,2025-02-04,298.75,0716,Visa,Matched,False,False,False,Valid
+TXN000065,Guest 0472,629,33725,2025-02-06,507.26,6611,American Express,Unmatched,False,False,False,Valid
+TXN001837,Guest 0158,714,33871,2025-03-26,593.71,8100,Mastercard,Unmatched,False,False,False,Valid
+TXN000015,Guest 0519,298,35341,2025-03-06,243.25,2368,Mastercard,Matched,False,False,False,Valid
+TXN001181,Guest 0179,698,34454,2025-02-24,202.36,7087,Visa,Matched,False,False,False,Valid
+TXN001065,Guest 0566,460,30260,2025-03-09,768.15,2397,American Express,Matched,False,False,False,Valid
+TXN000493,Guest 0744,587,32963,2025-03-09,434.13,9347,American Express,Matched,False,False,False,Valid
+TXN000380,Guest 0523,750,32883,2025-01-24,306.73,6400,Mastercard,Matched,False,False,False,Valid
+TXN000188,Guest 0207,250,39645,2025-02-04,168.93,6120,Mastercard,Matched,False,False,False,Valid
+TXN000764,Guest 0029,267,38662,2025-03-26,348.85,1090,Mastercard,Pending,False,False,False,Valid
+TXN000217,Guest 0361,442,34389,2025-01-08,672.34,3024,Mastercard,Unmatched,False,False,False,Valid
+TXN000792,Guest 0125,793,39269,2025-02-10,447.82,,Visa,Matched,True,False,False,Review Required
+TXN001077,Guest 0088,331,38121,2025-03-06,202.08,3287,Mastercard,Pending,False,False,False,Valid
+TXN000879,Guest 0697,570,35947,2025-02-19,215.84,3633,Mastercard,Matched,False,False,False,Valid
+TXN000338,Guest 0656,330,30766,2025-01-29,439.3,4363,Visa,Matched,False,False,False,Valid
+TXN001773,Guest 0423,387,35781,2025-02-02,332.85,8819,Mastercard,Matched,False,False,False,Valid
+TXN000720,Guest 0131,205,36669,2025-02-23,687.39,0180,Visa,Matched,False,False,False,Valid
+TXN001749,Guest 0736,745,35816,2025-03-14,152.57,2230,Visa,Unmatched,False,False,False,Valid
+TXN000296,Guest 0642,795,37117,2025-02-16,1430.88,4599,Visa,Matched,False,False,False,Valid
+TXN001726,Guest 0793,323,36759,2025-03-12,746.88,7398,Visa,Unmatched,False,False,False,Valid
+TXN001017,Guest 0426,140,36113,2025-02-04,204.72,6621,Visa,Pending,False,False,False,Valid
+TXN001276,Guest 0739,247,32166,2025-03-06,2316.78,5579,Mastercard,Matched,False,False,False,Valid
+TXN001751,Guest 0466,716,36418,2025-03-25,447.67,3407,Visa,Matched,False,False,False,Valid
+TXN001486,Guest 0022,223,38564,2025-03-19,282.67,5818,Visa,Matched,False,False,False,Valid
+TXN000456,Guest 0381,147,31948,2025-02-19,321.18,7499,American Express,Matched,False,False,False,Valid
+TXN000816,Guest 0076,308,32517,2025-03-17,366.45,5104,Visa,Matched,False,False,False,Valid
+TXN001887,Guest 0067,793,33240,2025-02-28,258.18,7737,Visa,Matched,False,False,False,Valid
+TXN000270,Guest 0782,453,37213,2025-02-23,536.54,7280,Visa,Matched,False,False,False,Valid
+TXN000996,Guest 0505,249,37582,2025-02-26,493.05,7216,Mastercard,Matched,False,False,False,Valid
+TXN000202,Guest 0007,623,39532,2025-03-23,453.23,7209,American Express,Matched,False,False,False,Valid
+TXN000162,Guest 0196,374,32219,2025-03-01,131.84,6411,Mastercard,Matched,False,False,False,Valid
+TXN001580,Guest 0063,370,36981,2025-02-24,302.74,7021,Mastercard,Matched,False,False,False,Valid
+TXN000730,Guest 0370,565,33146,2025-03-01,251.1,1574,Mastercard,Matched,False,False,False,Valid
+TXN000402,Guest 0454,183,37615,2025-03-11,120.55,2047,Visa,Matched,False,False,False,Valid
+TXN000703,Guest 0177,481,35254,2025-01-16,470.44,1067,Mastercard,Matched,False,False,False,Valid
+TXN001501,Guest 0049,762,38579,2025-02-17,245.46,3180,Mastercard,Matched,False,False,False,Valid
+TXN001846,Guest 0382,213,33460,2025-02-25,838.55,9512,Visa,Matched,False,False,False,Valid
+TXN001796,Guest 0221,243,34000,2025-01-19,450.87,7153,Mastercard,Matched,False,False,False,Valid
+TXN001130,Guest 0634,523,39733,2025-02-28,291.74,1253,Visa,Unmatched,False,False,False,Valid
+TXN000566,Guest 0346,337,32756,2025-01-22,726.15,4694,Visa,Matched,False,False,False,Valid
+TXN001414,Guest 0076,724,33312,2025-03-13,192.55,8851,Mastercard,Matched,False,False,False,Valid
+TXN001022,Guest 0105,424,39590,2025-01-07,797.22,3527,Visa,Matched,False,False,False,Valid
+TXN001026,Guest 0502,184,39879,2025-01-06,598.82,9443,Visa,Matched,False,False,False,Valid
+TXN001412,Guest 0790,428,31531,2025-02-20,512.53,7987,Mastercard,Matched,False,False,False,Valid
+TXN001896,Guest 0744,659,30911,2025-03-18,824.53,8638,Visa,Pending,False,False,False,Valid
+TXN001586,Guest 0174,618,30232,2025-01-29,330.46,3392,Visa,Pending,False,False,False,Valid
+TXN001105,Guest 0561,177,32815,2025-01-28,205.13,3789,American Express,Matched,False,False,False,Valid
+TXN000206,Guest 0639,665,39593,2025-01-24,602.4,2830,Visa,Matched,False,False,False,Valid
+TXN000035,Guest 0789,398,32487,2025-03-21,281.24,0236,Mastercard,Matched,False,False,False,Valid
+TXN000776,Guest 0242,132,39445,2025-03-27,316.79,8543,Mastercard,Unmatched,False,False,False,Valid
+TXN000509,Guest 0326,286,36747,2025-01-25,879.89,8423,American Express,Matched,False,False,False,Valid
+TXN001452,Guest 0045,618,37993,2025-01-04,414.22,3949,Visa,Matched,False,False,False,Valid
+TXN001479,Guest 0328,166,37940,2025-01-21,223.96,3496,Visa,Matched,False,False,False,Valid
+TXN001986,Guest 0272,317,30806,2025-03-13,856.45,2320,American Express,Matched,False,False,False,Valid
+TXN001391,Guest 0203,226,39908,2025-01-28,626.88,3668,Visa,Matched,False,False,False,Valid
+TXN000092,Guest 0262,130,39754,2025-03-14,223.78,0650,Mastercard,Matched,False,False,False,Valid
+TXN001364,Guest 0657,697,31710,2025-01-19,820.24,8540,Visa,Matched,False,False,False,Valid
+TXN000898,Guest 0501,508,33281,2025-01-05,214.73,5863,Visa,Matched,False,False,False,Valid
+TXN000565,Guest 0352,727,30343,2025-03-22,1190.46,4652,Mastercard,Matched,False,False,False,Valid
+TXN001370,Guest 0095,300,31844,2025-02-27,344.13,9770,Visa,Matched,False,False,False,Valid
+TXN000777,Guest 0418,335,35225,2025-02-08,311.99,2448,Visa,Matched,False,False,False,Valid
+TXN000242,Guest 0531,292,31621,2025-02-22,171.86,4247,Mastercard,Matched,False,False,False,Valid
+TXN000014,Guest 0738,442,35899,2025-03-10,374.7,5704,Visa,Matched,False,False,False,Valid
+TXN000316,Guest 0001,293,30569,2025-03-01,231.4,0313,Visa,Matched,False,False,False,Valid
+TXN000601,Guest 0691,791,31356,2025-02-25,269.24,6221,Visa,Matched,False,False,False,Valid
+TXN000388,Guest 0781,142,36999,2025-03-16,571.4,1670,Visa,Matched,False,False,False,Valid
+TXN001298,Guest 0727,565,32470,2025-03-02,391.81,5566,Visa,Matched,False,False,False,Valid
+TXN000167,Guest 0253,424,33025,2025-01-29,228.45,2753,Mastercard,Pending,False,False,False,Valid
+TXN000841,Guest 0351,634,32833,2025-01-27,250.17,0623,American Express,Matched,False,False,False,Valid
+TXN000021,Guest 0243,193,32580,2025-02-15,202.59,8796,Visa,Matched,False,False,False,Valid
+TXN000647,Guest 0455,622,31417,2025-02-11,1187.46,8432,Mastercard,Matched,False,False,False,Valid
+TXN001843,Guest 0448,488,38647,2025-03-15,551.96,7038,Visa,Matched,False,False,False,Valid
+TXN001509,Guest 0047,497,36310,2025-03-19,624.4,2745,American Express,Unmatched,False,False,False,Valid
+TXN001155,Guest 0055,660,34222,2025-01-28,260.6,3704,Visa,Matched,False,False,False,Valid
+TXN001529,Guest 0150,119,38032,2025-01-02,322.43,3978,Visa,Matched,False,False,False,Valid
+TXN000832,Guest 0637,175,32320,2025-01-22,434.3,2495,Visa,Matched,False,False,False,Valid
+TXN001268,Guest 0553,541,34156,2025-02-03,401.89,2226,Visa,Pending,False,False,False,Valid
+TXN001591,Guest 0090,158,31189,2025-03-08,663.68,6016,American Express,Unmatched,False,False,False,Valid
+TXN001900,Guest 0740,712,32953,2025-01-31,410.57,7431,Mastercard,Matched,False,False,False,Valid
+TXN000563,Guest 0534,115,34745,2025-02-14,525.24,2682,Visa,Matched,False,False,False,Valid
+TXN001967,Guest 0629,602,32099,2025-02-03,220.6,5317,Visa,Matched,False,False,False,Valid
+TXN000687,Guest 0196,763,31918,2025-02-06,676.15,3771,Visa,Matched,False,False,False,Valid
+TXN000958,Guest 0390,361,39321,2025-02-27,467.58,0836,Mastercard,Matched,False,False,False,Valid
+TXN000190,Guest 0469,730,34654,2025-01-28,699.06,6501,Mastercard,Matched,False,False,False,Valid
+TXN001807,Guest 0083,399,32351,2025-01-01,194.49,4284,American Express,Matched,False,False,False,Valid
+TXN000976,Guest 0376,662,37461,2025-01-21,382.56,5056,Visa,Pending,False,False,False,Valid
+TXN000700,Guest 0095,117,33927,2025-01-09,909.94,1610,American Express,Pending,False,False,False,Valid
+TXN001500,Guest 0360,124,32002,2025-03-17,453.46,4072,Mastercard,Pending,False,False,False,Valid
+TXN001706,Guest 0401,670,33667,2025-03-19,990.26,3171,Visa,Unmatched,False,False,False,Valid
+TXN000511,Guest 0160,310,32759,2025-03-31,545.6,0768,Visa,Matched,False,False,False,Valid
+TXN001083,Guest 0222,101,37325,2025-03-28,189.01,4072,Mastercard,Unmatched,False,False,False,Valid
+TXN000475,Guest 0084,695,32416,2025-02-27,578.91,2688,Visa,Matched,False,False,False,Valid
+TXN001585,Guest 0603,422,30093,2025-02-27,397.79,1402,Mastercard,Matched,False,False,False,Valid
+TXN000857,Guest 0455,692,36919,2025-01-23,865.34,4226,Mastercard,Matched,False,False,False,Valid
+TXN000748,Guest 0648,276,31631,2025-01-29,425.77,0801,Visa,Matched,False,False,False,Valid
+TXN000253,Guest 0195,786,32753,2025-01-17,214.35,5912,Mastercard,Matched,False,False,False,Valid
+TXN000022,Guest 0528,134,32929,2025-02-03,294.26,4031,Visa,Matched,False,False,False,Valid
+TXN001338,Guest 0041,502,33799,2025-01-27,481.69,4494,Visa,Matched,False,False,False,Valid
+TXN000460,Guest 0048,557,34835,2025-01-10,404.02,7697,Mastercard,Matched,False,False,False,Valid
+TXN001185,Guest 0504,646,32298,2025-02-07,213.34,7490,Visa,Matched,False,False,False,Valid
+TXN000277,Guest 0168,148,30712,2025-02-12,438.82,7815,Visa,Matched,False,False,False,Valid
+TXN000956,Guest 0796,235,39090,2025-02-24,589.7,5129,Mastercard,Matched,False,False,False,Valid
+TXN001216,Guest 0212,263,32464,2025-01-11,425.99,7880,American Express,Matched,False,False,False,Valid
+TXN000386,Guest 0701,605,35534,2025-01-12,902.11,7916,Visa,Matched,False,False,False,Valid
+TXN000806,Guest 0776,627,35234,2025-03-12,274.36,2735,Visa,Matched,False,False,False,Valid
+TXN001438,Guest 0527,109,39346,2025-02-28,308.73,3919,Mastercard,Pending,False,False,False,Valid
+TXN001516,Guest 0778,589,32781,2025-03-25,436.13,4243,American Express,Matched,False,False,False,Valid
+TXN000344,Guest 0591,280,36719,2025-02-16,351.29,5650,American Express,Matched,False,False,False,Valid
+TXN000770,Guest 0767,134,32026,2025-02-03,691.87,3885,Mastercard,Matched,False,False,False,Valid
+TXN001333,Guest 0199,374,33396,2025-02-08,711.15,4057,Visa,Matched,False,False,False,Valid
+TXN001686,Guest 0124,407,36526,2025-02-16,553.48,2100,Mastercard,Matched,False,False,False,Valid
+TXN000131,Guest 0575,106,30710,2025-02-20,304.52,4725,Visa,Matched,False,False,False,Valid
+TXN001688,Guest 0753,272,36081,2025-02-06,531.74,1544,Mastercard,Matched,False,False,False,Valid
+TXN000872,Guest 0781,769,35619,2025-01-19,453.67,2545,Mastercard,Matched,False,False,False,Valid
+TXN001124,Guest 0491,575,35039,2025-01-22,700.17,5094,Visa,Matched,False,False,False,Valid
+TXN001397,Guest 0364,760,34834,2025-02-25,1024.21,1124,Mastercard,Matched,False,False,False,Valid
+TXN000088,Guest 0531,750,34473,2025-01-29,306.94,9724,Mastercard,Matched,False,False,False,Valid
+TXN001483,Guest 0637,311,34631,2025-01-27,1077.53,0748,American Express,Matched,False,False,False,Valid
+TXN000331,Guest 0053,230,30647,2025-02-19,426.96,6649,Visa,Matched,False,False,False,Valid
+TXN001239,Guest 0707,739,32844,2025-01-27,1066.24,0110,Visa,Matched,False,False,False,Valid
+TXN000467,Guest 0241,659,33664,2025-01-15,721.7,9970,Mastercard,Matched,False,False,False,Valid
+TXN000122,Guest 0763,761,35977,2025-03-02,496.72,3826,Mastercard,Matched,False,False,False,Valid
+TXN001639,Guest 0067,176,38003,2025-01-17,1144.67,5251,Mastercard,Pending,False,False,False,Valid
+TXN001045,Guest 0152,665,38418,2025-03-05,427.27,2676,American Express,Matched,False,False,False,Valid
+TXN001725,Guest 0008,251,38874,2025-02-18,97.07,4212,Visa,Matched,False,False,False,Valid
+TXN001096,Guest 0602,221,39976,2025-01-08,564.34,0933,Visa,Matched,False,False,False,Valid
+TXN001131,Guest 0288,326,33210,2025-02-06,179.78,3013,Mastercard,Matched,False,False,False,Valid
+TXN001295,Guest 0154,745,32368,2025-03-27,266.49,4963,Mastercard,Unmatched,False,False,False,Valid
+TXN000861,Guest 0155,142,37272,2025-03-29,195.59,0984,Visa,Matched,False,False,False,Valid
+TXN001460,Guest 0318,725,37569,2025-02-16,1209.63,3806,Visa,Matched,False,False,False,Valid
+TXN001127,Guest 0666,274,38882,2025-03-18,778.71,1818,Mastercard,Matched,False,False,False,Valid
